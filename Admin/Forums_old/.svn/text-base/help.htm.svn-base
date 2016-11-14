@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title>Untitled</title>
+<LINK REL=stylesheet HREF="../style.css" TYPE="text/css">
+</head>
+
+<body>
+<table width="80%" align="center">
+<tr>
+<td>
+<strong>Introduction:</strong>
+<br><br>
+Congratulations on choosing BSO Forums! They are designed to be easy to use to encourage new users to participate. Please read the guidelines below before you begin.
+<br><br><br>
+<strong>General Usage:</strong>
+<br><br>
+The Forums are arranged into 3 levels: Topics, Threads and Messages. A topic is a topic of discussion. A thread is a thread of discussion within a topic.  A message is a posting by any individual within a thread. So the 3 levels represent a one-to-many hierarchy. A topic may be the parent of many threads, but a thread may only have one parent topic. Likewise, a thread may contain many messages, but each message only belongs to one thread.
+<br><br>
+Any user may start a new topic; likewise they may start a new thread. Any user may post a new message within any thread. 
+<br><br>
+Any user can edit an existing message provided he or she is the author of the message.
+<br><br>
+As of now the Forums <strong>DO NOT INCLUDE</strong> any of the following features:
+<ul>
+<li>New user registration/sign up</li>
+<li>Ability to edit/update user information</li>
+<li>The ability for users to subscribe to a thread, where they receive email notification of new postings.</li>
+<li>The ability to create private threads or topics, where only certain users can participate. If a user is logged in, they may post anywhere on the forums.</li>
+</ul><br>
+... These features are excluded because the forums are designed to be simple and to encourage participation.
+<br><br><br>
+<strong>Administrative Usage:</strong>
+<br><br>
+If you log into the Administrative Area, the forums are almost identical, except that the Administrative user may edit or delete any topic, and thread, or any message. 
+<br><br>
+The administrative area is located at the URL of the forums, in the /admin/ directory. E.g. if the forums are located at http://www.url.com/forums, then the Administrative Area is located at http://www.url.com/forums/admin. The Administrator has full control over the forums and the password for the Administrative Area should be kept secret.
+<br><br><br>
+<!----
+<strong>Database Integration - Technical Notes</strong>
+<br><br>
+The Forums are designed to work with a variety of existing member databases, and are especially useful for identifying members who are already logged into a private area of the site. Initial configuration is necessary for this to work properly. A generic login form is also provided for users who go straight to the forums without logging in elsewhere first.
+<br><br>
+There are some general compatibility rules for the login databases:
+<ul>
+<li>There must be a first and last name, a unique ID, and an email address for all users. </li>
+<li>The database must be ODBC compliant (MS Access is a good choice)</li>
+<li>The unique ID must be an integer</li>
+</ul><br>
+The login can use either cookies or session variables.
+<br><br><br><br>
+--->
+</td>
+</tr>
+</table>
+
+</body>
+</html>

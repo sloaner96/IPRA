@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /members/
+Disallow: /images/
+Disallow: /Forms/
+Disallow: /Logs/
+Disallow: /Stats/

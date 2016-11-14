@@ -1,0 +1,985 @@
+<cfcomponent displayname="Career" output="Yes">
+		
+
+		<cfset instance = StructNew()>
+		
+		<cfset Instance.IpraDSN = "ILIPRA">
+		
+		
+	    <cfset Instance.mailserver = "mail.ilipra.org">
+		<cfset Instance.MailUser = "webuser">
+		<cfset Instance.MailPassword = "********">
+		
+
+		<cfset Instance.Lock = "career_lock">
+		
+
+		<cfset init()> 
+		
+
+		<cffunction name="init" returnType="Void" access="Private">
+		  <cfset Initialized = True>
+		</cffunction>
+		<!--- ////// Admin SECTION /////////// --->
+			<cffunction name="getUnApproved" access="Public" returntype="Query">
+				
+				<cfset var unr = "">
+				<cfquery name="unr" datasource="#instance.IPRADSN#">
+			      Select M.ResumeID, M.ResumeTitle, C.MemberID, C.Firstname, C.LastName, M.DateAdded, M.lastupdated
+				  From ResumeMaster M, ResuContact C
+				  Where M.ContactID = C.ContactID
+				  AND M.Status = 0
+				  AND M.Viewable = 1
+				  Order By M.DateAdded Desc, C.Lastname
+			    </cfquery> 
+				<cfreturn unr />
+			</cffunction> 
+			
+			<cffunction name="getSearchPassword" access="Public" returntype="Query">
+				<cfargument name="username" type="string" required="YES">
+				<cfargument name="AgencyName" type="string" required="YES">
+				
+				<cfset var pfind = "">
+				<cfquery name="pfind" datasource="#instance.IPRADSN#">
+			      Select Username, Password, ContactName, ContactEmail
+				  From jobPostings
+				  Where agencyName = '#Arguments.AgencyName#'
+				  AND username = '#arguments.username#'
+			    </cfquery> 
+				<cfreturn pfind />
+			</cffunction> 
+			
+			<cffunction name="getResumePassword" access="Public" returntype="Query">
+				<cfargument name="username" type="string" required="YES">
+				<cfargument name="lastname" type="string" required="YES">
+				
+				<cfset var prfind = "">
+				<cfquery name="prfind" datasource="#instance.IPRADSN#">
+			      Select Username, Password, Firstname, Lastname, Email
+				  From resuContact
+				  Where lastname = '#Arguments.lastname#'
+				  AND username = '#arguments.username#'
+			    </cfquery> 
+				<cfreturn prfind />
+			</cffunction> 
+			
+			
+		    <cffunction name="sendPassword" access="Public" returntype="void">
+		      <cfargument name="sendtoname" type="string" required="YES">
+			  <cfargument name="username" type="string" required="YES">
+			  <cfargument name="password" type="string" required="YES">
+			  <cfargument name="email" type="string" required="YES">
+			  
+			
+			<cfmail to="#arguments.email#" from="webmaster@ilipra.org" subject="Your ILIPRA.ORG Password" server="#Instance.mailserver#" username="#Instance.MailUser#" password="#Instance.MailPassword#">
+#arguments.sendtoname#,
+
+Below is the password you requested for the Job Opportunities Bulletin.
+
+Username: #arguments.username#
+Password: #arguments.Password#
+
+
+IPRA Careers Coordinator
+
+
+*********************************************************
+This email was automatically generated, 
+please do not respond to it.
+**********************************************************
+</cfmail>
+			
+			
+		    </cffunction>
+			
+			<cffunction name="ApproveResume" access="Public" returntype="void">
+				<cfargument name="ResumeID" type="Numeric" required="YES">
+				<cfargument name="Status" type="Numeric" required="YES">
+				<cfargument name="RejectReason" type="string" required="NO">
+				
+				
+				<cfquery name="unr" datasource="#instance.IPRADSN#">
+			     Update ResumeMaster
+				  SET Status = #Arguments.Status#,
+				      Viewable = <cfif arguments.status EQ 2>0<cfelse>1</cfif>
+				  Where ResumeID = #Arguments.ResumeID#
+			    </cfquery> 
+				
+				<cfif Arguments.Status EQ 1>
+				   <cfset sendEmail = this.sendApprovedEmail(Arguments.ResumeID)>
+				<cfelseif Arguments.Status EQ 2>
+				   <cfset sendEmail = this.sendRejectEmail(Arguments.ResumeID, Arguments.RejectReason)>
+				</cfif>
+			</cffunction> 
+			
+			<cffunction name="sendApprovedEmail" access="Public" returntype="void">
+		      <cfargument name="ResumeID" type="Numeric" required="YES">
+			  
+			  <cfset Var getResume =  this.getFullResume(Arguments.ResumeID)>	
+			
+			<cfmail to="#getResume.email#" from="webmaster@ilipra.org" subject="Your Resume at ILIPRA.ORG has been Approved" server="#Instance.mailserver#" username="#Instance.MailUser#" password="#Instance.MailPassword#">
+#getResume.Firstname# #getResume.lastname#,
+
+Congratulations! Your resume has been approved for inclusion into the IPRA resume bank. You can now login and apply for job posted on the Job Opportunities Bulletin.   
+
+To login to the system you must go to the special login area located at http://www.ilipra.org/Careers/Resume/ . This will be your login area using the following username and password.
+
+Username: #getResume.username#
+Password: #getResume.Password#
+
+Once you login you will be able to maintain your resume, as well as apply for jobs in the Job Opportunities Section. All from a click of the mouse. If you have any questions please contact IPRA at (630) 376-1911.
+
+Sincerely,
+
+
+IPRA Careers Coordinator
+
+
+*********************************************************
+This email was automatically generated, 
+please do not respond to it.
+**********************************************************
+</cfmail>
+			
+			
+		</cffunction>
+		
+		<cffunction name="sendRejectEmail" access="Public" returntype="void">
+		      <cfargument name="ResumeID" type="Numeric" required="YES">
+			  <cfargument name="RejectReason" type="string" required="YES">
+			  
+			  <cfset Var getResume =  this.getFullResume(Arguments.ResumeID)>	
+			
+			<cfmail to="#getResume.email#" from="webmaster@ilipra.org" subject="Your Resume at ILIPRA.ORG has been Rejected" server="#Instance.mailserver#" username="#Instance.MailUser#" password="#Instance.MailPassword#">
+#getResume.Firstname# #getResume.lastname#,
+
+We have found the following issue(s) with your resume. Please correct these problems and resubmit your resume for inclusion into the resume bank.
+
+ISSUE:
+#Arguments.RejectReason#   
+
+To login to the system you must go to the special login area located at http://www.ilipra.org/Careers/Resume/ .
+
+Username: #getResume.username#
+Password: #getResume.Password#
+
+Sincerely,
+
+
+IPRA Careers Coordinator
+
+
+*********************************************************
+This email was automatically generated, 
+please do not respond to it.
+**********************************************************
+</cfmail>
+			
+			
+		</cffunction>
+        <!--- ///// RESUME SECTION //////////// --->
+		    <cffunction name="getFullResume" access="Public" returntype="Query">
+			    <cfargument name="ResumeID" type="numeric" required="YES">
+				
+				<cfquery name="gResume" datasource="#instance.IPRADSN#">
+			      Select M.*, C.*
+				  From ResumeMaster M, ResuContact C
+				  Where M.ContactID = C.ContactID
+				  AND M.ResumeID = #Arguments.ResumeID# 
+			    </cfquery> 
+				<cfreturn gResume />
+			</cffunction> 
+			
+			<cffunction name="getResume" access="Public" returntype="Query">
+			    <cfargument name="ContactID" type="numeric" required="YES">
+				
+				<cfquery name="gResume" datasource="#instance.IPRADSN#">
+			      Select *
+				  From ResumeMaster
+				   Where ContactID = #arguments.ContactID#
+				   
+			    </cfquery> 
+				<cfreturn gResume />
+			</cffunction> 
+			
+			<cffunction name="getJobCat" access="Public" returntype="Query">
+			  <cfargument name="CatID" type="string" required="NO">	
+			  
+				<cfset var getCat = "">
+				<cfquery name="getCat" datasource="#instance.IPRADSN#">
+			      Select CodeValue as CatID, CodeDesc as CatDesc
+				  From Lookup
+				   Where CodeGroup = 'JOBCAT'
+				   <!--- AND CodeValue <= 7 --->
+				   <cfif IsDefined("arguments.CatID")>
+				    AND CodeValue = '#Arguments.CatID#'
+				   </cfif>
+				   Order By CodeDesc, CodeValue
+			    </cfquery> 
+				
+				<cfreturn getCat />
+			</cffunction> 
+			
+			<cffunction name="CreateMasterRec" access="Public" returntype="void">
+			    <cfargument name="ContactID" type="numeric" required="YES">
+				<cfargument name="ResumeTitle" type="string" required="YES">
+				<cfargument name="Category" type="string" required="YES">
+				<cfargument name="SalaryRange" type="string" required="NO">
+				<cfargument name="Objective" type="string" required="NO">
+				
+				
+				<cfquery name="CreateMaster" datasource="#instance.IPRADSN#">
+			      Insert Into ResumeMaster(
+				    ContactID,
+					Status,
+					ResumeTitle,
+					ResumeCat,
+					SalaryRange,
+					ObjectiveText,
+					Viewable,
+					TimesViewed,
+					DateAdded
+				  )
+				  Values(
+				    #Arguments.ContactID#,
+					0,
+					'#Arguments.ResumeTitle#',
+					'#Arguments.Category#',
+					<cfif IsDefined("Arguments.SalaryRange")>'#Arguments.SalaryRange#'<cfelse>NULL</cfif>,
+					<cfif IsDefined("Arguments.Objective")>'#Arguments.Objective#'<cfelse>NULL</cfif>,
+					0,
+					0,
+					#CreateODBCDateTime(Now())#
+				  ) 
+			    </cfquery> 
+			</cffunction> 
+		    
+			<cffunction name="UpdMasterRec" access="Public" returntype="void">
+			    <cfargument name="ResumeID" type="numeric" required="YES">
+				<cfargument name="ResumeStatus" type="Numeric" required="YES">
+				<cfargument name="ResumeTitle" type="string" required="YES">
+				<cfargument name="Category" type="string" required="YES">
+				<cfargument name="SalaryRange" type="string" required="NO">
+				<cfargument name="Objective" type="string" required="NO">
+				
+				
+				<cfquery name="UPDMaster" datasource="#instance.IPRADSN#">
+			      Update ResumeMaster
+				   SET viewable = #Arguments.ResumeStatus#,
+					   ResumeTitle = '#Arguments.ResumeTitle#',
+					   ResumeCat = '#Arguments.Category#',
+					   SalaryRange = <cfif IsDefined("Arguments.SalaryRange")>'#Arguments.SalaryRange#'<cfelse>NULL</cfif>,
+					   ObjectiveText = <cfif IsDefined("Arguments.Objective")>'#Arguments.Objective#'<cfelse>NULL</cfif>,
+					   LastUpdated = #CreateODBCDateTime(Now())#,
+					   status = 0
+				 Where ResumeID = #Arguments.ResumeID#
+			    </cfquery> 
+			</cffunction>  
+			
+			<cffunction name="ActivateResume" access="Public" returntype="void">
+			    <cfargument name="ResumeID" type="numeric" required="YES">
+				
+				<cfquery name="UPDMaster" datasource="#instance.IPRADSN#">
+			      Update ResumeMaster
+				   SET viewable = 1
+				 Where ResumeID = #Arguments.ResumeID#
+			    </cfquery> 
+			</cffunction>  
+
+			
+			<cffunction name="UpdCoverLetter" access="Public" returntype="void">
+			    <cfargument name="ResumeID" type="numeric" required="YES">
+				<cfargument name="CoverLetterTxt" type="string" required="YES">
+
+				<cfquery name="UpdCV" datasource="#instance.IPRADSN#">
+			      Update ResumeMaster
+				   SET CoverLetterText = '#Arguments.CoverLetterTxt#',
+					   LastUpdated = #CreateODBCDateTime(Now())#
+				 Where ResumeID = #Arguments.ResumeID#
+			    </cfquery> 
+			</cffunction>  
+			
+			<cffunction name="UpdCerts" access="Public" returntype="void">
+			    <cfargument name="ResumeID" type="numeric" required="YES">
+				<cfargument name="CertTxt" type="string" required="YES">
+
+				<cfquery name="UpdCT" datasource="#instance.IPRADSN#">
+			      Update ResumeMaster
+				   SET Certifications = '#Arguments.CertTxt#',
+					   LastUpdated = #CreateODBCDateTime(Now())#
+				 Where ResumeID = #Arguments.ResumeID#
+			    </cfquery> 
+			</cffunction>  
+			
+			<cffunction name="UpdAdditionalInfo" access="Public" returntype="void">
+			    <cfargument name="ResumeID" type="numeric" required="YES">
+				<cfargument name="additionalInfoTxt" type="string" required="YES">
+
+				<cfquery name="UpdAI" datasource="#instance.IPRADSN#">
+			      Update ResumeMaster
+				   SET AdditionalInfo = '#Arguments.additionalInfoTxt#',
+					   LastUpdated = #CreateODBCDateTime(Now())#
+				 Where ResumeID = #Arguments.ResumeID#
+			    </cfquery> 
+			</cffunction>  
+			
+			<cffunction name="InsertWorkHistory" access="Public" returntype="void">
+			    <cfargument name="ResumeID" type="numeric" required="YES">
+				<cfargument name="CompanyName" type="string" required="YES">
+				<cfargument name="JobTitle" type="string" required="YES">
+                <cfargument name="WorkFrom" type="string" required="YES">
+				<cfargument name="WorkTo" type="string" required="YES">
+				<cfargument name="WorkLocation" type="string" required="YES">
+				<cfargument name="WorkHistory" type="string" required="YES">
+				 
+				<cfquery name="CreateWorkHistory" datasource="#instance.IPRADSN#">
+			      Insert Into ResuWorkHistory(
+				     ResumeID,
+					 CompanyName,
+					 JobTitle,
+					 WorkFrom,
+					 WorkTo,
+					 WorkLocation,
+					 WorkHistory,
+					 DateAdded
+					 )
+				  VALUES(
+				    #Arguments.ResumeID#,
+					'#Arguments.CompanyName#',
+					'#Arguments.JobTitle#',
+					'#Arguments.WorkFrom#',
+					'#Arguments.WorkTo#',
+					'#Arguments.WorkLocation#',
+					'#Arguments.WorkHistory#',
+					#CreateODBCDateTime(now())#
+				  )
+			    </cfquery> 
+			</cffunction>
+			
+			<cffunction name="UpdWorkHistory" access="Public" returntype="void">
+			    <cfargument name="WorkHistoryID" type="numeric" required="YES">
+				<cfargument name="ResumeID" type="numeric" required="YES">
+				<cfargument name="CompanyName" type="string" required="YES">
+				<cfargument name="JobTitle" type="string" required="YES">
+                <cfargument name="WorkFrom" type="string" required="YES">
+				<cfargument name="WorkTo" type="string" required="YES">
+				<cfargument name="WorkLocation" type="string" required="YES">
+				<cfargument name="WorkHistory" type="string" required="YES">
+
+				<cfquery name="UpdWorkHistory" datasource="#instance.IPRADSN#">
+			      Update ResuWorkHistory
+				    Set ResumeID    = #Arguments.ResumeID#,
+					    CompanyName = '#Arguments.CompanyName#',
+						JobTitle   = '#Arguments.JobTitle#',
+					    WorkFrom    = '#Arguments.WorkFrom#',
+					    WorkTo      = '#Arguments.WorkTo#',
+					    WorkLocation = '#Arguments.WorkLocation#',
+					    WorkHistory = '#Arguments.WorkHistory#',
+	                    LastUpdated = #CreateODBCDateTime(now())#
+                  Where WorkHistoryID = #Arguments.WorkHistoryID#
+				</cfquery>  
+			</cffunction>
+			
+			<cffunction name="DelWorkHistory" access="Public" returntype="void">
+			    <cfargument name="WorkHistoryID" type="numeric" required="YES">
+				<cfargument name="ResumeID" type="numeric" required="YES">
+
+				<cfquery name="UpdWorkHistory" datasource="#instance.IPRADSN#">
+			      Delete From ResuWorkHistory
+                  Where WorkHistoryID = #Arguments.WorkHistoryID#
+				  AND ResumeID    = #Arguments.ResumeID#
+				</cfquery>  
+			</cffunction>
+			
+			<cffunction name="getWorkHistory" access="Public" returntype="query">
+				<cfargument name="WorkHistoryID" type="numeric" required="YES">
+                
+				<cfset var getHistory = "">  
+				<cfquery name="getHistory" datasource="#instance.IPRADSN#">
+			      Select *
+				  From ResuWorkHistory
+                  Where WorkHistoryID = #Arguments.WorkHistoryID#
+				  Order By WorkFrom, WorkTo, CompanyName
+				</cfquery>  
+				
+				<cfreturn getHistory />
+			</cffunction>
+			
+			<cffunction name="getallWorkHistory" access="Public" returntype="query">
+				<cfargument name="ResumeID" type="numeric" required="YES">
+                
+				<cfset var getAllHistory = "">  
+				<cfquery name="getAllHistory" datasource="#instance.IPRADSN#">
+			      Select *
+				  From ResuWorkHistory
+                  Where ResumeID = #Arguments.ResumeID#
+				  Order By WorkFrom, WorkTo, CompanyName
+				</cfquery>  
+				
+				<cfreturn getAllHistory />
+			</cffunction>
+			
+			<cffunction name="GetDegree" access="Public" returntype="query">
+                
+				<cfset var getDegreeQry = "">
+				<cfquery name="getDegreeQry" datasource="#instance.IPRADSN#">
+			      Select *
+				  From Lookup
+				  Where CodeGroup = 'DEGREE'
+				  order By Ranking, CodeValue, CodeDesc
+			    </cfquery> 
+				
+				<cfreturn getDegreeQry />
+			</cffunction>
+			
+			<cffunction name="GetAllEduc" access="Public" returntype="query">
+			    <cfargument name="ResumeID" type="numeric" required="YES">
+                
+				<cfset var getAllEduc = "">
+				<cfquery name="getAllEduc" datasource="#instance.IPRADSN#">
+			      Select *,
+				    (Select codeDesc
+					  From Lookup
+					  Where codegroup = 'DEGREE'
+					  AND Codevalue = E.Degree) as Degreetext
+				  From resuEducation E
+				  Where ResumeID = #Arguments.ResumeID#
+				  order By GraduationYr, DateAdded
+			    </cfquery> 
+				
+				<cfreturn getAllEduc />
+			</cffunction>
+			
+			<cffunction name="GetThisEduc" access="Public" returntype="query">
+			    <cfargument name="EducID" type="numeric" required="YES">
+                
+				<cfset var getEduc = "">
+				<cfquery name="getEduc" datasource="#instance.IPRADSN#">
+			      Select *
+				  From resuEducation
+				  Where EducationID = #Arguments.EducID#
+				  order By GraduationYr, DateAdded
+			    </cfquery> 
+				
+				<cfreturn getEduc />
+			</cffunction>
+			
+			<cffunction name="UpdEduc" access="Public" returntype="void">
+			    <cfargument name="EducID" type="numeric" required="YES">
+                <cfargument name="SchoolName" type="String" required="YES">
+                <cfargument name="Degree" type="string" required="YES">
+                <cfargument name="GradYear" type="String" required="NO">
+                <cfargument name="EducTxt" type="String" required="NO">
+                 
+				<cfquery name="UpdEdu" datasource="#instance.IPRADSN#">
+			      Update resuEducation
+				   SET SchoolName       = '#Arguments.SchoolName#',
+				       Degree           = '#Arguments.Degree#',
+					   GraduationYr     = <cfif IsDefined("Arguments.GradYear")>'#Arguments.GradYear#'<cfelse>NULL</cfif>,
+					   EducationComment = <cfif IsDefined("Arguments.EducTxt")>'#Arguments.EducTxt#'<cfelse>NULL</cfif>,
+					   LastUpdated = #CreateODBCDateTime(Now())#
+				 Where EducationID = #Arguments.EducID#
+			    </cfquery> 
+				
+			</cffunction>
+			
+			<cffunction name="InsertEduc" access="Public" returntype="void">
+			    <cfargument name="ResumeID" type="numeric" required="YES">
+                <cfargument name="SchoolName" type="String" required="YES">
+                <cfargument name="Degree" type="string" required="YES">
+                <cfargument name="GradYear" type="String" required="NO">
+                <cfargument name="EducTxt" type="String" required="NO">
+                  
+				<cfquery name="InsertEdu" datasource="#instance.IPRADSN#">
+			      Insert Into resuEducation(
+				       ResumeID,
+					   SchoolName, 
+					   Degree, 
+					   GraduationYr, 
+					   EducationComment, 
+					   DateAdded
+					   )
+				  Values (
+				       #Arguments.ResumeID#, 
+					   '#Arguments.SchoolName#',
+					   '#Arguments.Degree#',
+					   <cfif IsDefined("Arguments.GradYear")>'#Arguments.GradYear#'<cfelse>NULL</cfif>,
+					   <cfif IsDefined("Arguments.EducTxt")>'#Arguments.EducTxt#'<cfelse>NULL</cfif>,
+					   #CreateODBCDateTime(Now())#
+					   )
+			    </cfquery> 
+			</cffunction>
+			
+			
+			<cffunction name="DeleteEduc" access="Public" returntype="void">
+			    <cfargument name="EducID" type="numeric" required="YES">
+                <cfargument name="ResumeID" type="numeric" required="YES">
+                 
+                 
+				<cfquery name="DelEdu" datasource="#instance.IPRADSN#">
+			      Delete From resuEducation
+				 Where EducationID = #Arguments.EducID#
+				 AND   ResumeID = #Arguments.ResumeID#
+			    </cfquery> 
+				
+			</cffunction>
+         <!--- ////// Authentication SECTION ///////////// --->
+		<cffunction name="AuthenUser" access="public" returntype="query">
+		  <cfargument name="username" type="string" required="YES">
+		  <cfargument name="password" type="string" required="YES">
+		  
+		  <cfset var UserAuth = "">
+		  
+		  <cfquery name="UserAuth" datasource="#instance.IPRADSN#">
+		     Select *
+			 From resuContact
+			 Where username = '#arguments.username#'
+			 and password = '#arguments.password#'
+		  </cfquery> 	
+			
+		  <cfreturn UserAuth />	
+		  	
+		</cffunction> 
+		
+         <!--- ////// Contact SECTION /////////// --->
+		<cffunction name="checkContactDup" access="public" returntype="boolean">
+		  <cfargument name="Firstname" type="string" required="YES">
+		  <cfargument name="Lastname"  type="string" required="YES">
+		  <cfargument name="Email"     type="string" required="YES">
+		  
+		  <cfset isCDup = false>
+		  
+		  <cfquery name="chkcontactdup" datasource="#instance.IPRADSN#">
+		     Select Top 1 *
+			 From resuContact
+			 Where firstname = '#arguments.firstname#'
+			 AND Lastname = '#arguments.lastname#'
+			 AND email = '#arguments.Email#'
+		  </cfquery>  	
+		  
+		  <cfif chkcontactdup.recordcount GT 0>
+		    <cfset isCDup = true>
+		  </cfif>
+			
+		  <cfreturn isCDup />	
+		</cffunction> 
+		
+		<cffunction name="checkUsernameDup" access="Public" returntype="Boolean">
+		  <cfargument name="username" type="string" required="YES">
+		  
+		  <cfset isUDup = false>
+		  
+		  <cfquery name="chkuserdup" datasource="#instance.IPRADSN#">
+		     Select Top 1 *
+			 From resuContact
+			 Where username = '#arguments.username#'
+		  </cfquery> 	
+		  
+		  <cfif chkuserdup.recordcount GT 0>
+		    <cfset isUDup = true>
+		  </cfif>
+			
+		  <cfreturn isUDup />	
+		  	
+		</cffunction> 
+		
+		
+		<cffunction name="getContact" access="Public" returntype="Query">
+		    <cfargument name="ContactID" type="numeric" required="YES">
+			
+			<cfset var contactinfo = "">
+			
+			 <cfquery name="contactinfo" datasource="#instance.IPRADSN#">
+		       Select *
+			   From resuContact
+			   Where ContactID = #Arguments.contactID#
+		     </cfquery> 	
+			
+			<cfreturn contactinfo />
+		</cffunction> 
+		
+		<cffunction name="getMbrContact" access="Public" returntype="Query">
+		    <cfargument name="MemberID" type="numeric" required="YES">
+			
+			<cfset var contactinfo = "">
+			
+			 <cfquery name="contactinfo" datasource="#instance.IPRADSN#">
+		       Select *
+			   From resuContact
+			   Where MemberID = #Arguments.MemberID#
+		     </cfquery> 	
+			
+			<cfreturn contactinfo />
+		</cffunction> 
+		
+		<cffunction name="CreateContact" access="Public" returntype="numeric">
+		  <cfargument name="MemberID" required="NO" type="numeric">
+	      <cfargument name="firstname" required="YES" type="string">
+		  <cfargument name="lastname" required="YES" type="string">
+		  <cfargument name="MiddleInitial" required="NO" type="string">
+		  <cfargument name="Address1" required="NO" type="string">
+		  <cfargument name="Address2" required="NO" type="string">
+		  <cfargument name="City" required="NO" type="string">
+		  <cfargument name="State" required="NO" type="string">
+		  <cfargument name="ZipCode" required="NO" type="string">
+		  <cfargument name="HomePhone" required="NO" type="string">
+		  <cfargument name="WorkPhone" required="NO" type="string">
+		  <cfargument name="Mobile" required="NO" type="string">
+		  <cfargument name="Email" required="YES" type="string">
+		  <cfargument name="BestContact" required="YES" type="string">
+		  <cfargument name="Username" required="YES" type="string">
+		  <cfargument name="Password" required="YES" type="string">
+		  
+		  
+		  <cfquery name="insertContact" datasource="#Instance.IPRADSN#">
+		     Insert Into resuContact(
+			   MemberID,
+			   Firstname,
+			   Lastname,
+			   MiddleInitial,
+			   Address1,
+			   Address2,
+			   City,
+			   State,
+			   ZipCode,
+			   HomePhone,
+			   WorkPhone,
+			   Mobile,
+			   Email,
+			   BestContact,
+			   Username,
+			   Password,
+			   AgreedTerms,
+			   DateAdded,
+			   NumberLogins
+			 )
+		     VALUES(
+			   <cfif IsDefined("Arguments.MemberID")>#Arguments.MemberID#<cfelse>NULL</cfif>,
+			   <cfif IsDefined("Arguments.firstname")>'#Arguments.firstname#'<cfelse>NULL</cfif>,
+			   <cfif IsDefined("Arguments.lastname")>'#Arguments.lastname#'<cfelse>NULL</cfif>,
+			   <cfif IsDefined("Arguments.MiddleInitial")>'#Arguments.MiddleInitial#'<cfelse>NULL</cfif>,
+			   <cfif IsDefined("Arguments.address1")>'#Arguments.address1#'<cfelse>NULL</cfif>,
+			   <cfif IsDefined("Arguments.address2")>'#Arguments.address2#'<cfelse>NULL</cfif>,
+			   <cfif IsDefined("Arguments.city")>'#Arguments.city#'<cfelse>NULL</cfif>,
+			   <cfif IsDefined("Arguments.state")>'#Arguments.state#'<cfelse>NULL</cfif>,
+			   <cfif IsDefined("Arguments.zipcode")>'#Arguments.zipcode#'<cfelse>NULL</cfif>,
+			   <cfif IsDefined("Arguments.homephone")>'#Arguments.homephone#'<cfelse>NULL</cfif>,
+			   <cfif IsDefined("Arguments.workphone")>'#Arguments.workphone#'<cfelse>NULL</cfif>,
+			   <cfif IsDefined("Arguments.mobile")>'#Arguments.mobile#'<cfelse>NULL</cfif>,
+			   <cfif IsDefined("Arguments.email")>'#Arguments.email#'<cfelse>NULL</cfif>,
+			   <cfif IsDefined("Arguments.bestcontact")>'#Arguments.bestcontact#'<cfelse>NULL</cfif>,
+			   <cfif IsDefined("Arguments.username")>'#Arguments.username#'<cfelse>NULL</cfif>,
+			   <cfif IsDefined("Arguments.password")>'#Arguments.password#'<cfelse>NULL</cfif>,
+			   1,
+			   #CreateODBCDateTime(Now())#,
+			   0  
+			 )
+			 
+		  </cfquery>
+		  
+		  <cfquery name="getContact" datasource="#Instance.IPRADSN#">
+		     Select ContactID as NewID
+			 From resuContact
+			 where username = '#arguments.username#'
+			 AND password='#arguments.password#'
+		  </cfquery>
+		  
+		  <cfreturn getcontact.NewID />
+		</cffunction>
+		
+		<cffunction name="UpdateContact" access="Public" returntype="void">
+		  <cfargument name="ContactID" required="YES" type="numeric">
+	      <cfargument name="firstname" required="YES" type="string">
+		  <cfargument name="lastname" required="YES" type="string">
+		  <cfargument name="MiddleInitial" required="NO" type="string">
+		  <cfargument name="Address1" required="NO" type="string">
+		  <cfargument name="Address2" required="NO" type="string">
+		  <cfargument name="City" required="NO" type="string">
+		  <cfargument name="State" required="NO" type="string">
+		  <cfargument name="ZipCode" required="NO" type="string">
+		  <cfargument name="HomePhone" required="NO" type="string">
+		  <cfargument name="WorkPhone" required="NO" type="string">
+		  <cfargument name="Mobile" required="NO" type="string">
+		  <cfargument name="Email" required="YES" type="string">
+		  <cfargument name="BestContact" required="YES" type="string">
+		  <cfargument name="Username" required="NO" type="string">
+		  <cfargument name="Password" required="NO" type="string">
+		  
+		  
+		  <cfquery name="updateContact" datasource="#Instance.IPRADSN#">
+		     Update resuContact
+			   SET Firstname  = <cfif IsDefined("Arguments.firstname")>'#Arguments.firstname#'<cfelse>NULL</cfif>,
+			   Lastname       = <cfif IsDefined("Arguments.lastname")>'#Arguments.lastname#'<cfelse>NULL</cfif>,
+			   MiddleInitial  = <cfif IsDefined("Arguments.MiddleInitial")>'#Arguments.MiddleInitial#'<cfelse>NULL</cfif>,
+			   Address1       = <cfif IsDefined("Arguments.address1")>'#Arguments.address1#'<cfelse>NULL</cfif>,
+			   Address2       = <cfif IsDefined("Arguments.address2")>'#Arguments.address2#'<cfelse>NULL</cfif>,
+			   City           = <cfif IsDefined("Arguments.city")>'#Arguments.city#'<cfelse>NULL</cfif>,
+			   State          = <cfif IsDefined("Arguments.state")>'#Arguments.state#'<cfelse>NULL</cfif>,
+			   ZipCode        = <cfif IsDefined("Arguments.zipcode")>'#Arguments.zipcode#'<cfelse>NULL</cfif>,
+			   HomePhone      = <cfif IsDefined("Arguments.homephone")>'#Arguments.homephone#'<cfelse>NULL</cfif>,
+			   WorkPhone      = <cfif IsDefined("Arguments.workphone")>'#Arguments.workphone#'<cfelse>NULL</cfif>,
+			   Mobile         = <cfif IsDefined("Arguments.mobile")>'#Arguments.mobile#'<cfelse>NULL</cfif>,
+			   Email          = <cfif IsDefined("Arguments.email")>'#Arguments.email#'<cfelse>NULL</cfif>,
+			   BestContact    = <cfif IsDefined("Arguments.bestcontact")>'#Arguments.bestcontact#'<cfelse>NULL</cfif>,
+			   LastUpdated    = #CreateODBCDateTime(Now())#
+			WHERE ContactID = #Arguments.ContactID#
+		  </cfquery>
+		  
+		  
+		</cffunction>
+		
+		<cffunction name="SendConfirmEmail" access="Public" returntype="void">
+		    <cfargument name="email"     required="YES" type="string">
+		    <cfargument name="subject"   required="YES" type="string">
+			<cfargument name="firstname" required="YES" type="string">
+			<cfargument name="lastname"  required="YES" type="string">
+			<cfargument name="username"  required="YES" type="string">
+			<cfargument name="password"  required="YES" type="string">
+			
+<cfmail to="#Arguments.email#" from="webmaster@ilipra.org" subject="#arguments.subject#" server="#Instance.mailserver#" username="#Instance.MailUser#" password="#Instance.MailPassword#">
+Welcome to the IPRA Resume Builder #Arguments.Firstname# #Arguments.lastname#,
+
+You can now login to the IPRA Careers System and Create and Modify your resume. 
+
+To login to the system you must go to the special login area located at http://www.ilipra.org/AboutUs/Careers/ . This will be your login area using the following username and password.
+
+Username: #Arguments.username#
+Password: #Arguments.Password#
+
+Once you login you will be able to maintain your resume, as well as apply for jobs in the Job Opportunities Section. All from a click of the mouse. If you have any questions please contact IPRA at (630) 376-1911.
+
+Sincerely,
+
+
+IPRA Careers Coordinator
+
+
+*********************************************************
+This email was automatically generated, 
+please do not respond to it.
+**********************************************************
+</cfmail>
+			
+			
+		</cffunction>
+		
+		<!--- //////Resume Search SECTION////////// --->
+		
+		<cffunction name="SearchLogin" access="Public" returntype="query">
+		    <cfargument name="username" required="YES" type="string">
+		    <cfargument name="password" required="YES" type="string">
+			
+			<cfset var getjoblogin = "">
+			<cfquery name="getjoblogin" datasource="#Instance.IPRADSN#">
+		     Select Top 1 *
+			 From JobPostings
+			 Where RTrim(username) = '#arguments.username#'
+			 and Rtrim(password) = '#trim(arguments.Password)#'
+			 AND Approved = 1
+			 AND EndDate >= #createodbcdatetime(now())#
+		  </cfquery>
+			
+			<cfreturn getjoblogin />
+		</cffunction>
+		
+		
+		<cffunction name="setSearchLastLogin" access="Public" returntype="void">
+		    <cfargument name="JobID" required="YES" type="numeric">
+			
+			<cfquery name="UpdatePw" datasource="#Instance.IPRADSN#">
+		      Update JobPostings
+			     SET LastLogin = #CreateODBCDateTime(Now())#
+			  WHERE JobId = #Arguments.jobid#
+		    </cfquery>
+			
+		</cffunction>
+		
+		<cffunction name="ChangeSearchPassword" access="Public" returntype="void">
+		    <cfargument name="JobID" required="YES" type="numeric">
+		    <cfargument name="Username" required="YES" type="string">
+			<cfargument name="password" required="YES" type="string">
+			
+			<cfquery name="UpdatePw" datasource="#Instance.IPRADSN#">
+		      Update JobPostings
+			     SET password = '#arguments.password#'
+			  WHERE JobId = #Arguments.jobid#
+			  AND username = '#Arguments.username#'
+		    </cfquery>
+			
+		</cffunction>
+		
+		<cffunction name="searchResume" access="Public" returntype="query">
+		   <cfargument name="JobID" required="YES" type="numeric">
+		   <cfargument name="SearchTerm" required="NO" type="string">
+		   <cfargument name="SearchCat" required="NO" type="string">
+		   
+		   <cfset var srchjob ="">
+		   
+		   <cfif Not IsDefined("Arguments.SearchCat")>
+		     <cfsearch
+				   name = "srchjob"
+				   collection = "IPRARESUME"
+				   criteria = "#Trim(arguments.SearchTerm)#"
+				   contextpassages = "0"
+				   maxrows = "100"> 
+		    <cfelseif IsDefined("Arguments.SearchCat") AND Not IsDefined("arguments.SearchTerm")>	
+			   <cfsearch 
+			      collection="IPRARESUME" 
+				  name="srchjob" 
+				  category="#Arguments.SearchCat#" 
+				  contextpassages="0" 
+				  maxrows="100" 
+				  language="English">  
+			<cfelseif IsDefined("Arguments.SearchCat") AND IsDefined("arguments.SearchTerm")>	
+			   <cfsearch
+				   name = "srchjob"
+				   collection = "IPRARESUME"
+				   criteria = "#Trim(arguments.SearchTerm)#"
+				   contextpassages = "0"
+				   category="#Arguments.SearchCat#"
+				   maxrows = "100"> 	   	   
+		    </cfif>
+		   <cfreturn srchjob />	
+		</cffunction> 
+		
+		<cffunction name="ContactApplicant" access="Public" returntype="void">
+		    <cfargument name="senderemail" required="YES" type="string">
+		    <cfargument name="subject"   required="YES" type="string">
+			<cfargument name="firstname" required="YES" type="string">
+			<cfargument name="lastname"    required="YES" type="string">
+            <cfargument name="JobID"         required="YES" type="numeric">
+            <cfargument name="EmailContent"     required="YES" type="string">
+            
+			
+			<cfmail to="#Arguments.toemail#" from="#Arguments.senderEmail#" subject="Job Posting: #Arguments.JobID#" server="#Instance.mailserver#" username="#Instance.MailUser#" password="#Instance.MailPassword#">
+              #EmailContent#
+            </cfmail>
+			
+			
+		</cffunction>
+		
+		<cffunction name="setTimesViewed" access="public" returnType="Void">
+		  <cfargument name="resumeID" type="numeric" required="YES">
+		  <cfset var thisOldCount = 0>
+		  <cfset var newcount = 0>
+		  
+		  <cfset var thisresume = getFullResume(Arguments.ResumeID)>
+		  
+		  <cfif thisresume.recordcount GT 0>
+		    <cfset thisOldCount = thisresume.TimesViewed>
+			
+			<cfset newcount = thisOldCount + 1> 
+		  </cfif>
+		  
+		  <cfquery name="UpdateViews" datasource="#Instance.IPRADSN#">
+		    Update dbo.ResumeMaster
+			  Set TimesViewed = #newcount#
+			Where ResumeID = #Arguments.ResumeID#  
+		  </cfquery>  
+		</cffunction>
+		
+		<!--- ////// Apply for a Job SECTION////////// --->
+		
+		<cffunction name="getJobInfo" access="public" returnType="Query">
+		  <cfargument name="JobID" type="numeric" required="YES">
+		  
+		   <cfset var getJobs = "">
+		   <cfquery name="GetJobs" datasource="#Instance.IPRADSN#">
+			  Select J.*,
+			     (Select CodeDesc
+				   From Lookup
+				    Where CodeValue = J.JobType
+					AND CodeGroup = 'JobCat') as JobTypeDesc,
+				 (Select CodeDesc
+				   From Lookup
+				    Where CodeValue = J.Category
+					AND CodeGroup = 'OrderCat') as CatName
+			   From JobPostings J
+			   where JobID = <cfqueryparam value="#arguments.JobID#" cfsqltype="CF_SQL_INTEGER">
+			   Order By DateEntered Asc, JobTitle
+		   </cfquery>
+		   <cfreturn getJobs />
+		    
+		</cffunction>
+		
+		<cffunction name="checkApplied" access="public" returnType="Query">
+		  <cfargument name="JobID" type="numeric" required="YES">
+		  <cfargument name="resumeID" type="numeric" required="YES">
+		  
+		   <cfset var getApplied = "">
+		   
+		   <cfquery name="getApplied" datasource="#Instance.IPRADSN#">
+			  Select dateSent
+			  From resuApplicantTracking
+			  Where JobID = <cfqueryparam value="#arguments.JobID#" cfsqltype="CF_SQL_INTEGER">
+			  AND ResumeID = <cfqueryparam value="#arguments.ResumeID#" cfsqltype="CF_SQL_INTEGER">
+		   </cfquery>
+		   
+		   <cfreturn getApplied />
+		</cffunction>
+		
+		<cffunction name="SendApplication" access="public" returnType="void">
+		  <cfargument name="JobID" type="numeric" required="YES">
+		  <cfargument name="resumeID" type="numeric" required="YES">
+		  <cfargument name="CoverText" type="string" required="NO">
+		  <cfargument name="ResumeText" type="string" required="YES">
+		  <cfargument name="Emailaddr" type="string" required="YES">
+		  <cfargument name="subject" type="string" required="YES">
+		  
+<cfmail to="#Arguments.Emailaddr#" from="webmaster@ilipra.org" subject="#arguments.subject#" server="#Instance.mailserver#" username="#Instance.MailUser#" password="#Instance.MailPassword#">
+The following resume was submitted via the IPRA Job Opportunities Bulletin Online Application System.
+--------------------------------------------------------
+<cfif IsDefined("arguments.CoverText")>
+#Arguments.CoverText#
+</cfif>
+******* RESUME TEXT ********
+#Arguments.ResumeText#
+
+Sincerely,
+
+IPRA Careers Coordinator
+
+
+*********************************************************
+This email was automatically generated, 
+please do not respond to it.
+**********************************************************
+</cfmail>  
+		  <cfset setthisApplied = setApplied(arguments.JobID, arguments.resumeID)>  
+
+		   
+		</cffunction>
+		
+		<cffunction name="setApplied" access="public" returnType="void">
+		  <cfargument name="JobID" type="numeric" required="YES">
+		  <cfargument name="resumeID" type="numeric" required="YES">
+		  
+		   <cfset var setApply = "">
+		   
+		   <cfquery name="getApplied" datasource="#Instance.IPRADSN#">
+			  Insert into resuApplicantTracking(
+			         JobID, 
+				     ResumeID, 
+				     DateSent)
+			  Values(<cfqueryparam value="#arguments.JobID#" cfsqltype="CF_SQL_INTEGER">, 
+				     <cfqueryparam value="#arguments.ResumeID#" cfsqltype="CF_SQL_INTEGER">, 
+				     #CreateODBCDateTime(now())#)
+		   </cfquery>
+		   
+		</cffunction>
+		
+		<cffunction name="getApplied" access="public" returnType="query">
+		  <cfargument name="JobID" type="numeric" required="YES">
+		  
+		   <cfset var getApply = "">
+		   
+		   <cfquery name="getApply" datasource="#Instance.IPRADSN#">
+			  Select T.ResumeID, T.DateSent, M.ResumeTitle
+			  From resuApplicantTracking T, ResumeMaster M 
+			  Where T.ResumeID = M.ResumeID
+			  AND JobID = #Arguments.JobID#
+			  Order By T.DateSent Desc, ResumeTitle
+		   </cfquery>
+		   <cfreturn getApply />
+		</cffunction>
+</cfcomponent>		

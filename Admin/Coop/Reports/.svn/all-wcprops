@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Reports
+END
+WinningBidder_PDF.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Reports/WinningBidder_PDF.cfm
+END
+AgencyAddress.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Reports/AgencyAddress.cfm
+END
+ItemVotes.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Reports/ItemVotes.cfm
+END
+RejectedItems_PDF.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Reports/RejectedItems_PDF.cfm
+END
+ItemByAgency.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Reports/ItemByAgency.cfm
+END
+BidsByVendor_PDF.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Reports/BidsByVendor_PDF.cfm
+END
+RejectedItems.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Reports/RejectedItems.cfm
+END
+VendorBidSheets.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Reports/VendorBidSheets.cfm
+END
+InvoiceReport.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Reports/InvoiceReport.cfm
+END
+VendorOrder.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Reports/VendorOrder.cfm
+END
+BidsByVendor.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Reports/BidsByVendor.cfm
+END
+ItemBidders.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Reports/ItemBidders.cfm
+END
+OrderByAgency.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Reports/OrderByAgency.cfm
+END
+ItemBidder_PDF.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Reports/ItemBidder_PDF.cfm
+END
+VendorAddress.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Reports/VendorAddress.cfm
+END
+RegistrationReport.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Reports/RegistrationReport.cfm
+END
+PrintVendororder.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Reports/PrintVendororder.cfm
+END
+WinningBidders.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Reports/WinningBidders.cfm
+END
+Index.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Reports/Index.cfm
+END
+OrdersByItem.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Reports/OrdersByItem.cfm
+END
+ItemVotes_PDF.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Reports/ItemVotes_PDF.cfm
+END
+WinBidsByVendor.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Reports/WinBidsByVendor.cfm
+END
+ItemByAgency_PDF.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Reports/ItemByAgency_PDF.cfm
+END

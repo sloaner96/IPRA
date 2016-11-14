@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Products
+END
+productAction.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Products/productAction.cfm
+END
+ProdReports.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Products/ProdReports.cfm
+END
+PeriodUpdate.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Products/PeriodUpdate.cfm
+END
+EditProduct.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Products/EditProduct.cfm
+END
+AddProduct.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Products/AddProduct.cfm
+END
+ProductMaint.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Products/ProductMaint.cfm
+END

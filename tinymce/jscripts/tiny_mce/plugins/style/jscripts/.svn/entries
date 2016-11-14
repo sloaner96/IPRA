@@ -1,0 +1,40 @@
+8
+
+dir
+2
+http://svn.x2interweb.net/svn/ipra/trunk/tinymce/jscripts/tiny_mce/plugins/style/jscripts
+http://svn.x2interweb.net/svn/ipra
+
+
+
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+139329b2-1eba-436e-9e6a-ea0a2bdd368c
+
+props.js
+file
+
+
+
+
+2007-06-27T00:45:42.331517Z
+3084362cec073fb4eeee468226f26367
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+

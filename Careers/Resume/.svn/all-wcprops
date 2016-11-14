@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/ipra/!svn/ver/2/trunk/Careers/Resume
+END
+ViewResume.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ipra/!svn/ver/2/trunk/Careers/Resume/ViewResume.cfm
+END
+authenticate.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ipra/!svn/ver/2/trunk/Careers/Resume/authenticate.cfm
+END
+CreateContact.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ipra/!svn/ver/2/trunk/Careers/Resume/CreateContact.cfm
+END
+AddContact_action.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ipra/!svn/ver/2/trunk/Careers/Resume/AddContact_action.cfm
+END
+UpdateResume.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ipra/!svn/ver/2/trunk/Careers/Resume/UpdateResume.cfm
+END
+forgotpassword.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ipra/!svn/ver/2/trunk/Careers/Resume/forgotpassword.cfm
+END
+search.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ipra/!svn/ver/2/trunk/Careers/Resume/search.cfm
+END
+EditResume.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ipra/!svn/ver/2/trunk/Careers/Resume/EditResume.cfm
+END
+contactApplicant.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ipra/!svn/ver/2/trunk/Careers/Resume/contactApplicant.cfm
+END
+index.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ipra/!svn/ver/2/trunk/Careers/Resume/index.cfm
+END
+searchResults.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ipra/!svn/ver/2/trunk/Careers/Resume/searchResults.cfm
+END

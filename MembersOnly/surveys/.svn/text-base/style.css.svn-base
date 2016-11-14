@@ -1,0 +1,175 @@
+input 
+		{
+		font-family: verdana,geneva,arial,helvetica; 	
+		font-size: 11px;
+		color: #000000; 
+		}
+		
+select 
+		{
+		font-family: verdana,geneva,arial,helvetica; 	
+		font-size: 11px;
+		color: #000000; 
+		}
+
+body
+		{
+		font-family: verdana,geneva,arial,helvetica; 	
+		font-size: 11px;
+		color: #000000; 
+		}
+		
+td
+		{
+		font-family: verdana,geneva,arial,helvetica; 	
+		font-size: 11px;
+		color: #000000; 
+		}
+		
+.regfont 
+		{
+		font-family: verdana,geneva,arial,helvetica; 	
+		font-size: 11px;
+		color: #000000; 
+		}
+		
+.bigfont 
+		{ 
+		font-family: verdana,geneva,arial,helvetica;	
+		font-size: 14px;
+		color: #000000; 
+		}
+		
+
+.SurveyTitlefont 
+		{ 
+		font-family: times;	
+		font-size: 24px;
+		color: #000000; 
+		}
+		
+.hugefont 
+		{ 
+		font-family: verdana,geneva,arial,helvetica;	
+		font-size: 18px;
+		color: #000000; 
+		}
+		
+		
+.lightfont 
+		{ 	
+		font-family: verdana,geneva,arial,helvetica;
+		font-size: 11px;
+		color: #ffffff; 
+		}
+	
+.medlightfont 
+		{ 	
+		font-family: verdana,geneva,arial,helvetica;
+		font-size: 14px;
+		color: #ffffff; 
+		}	
+
+.redfont 
+		{ 	
+		font-family: verdana,geneva,arial,helvetica;
+		font-size: 11px;
+		color: #990000; 
+		}
+		
+.brightredfont 
+		{ 	
+		font-family: verdana,geneva,arial,helvetica;
+		font-size: 11px;
+		color: red; 
+		}
+		
+.helpfont 
+		{ 	
+		font-family: verdana,geneva,arial,helvetica;
+		font-size: 11px;
+		color: #3945AD; 
+		}
+		
+.bighelpfont 
+		{ 	
+		font-family: verdana,geneva,arial,helvetica;
+		font-size: 15px;
+		color: #3945AD; 
+		}
+		
+.grayfont 
+		{ 	
+		font-family: verdana,geneva,arial,helvetica;
+		font-size: 12px;
+		color: #666666; 
+		}
+
+	
+.squares 
+		{ 	
+		font-family: verdana,geneva,arial,helvetica;
+		font-size: 13px;
+		color: #000000; 
+		}
+		
+
+.orangefont 
+		{ 	
+		font-family: verdana,geneva,arial,helvetica;
+		font-size: 13px;
+		color: #ff6600; 
+		}			
+		
+
+.biglightfont 
+		{ 	
+		font-family: verdana,geneva,arial,helvetica;
+		font-size: 13px;
+		color: #ffffff; 
+		}					
+
+
+.errormsg 
+		{
+		font-family: verdana,geneva,arial,helvetica; 	
+		font-size: 13px;
+		color: #990000;
+		text-decoration: bold; 
+		}
+
+		
+		
+		
+A:link  
+		{  
+		font-family: verdana,geneva,arial,helvetica;
+                text-decoration: none;
+                color: #990000;
+                margin-top: 0px;
+                margin-bottom: 0px;
+                font-size: 11px;
+                }
+
+
+A:visited 
+		{      
+		font-family: verdana,geneva,arial,helvetica;
+                text-decoration: none; 
+                color: #990000;
+                margin-top: 0px;
+                margin-bottom: 0px;
+                font-size: 11px;
+                }
+
+
+A:hover 
+		{  
+		font-family: verdana,geneva,arial,helvetica;
+                text-decoration: underline; 
+                color:#000000;
+                margin-top: 0px;
+                margin-bottom: 0px;
+                font-size: 11px;             
+                }
+                

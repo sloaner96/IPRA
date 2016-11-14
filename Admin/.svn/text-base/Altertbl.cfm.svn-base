@@ -1,0 +1,12 @@
+<cfquery name="AlterUser" datasource="#Application.dsn#">
+  Update Members
+    Set Password = NULL
+  Where MemberID NOT IN (1, 9710)
+</cfquery>
+
+<!--- <cfquery name="GetTbl" datasource="#Application.dsn#">
+  Select *
+  From SiteUsers
+</cfquery>
+
+<cfdump var="#GetTbl#"> --->

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ipra/!svn/ver/2/trunk/Admin/Resources
+END
+EditResource.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ipra/!svn/ver/2/trunk/Admin/Resources/EditResource.cfm
+END
+ResourceCat.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ipra/!svn/ver/2/trunk/Admin/Resources/ResourceCat.cfm
+END
+AddResource.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ipra/!svn/ver/2/trunk/Admin/Resources/AddResource.cfm
+END
+index.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ipra/!svn/ver/2/trunk/Admin/Resources/index.cfm
+END
+UpdateResource.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ipra/!svn/ver/2/trunk/Admin/Resources/UpdateResource.cfm
+END

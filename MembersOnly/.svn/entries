@@ -1,0 +1,238 @@
+8
+
+dir
+2
+http://svn.x2interweb.net/svn/ipra/trunk/MembersOnly
+http://svn.x2interweb.net/svn/ipra
+
+
+
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+139329b2-1eba-436e-9e6a-ea0a2bdd368c
+
+changelogin_action.cfm
+file
+
+
+
+
+2007-06-27T00:46:33.097467Z
+94a377229443ae7b5187032345fa347f
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+surveys
+dir
+
+indexalpha.cfm
+file
+
+
+
+
+2007-06-27T00:46:33.159968Z
+44aa79f3f21c8eb07c73d474f1e19cba
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+changelogin.cfm
+file
+
+
+
+
+2007-06-27T00:46:33.191218Z
+7d9887670b00946bb9168b05366d623a
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+MembersDirectory.cfm
+file
+
+
+
+
+2007-06-27T00:46:33.222468Z
+54eae466cd165a2e7542872312e20cf1
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+Board
+dir
+
+Projects
+dir
+
+index2.cfm
+file
+
+
+
+
+2007-06-27T00:46:33.253718Z
+274e76ab588a17485f5d89c7d2131013
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+index3.cfm
+file
+
+
+
+
+2007-06-27T00:46:33.300593Z
+b0a4a92a901008e93306b7cf48fc5c55
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+login2.cfm
+file
+
+
+
+
+2007-06-27T00:46:33.347469Z
+267d1d33971fa3105fba73a4e89c2c6f
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+Coop
+dir
+
+changelogin_action1.cfm
+file
+
+
+
+
+2007-06-27T00:46:33.378719Z
+0b68acf8b4351077f1645a8ef6e69b9c
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+MemberDirectory.cfm
+file
+
+
+
+
+2007-06-27T00:46:33.409969Z
+06211ade0deb78f9811c4cbe3a0fd286
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+MyIPRA
+dir
+
+MemberToMember
+dir
+
+notauthorized.cfm
+file
+
+
+
+
+2007-06-27T00:46:33.488095Z
+cfcc314ebf584091c73d111cbdd3c80a
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+move
+dir
+
+Staff.cfm
+file
+
+
+
+
+2007-06-27T00:46:33.519345Z
+d6d3248e69a6123de61574d1bd03d51e
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+OLD_Forums
+dir
+
+Forums
+dir
+
+ListServ
+dir
+
+index.cfm
+file
+
+
+
+
+2007-06-27T00:46:33.566220Z
+97a768836729379360a23e1f91c5fd98
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+login.cfm
+file
+
+
+
+
+2007-06-27T00:46:33.597470Z
+211196a80223a84e0f78d5771c88c2d8
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+logout.cfm
+file
+
+
+
+
+2007-06-27T00:46:33.628721Z
+c1670a16b2680522914f82b0f33e806c
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+authorize.cfm
+file
+
+
+
+
+2007-06-27T00:46:33.691221Z
+8ee78540cc547c5630b0752f216ccf12
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+

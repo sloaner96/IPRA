@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ipra/!svn/ver/2/trunk/Admin/JobPostings
+END
+ViewResume.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ipra/!svn/ver/2/trunk/Admin/JobPostings/ViewResume.cfm
+END
+ApproveResume.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ipra/!svn/ver/2/trunk/Admin/JobPostings/ApproveResume.cfm
+END
+SearchJobs.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ipra/!svn/ver/2/trunk/Admin/JobPostings/SearchJobs.cfm
+END
+ApproveJobs_action.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ipra/!svn/ver/2/trunk/Admin/JobPostings/ApproveJobs_action.cfm
+END
+index.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ipra/!svn/ver/2/trunk/Admin/JobPostings/index.cfm
+END
+ApproveJobs.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ipra/!svn/ver/2/trunk/Admin/JobPostings/ApproveJobs.cfm
+END
+ApproveResume_action.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ipra/!svn/ver/2/trunk/Admin/JobPostings/ApproveResume_action.cfm
+END

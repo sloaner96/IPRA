@@ -1,0 +1,52 @@
+8
+
+dir
+2
+http://svn.x2interweb.net/svn/ipra/trunk/CoopLogin
+http://svn.x2interweb.net/svn/ipra
+
+
+
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+139329b2-1eba-436e-9e6a-ea0a2bdd368c
+
+index.cfm
+file
+
+
+
+
+2007-06-27T00:46:19.300504Z
+e60558d9599ae2d3b87c715857885fee
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+Authorize.cfm
+file
+
+
+
+
+2007-06-27T00:46:19.316129Z
+b8c75cc50be8041279734827c749b538
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/Forums
+END
+newpost_action.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/Forums/newpost_action.cfm
+END
+replypost_action.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/Forums/replypost_action.cfm
+END
+newpost.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/Forums/newpost.cfm
+END
+MemberPosts.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/Forums/MemberPosts.cfm
+END
+replypost.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/Forums/replypost.cfm
+END
+search.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/Forums/search.cfm
+END
+postings.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/Forums/postings.cfm
+END
+index.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/Forums/index.cfm
+END
+updatemessage.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/Forums/updatemessage.cfm
+END
+editmessage.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/Forums/editmessage.cfm
+END
+threads.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/Forums/threads.cfm
+END

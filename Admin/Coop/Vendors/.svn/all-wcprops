@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Vendors
+END
+vendorEmailBlast.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Vendors/vendorEmailBlast.cfm
+END
+CoopVendorBidReport.cfr
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Vendors/CoopVendorBidReport.cfr
+END
+VendorBids.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Vendors/VendorBids.cfm
+END
+VendorHistory.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Vendors/VendorHistory.cfm
+END
+VendorDetail.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Vendors/VendorDetail.cfm
+END
+EditVendor.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Vendors/EditVendor.cfm
+END
+EditBid.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Vendors/EditBid.cfm
+END
+AddPayment.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Vendors/AddPayment.cfm
+END
+AddVendor.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Vendors/AddVendor.cfm
+END
+vendorMaint.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Vendors/vendorMaint.cfm
+END
+AddVendorBids.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Vendors/AddVendorBids.cfm
+END
+vendorEmailBlast_Action.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Vendors/vendorEmailBlast_Action.cfm
+END
+Vendor_action.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Vendors/Vendor_action.cfm
+END

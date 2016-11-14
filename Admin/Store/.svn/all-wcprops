@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/ipra/!svn/ver/2/trunk/Admin/Store
+END
+ViewDonor.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ipra/!svn/ver/2/trunk/Admin/Store/ViewDonor.cfm
+END
+Orders.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ipra/!svn/ver/2/trunk/Admin/Store/Orders.cfm
+END
+UpdateProduct.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ipra/!svn/ver/2/trunk/Admin/Store/UpdateProduct.cfm
+END
+Donors.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ipra/!svn/ver/2/trunk/Admin/Store/Donors.cfm
+END
+EditProduct.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ipra/!svn/ver/2/trunk/Admin/Store/EditProduct.cfm
+END
+ViewOrder.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ipra/!svn/ver/2/trunk/Admin/Store/ViewOrder.cfm
+END
+TransactionLog.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ipra/!svn/ver/2/trunk/Admin/Store/TransactionLog.cfm
+END
+index.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ipra/!svn/ver/2/trunk/Admin/Store/index.cfm
+END
+AddProduct.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ipra/!svn/ver/2/trunk/Admin/Store/AddProduct.cfm
+END
+ProductMaint.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ipra/!svn/ver/2/trunk/Admin/Store/ProductMaint.cfm
+END

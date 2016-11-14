@@ -1,0 +1,88 @@
+8
+
+dir
+2
+http://svn.x2interweb.net/svn/ipra/trunk/tinymce/jscripts/tiny_mce/plugins/advhr
+http://svn.x2interweb.net/svn/ipra
+
+
+
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+139329b2-1eba-436e-9e6a-ea0a2bdd368c
+
+editor_plugin.js
+file
+
+
+
+
+2007-06-27T00:45:45.409662Z
+86c8c14c7b45569fe1c13c8167f86178
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+jscripts
+dir
+
+langs
+dir
+
+images
+dir
+
+editor_plugin_src.js
+file
+
+
+
+
+2007-06-27T00:45:45.440912Z
+aa5435bd35a1f83a5ebdf1d5493642cc
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+css
+dir
+
+readme.txt
+file
+
+
+
+
+2007-06-27T00:45:45.472162Z
+fe81b122bcf0e8599bb841cca33f967a
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+rule.htm
+file
+
+
+
+
+2007-06-27T00:45:45.519038Z
+9f0f25c967cf5c3b346442a4e7278b58
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+

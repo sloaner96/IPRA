@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop
+END
+AgencySearch.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/AgencySearch.cfm
+END
+EditCoopConfig.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/EditCoopConfig.cfm
+END
+Act_CoopConfig.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/Act_CoopConfig.cfm
+END
+CatMaint_action.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/CatMaint_action.cfm
+END
+AddCoopConfig.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/AddCoopConfig.cfm
+END
+AgencyMaint.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/AgencyMaint.cfm
+END
+CatMaint.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/CatMaint.cfm
+END
+AgencyEmailBlast_action.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/AgencyEmailBlast_action.cfm
+END
+AgencyEmailBlast.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/AgencyEmailBlast.cfm
+END
+CoopConfig.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/CoopConfig.cfm
+END
+index.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ipra/!svn/ver/2/trunk/Admin/Coop/index.cfm
+END

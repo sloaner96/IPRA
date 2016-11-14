@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+ <rss version="2.0" xmlns:pp="http://www.pupuplayer.com/ppexplination-rtf">
+  <channel>
+ <title>WIPRA-The Voice of Parks and Recreation...</title>
+ <link>http://www.ilipra.org/</link>
+ <description>WIPRA Podcast </description>
+ <language>en-us</language>
+ <copyright>Copyright 2006</copyright>
+ <image>
+ <title>Illinois Park &amp; Recreation Association</title>
+ <url>http://www.ilipra.org/images/mainlogo.gif</url>
+ <link>http://www.ilipra.org</link>
+ </image>
+ <item>
+ <pp:media image="http://www.ilipra.org/images/WIPRAlogo.jpg" />
+ <title>WIPRA-The Voice (Show #11-IPRA Cooperative Purchase Program)</title>
+ <link>http://www.ilipra.org/podcast/WIPRAShow11.mp3</link>
+ <description>
+ IPRA COOPERATIVE PURCHASE PROGRAM
+ </description>
+ <enclosure url="http://www.podtrac.com/pts/redirect.mp3?http://www.ilipra.org/podcast/WIPRAShow11.mp3" length="10734573" type="audio/mpeg"/>
+  </item>
+ <item>
+ <pp:media image="http://www.ilipra.org/images/WIPRAlogo.jpg" />
+ <title>WIPRA-The Voice (Show #10-Event Planning for the Chicago Open)</title>
+ <link>http://www.ilipra.org/podcast/WIPRAShow10.mp3</link>
+ <description>
+ EVENT PLANNING FOR THE CHICAGO OPEN
+ </description>
+ <enclosure url="http://www.podtrac.com/pts/redirect.mp3?http://www.ilipra.org/podcast/WIPRAShow10.mp3" length="17512617" type="audio/mpeg"/>
+  </item>
+ <item>
+ <pp:media image="http://www.ilipra.org/images/WIPRAlogo.jpg" />
+ <title>WIPRA-The Voice (Show #9-Revenue Diversification)</title>
+ <link>http://www.ilipra.org/podcast/WIPRAShow9.mp3</link>
+ <description>
+ REVENUE DIVERSIFICATION
+ </description>
+ <enclosure url="http://www.podtrac.com/pts/redirect.mp3?http://www.ilipra.org/podcast/WIPRAShow9.mp3" length="12686025" type="audio/mpeg"/>
+  </item>
+ <item>
+ <pp:media image="http://www.ilipra.org/images/WIPRAlogo.jpg" />
+ <title>WIPRA-The Voice (Show #8-Legislation with Rich Grodsky)</title>
+ <link>http://www.ilipra.org/podcast/WIPRAShow8.mp3</link>
+ <description>
+ LEGISLATION WITH RICH GRODSKY
+ </description>
+ <enclosure url="http://www.podtrac.com/pts/redirect.mp3?http://www.ilipra.org/podcast/WIPRAShow8.mp3" length="19863638" type="audio/mpeg"/>
+  </item>
+ <item>
+ <pp:media image="http://www.ilipra.org/images/WIPRAlogo.jpg" />
+ <title>WIPRA-The Voice (Show #7-Recent News at IPRA)</title>
+ <link>http://www.ilipra.org/podcast/WIPRAShow7.mp3</link>
+ <description>
+ RECENT NEWS AT IPRA
+ </description>
+ <enclosure url="http://www.podtrac.com/pts/redirect.mp3?http://www.ilipra.org/podcast/WIPRAShow7.mp3" length="10656415" type="audio/mpeg"/>
+  </item>
+ <item>
+ <pp:media image="http://www.ilipra.org/images/WIPRAlogo.jpg" />
+ <title>WIPRA-The Voice (Show #6-Chairman Bill McAdam)</title>
+ <link>http://www.ilipra.org/podcast/WIPRAShow6.mp3</link>
+ <description>
+ CHAIRMAN BILL McADAM
+ </description>
+ <enclosure url="http://www.podtrac.com/pts/redirect.mp3?http://www.ilipra.org/podcast/WIPRAShow6.mp3" length="9845992" type="audio/mpeg"/>
+  </item>
+ <item>
+ <pp:media image="http://www.ilipra.org/images/WIPRAlogo.jpg" />
+ <title>WIPRA-The Voice (Show #5-Spring Training)</title>
+ <link>http://www.ilipra.org/podcast/WIPRAShow5.mp3</link>
+ <description>
+ SPRING TRAINING
+ </description>
+ <enclosure url="http://www.podtrac.com/pts/redirect.mp3?http://www.ilipra.org/podcast/WIPRAShow5.mp3" length="20260281" type="audio/mpeg"/>
+  </item>
+ <item>
+ <pp:media image="http://www.ilipra.org/images/WIPRAlogo.jpg" />
+ <title>WIPRA-The Voice (Show #4-Annual Business Meeting)</title>
+ <link>http://www.ilipra.org/podcast/2006BusinessMeeting.mp3</link>
+ <description>
+ ANNUAL BUSINESS MEETING
+ </description>
+ <enclosure url="http://www.podtrac.com/pts/redirect.mp3?http://www.ilipra.org/podcast/2006BusinessMeeting.mp3" length="18500255" type="audio/mpeg"/>
+  </item>
+  <item>
+ <pp:media image="http://www.ilipra.org/images/WIPRAlogo.jpg" />
+ <title>WIPRA-The Voice (Show #3-Conference Intro)</title>
+ <link>http://www.ilipra.org/podcast/WIPRAShow3.mp3</link>
+ <description>
+ CONFERENCE INTRO
+ </description>
+ <enclosure url="http://www.podtrac.com/pts/redirect.mp3?http://www.ilipra.org/podcast/WIPRAShow3.mp3" length="6998854" type="audio/mpeg"/>
+  </item>
+  <item>
+ <pp:media image="http://www.ilipra.org/images/WIPRAlogo.jpg" />
+ <title>WIPRA-The Voice (Show #2-Tech Tidbits)</title>
+ <link>http://www.ilipra.org/podcast/WIPRAShow011306.mp3</link>
+ <description>
+ TECH TIDBITS
+ </description>
+ <enclosure url="http://www.podtrac.com/pts/redirect.mp3?http://www.ilipra.org/podcast/WIPRAShow011306.mp3" length="13883794" type="audio/mpeg"/>
+  </item>
+ <item>
+ <pp:media image="http://www.ilipra.org/images/WIPRAlogo.jpg" />
+ <title>WIPRA-The Voice (Show #1-The Intro)</title>
+ <link>http://www.ilipra.org/podcast/WIPRAShow2.mp3</link>
+ <description>
+ WIPRA IS LIVE ON THE AIR
+ </description>
+ <enclosure url="http://www.podtrac.com/pts/redirect.mp3?http://www.ilipra.org/podcast/WIPRAShow2.mp3" length="12421457" type="audio/mpeg"/>
+  </item>
+  </channel>
+ </rss>

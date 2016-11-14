@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/ipra/!svn/ver/2/trunk/Events
+END
+ProcessPayment.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ipra/!svn/ver/2/trunk/Events/ProcessPayment.cfm
+END
+ViewEvent.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ipra/!svn/ver/2/trunk/Events/ViewEvent.cfm
+END
+ListEvents.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ipra/!svn/ver/2/trunk/Events/ListEvents.cfm
+END
+EventRegister.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ipra/!svn/ver/2/trunk/Events/EventRegister.cfm
+END
+PaymentConfirmation.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ipra/!svn/ver/2/trunk/Events/PaymentConfirmation.cfm
+END
+index.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ipra/!svn/ver/2/trunk/Events/index.cfm
+END
+EventRegister2.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ipra/!svn/ver/2/trunk/Events/EventRegister2.cfm
+END

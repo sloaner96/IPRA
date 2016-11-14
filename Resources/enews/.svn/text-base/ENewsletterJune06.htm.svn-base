@@ -1,0 +1,419 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Untitled Document</title>
+<style type="text/css">
+<!--
+.style10 {
+	font-size: 11px;
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.style13 {
+	color: #FFFFFF;
+	font-size: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.style15 {
+	color: #FFFFFF;
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+.style20 {
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.style22 {
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #026287;
+}
+.style30 {color: #026287}
+.style33 {color: #026287; font-size: 10px; font-family: Arial, Helvetica, sans-serif; }
+.style36 {color: #FFFFFF}
+a:visited {
+	color: #DE9619;
+}
+a:link {
+	color: #DE9619;
+}
+.style45 {color: #DE9619}
+.style51 {color: #DF9502; font-size: 12px; }
+.style57 {
+	color: #DE9619;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+.style67 {color: #DE9619; font-size: 10px; }
+.style68 {font-size: 10px}
+.style70 {color: #DE9619; font-size: 12px; }
+.style74 {color: #DF9502}
+.style75 {color: #DF9502; font-size: 10px; font-family: Arial, Helvetica, sans-serif; }
+-->
+</style>
+</head>
+
+<body>
+<table width="684" border="1" cellpadding="3" cellspacing="0" align="center" bordercolor="#026287">
+  <tr>
+    <th colspan="2" scope="col"><div align="left"><a href="http://www.ilipra.org"><img src="http://www.ilipra.org/images/eNewsAnimatedHeader.gif" width="675" height="180" border="0"></a></div></th>
+  </tr>
+  <tr>
+      <th width="190" align="left" valign="top" bgcolor="#026287" scope="row"><div align="center">        
+        <p align="left"><span class="style15"><img src="http://www.ilipra.org/images/upcomingevents.jpg" width="190" height="20">          <span class="style10"><a href="http://www.ilipra.org/Events/ListEvents.cfm" target="_blank" class="style13">Click here for  IPRA Calendar<br>
+      </a></span></span><span class="style13">or</span><span class="style15"><span class="style10"><br>
+        </span></span><span class="style13"><a href="http://www.ilipra.org/eventrequest.cfm" target="_blank">Submit an IPRA meeting or event </a></span></p>
+        <div align="left">                                                  
+          <p>            <span class="style57"><span class="style45"><a href="http://www.ilipra.org/Events/ListEvents.cfm?mode=month&month=6&year=2006" target="_blank">JUNE</a></span><br>
+                </span>
+            <span class="style13">6/15 IPRA Board of Directors Business Meeting <br>
+          6/16 Senior Committee Meeting<br>
+          6/23 Facility Management Section Meeting
+          <br>
+          6/24 Camp Counselor Challenge <br>
+          6/27 &amp; 29 IPRA Day at Six Flags Great America<br>
+          6/30 Group Fitness Classes-To Punch or Not to Punch
+          </span></p>
+          <p class="style13"><span class="style57"><span class="style45"><a href="http://www.ilipra.org/Events/ListEvents.cfm?mode=month&month=7&year=2006" target="_blank">JULY</a></span><br>
+          </span>7/3-7/9 Western Open Volunteering <br>
+          7/5 Kane County Cougars vs. Dayton Dragons <br>
+          7/7 Senior Committee Meeting <br>
+          7/12 &amp; 13 &amp; 15 IPRA Day at Six Flags Great America <br>
+          7/13 Schaumburg Flyers vs. Gary Railcats <br>
+          7/17 Kane County Cougars vs. Lansing Lugnuts<br>
+          7/17-21 Six-County Senior Olympics
+          <br>
+          7/18-20 NPSI Course &amp; Exam <br>
+          7/20 Recreation Section Meeting <br>
+          7/20 Chicago Cubs vs. Houston Astros<br>
+          7/26 Chicago White Sox vs. Minnesota Twins<br>
+          7/28 C&amp;M Section Meeting and Social
+          </p>
+          <p class="style13"><span class="style57"><span class="style45"><a href="http://www.ilipra.org/Events/ListEvents.cfm?mode=month&month=8&year=2006" target="_blank">AUGUST</a></span><br>
+          </span>8/3 &amp; 5 IPRA Day at Six Flags Great America <br>
+          8/5 IPRA Lifeguard Games <br>
+          8/9 IPRA Overnight Teen Canoe Trip <br>
+          8/18 Senior Committee Meeting<br>
+          8/18 Facility Management Section Meeting
+          <br>
+          8/19 Park District Conservation Day<br>
+          8/24 ITRS Lunch Meeting</p>
+          <p class="style13"><span class="style57"><span class="style45"><a href="http://www.ilipra.org/Events/ListEvents.cfm?mode=month&month=9&year=2006" target="_blank">SEPTEMBER</a></span><br>
+          </span>9/6 Museum and Nature Center Roundtable <br>
+          9/7 IPRA Board of Directors Business Meeting<br>
+          9/12 C&amp;M Section Board Meeting and Roundtable Discussion<br>
+          9/14 School Age - Day Camp Committee Meeting<br>
+          9/15 Senior Committee Meeting<br>
+          9/16 &quot;Oh I Wish I Had Said...&quot; Powerful Communication Workshop <br>
+          9/19 Aquatic Facility Operators Certification Course<br>
+          9/19 CPRP Study Night<br>
+          9/21 Recreation Section Meeting<br>
+          9/22 2nd Annual Park Pursuit<br>
+          9/26 HR Manager's Luncheon<br>
+          9/29 Sprecher 5,000 Golf Classic</p>
+          <p class="style13"><span class="style57"><span class="style45"><a href="http://www.ilipra.org/Events/ListEvents.cfm?mode=month&month=10&year=2006" target="_blank">OCTOBER</a></span><br>
+          </span>10/3 Supervisor Symposium: Piecing Professionals Together<br>
+          10/5 Participant Services Division of ITRS Meeting<br>
+          10/6 Facility Management Section Mtg.
+          <br>
+          10/10 NRPA Congress &amp; Exposition
+          </p>
+          <p><span class="style15"><img src="http://www.ilipra.org/images/enewsinthenews.jpg" width="190" height="20">          <span class="style10"><a href="http://ilipra.org/articles.cfm" target="_blank" class="style13">Read <em>In The News</em> @ ILipra.org <br>
+          </a></span></span><span class="style13">or</span><span class="style15"><span class="style10"><span class="style68"> better yet</span> <br>
+          <span class="style68"><a href="http://IPRA.blogspot.com" target="_blank">Comment on these @ The Blog Spot</a> </span><br>
+          </span></span></p>
+        </div>
+         </div>        
+        <div align="left">
+          <p class="style13"><span class="style45">JUNE<br>
+</span>6/6 Margaret Resnick Podcasts the Keys to Great Event Planning<br>
+6/2 OSLAD funding Increased to $31.8 million<span class="style45"><br>
+<br>
+MAY</span> <br> 
+            5/23 Final Request for Park District Entertainment at the Illinois State Fair<br>
+            5/19 LWCF Funding Down...Obesity Up<br>
+            5/18 The Revenue Diversification Workshop Had Value For All<br>
+            5/18 Nominations Being Accepted For 2007 Board of Directors<br>
+            5/17 Win $2000 In Film Contest For National Neighborhood Day (September 17)<br>
+            5/8 McHenry County Conservation District Introduces New Executive Director<br>
+            5/3 IPRA's Phone System Down On May 3 <br>
+          5/1 Post Your Resume and Get Discovered!<br>
+          <br>
+          <a href="mailto:matt@ilipra.org?subject=Press%20Release%20Posting" target="_blank">Submit your news releases to IPRA</a> </p>
+          </div>
+        <div align="right" class="style13">
+          <p align="center"><img src="http://www.ilipra.org/images/links.jpg" width="190" height="20"><br>
+            <a href="http://www.ilipra.org/careers/index.cfm" target="_blank"><br>
+            <img src="http://www.ILipra.org/images/ParkRecJobsLogo190x190.gif" width="175" height="175" border="0"></a><br>
+          <br>
+          <a href="http://ipra.blogspot.com" target="_blank"><img src="http://www.ilipra.org/images/theblogspotanimatedad.gif" width="190" height="83" border="0"></a></p>
+<p align="left"><A HREF="http://www.ilipra.org/podcast/podcast.cfm" target="_blank" onclick="window.open('http://www.pupuplayer.com/podtrac/podtracplayer.php?podcast=http://www.ilipra.org/podcast/podcast.xml', 'linkname', 'height=235, width=450, scrollbars=no')"> 
+<IMG src="http://www.ILipra.org/images/WIPRA-logo-175x193.gif" alt="WIPRA Podcast" border=0 /></A></p>
+          <p align="center"><span class="style20"><a href="http://ilparks.org/license_plate_registration_form_new_fees.pdf" target="_blank" class="style13"><img src="http://www.ilipra.org/images/vanity4kids.gif" width="190" height="95" border="0">      </a></span><a href="http://ilparks.org/license_plate_registration_form_new_fees.pdf" target="_blank">Order your plate TODAY</a> </p>
+      <p align="center" class="style20"><img src="http://www.ilipra.org/images/enewssponsors.jpg" width="190" height="20"><span class="style33"><br>
+          <span class="style36"><a href="http://www.design-perspectives.net" target="_blank"><img src="http://www.ILipra.org/images/2005DPTileAdWinter06.gif" width="190" height="190" border="0"></a></span></span></p>
+      <p align="center" class="style20"><span class="style33"><span class="style36"><a href="http://www.theprintingsystem.com" target="_blank"><img src="http://www.ilipra.org/images/TPS-Logo-190x.jpg" width="190" height="83" border="0"><br>
+          </a><br>
+          
+          <a href="mailto:heather@ILipra.org?subject=eNewsletter%20Advertising" target="_blank">Advertise Here</a> </span></span></p>
+      <p align="center" class="style15"><img src="http://www.ilipra.org/images/eNewsletters.jpg" width="190" height="20"><span class="style70"><br>
+        2005</span><br>
+        <span class="style20"><span class="style68"><a href="http://ilipra.org/Resources/enews/ENewsletterMarch.htm" target="_blank">March</a><a href="http://ilipra.org/Resources/enews/ENewsletterApril.htm" target="_blank"><br>
+          April</a><br>
+          <a href="http://ilipra.org/Resources/enews/ENewsletterMay.htm" target="_blank">May</a><br>
+          <a href="http://ilipra.org/Resources/enews/ENewsletterMayExtra.htm" target="_blank">May <em>extra</em><br>
+          </a><a href="http://ilipra.org/Resources/enews/ENewsletterJune.htm" target="_blank">June<br>
+          </a><a href="http://ilipra.org/Resources/enews/ENewsletterJuneExtra.htm" target="_blank">June <em>extra</em></a><br>
+          <a href="http://ilipra.org/Resources/enews/ENewsletterJuly.htm" target="_blank">July<br>
+          </a><a href="http://ilipra.org/Resources/enews/ENewsletterAugust.htm" target="_blank">August<br>
+          </a><a href="http://ilipra.org/Resources/enews/ENewsletterAugustextra.htm" target="_blank">August <em>extra<br>
+          </em></a><a href="http://ilipra.org/Resources/enews/ENewsletterSeptember.htm" target="_blank">September<br>
+          </a><span class="style45"><a href="http://www.ilipra.org/Resources/enews/ENewsletterEducationOctober.htm" target="_blank">October<br>
+          </a></span></span></span><span class="style67"><a href="http://www.ilipra.org/Resources/enews/ENewsletterNovember.htm" target="_blank">November<br>
+          </a><a href="http://www.ilipra.org/Resources/enews/ENewsletterDecember.htm" target="_blank">December<br>
+          </a><a href="http://www.ilipra.org/Resources/enews/ENewsletterDecemberExtra.htm" target="_blank">December <em>extra</em></a></span></p>
+      <p align="center" class="style15"><span class="style70">2006<br>
+        <span class="style20"><span class="style68"><a href="http://ilipra.org/Resources/enews/ENewsletterJanuary06.htm" target="_blank">January<br>
+        </a><a href="http://ilipra.org/Resources/enews/ENewsletterFebruary06.htm" target="_blank">February<br>
+        </a></span></span></span><a href="http://ilipra.org/Resources/enews/ENewsletterFebruaryExtra06.htm" target="_blank" class="style68">February <em>extra<br>
+        </em></a><a href="http://ilipra.org/Resources/enews/ENewsletterMarch06.htm" target="_blank" class="style68">March<br>
+        </a><span class="style67"><a href="http://ilipra.org/Resources/enews/ENewsletterApril06.htm" target="_blank">April<br>
+        </a><a href="http://ilipra.org/Resources/enews/ENewsletterMay06.htm" target="_blank">May</a></span> </p>
+      </div>    </th>
+    <th width="483" valign="top" class="style22" scope="row"><div align="center" class="style30">
+        <div align="left">
+          <p align="left" class="style22"><img src="http://www.ilipra.org/images/education-text-headers.jpg" width="360" height="20"><br>
+          <strong><span class="style51"> NPSI  Certification Course Added For This Summer </span><span class="style33"><br>
+            </span></strong><span class="style33"><strong>July 18-20  at the Lesnieski Community Center of the Lemont Park District<br>
+            <strong>1.2 CEUs offered for the 3-day workshop</strong><br>
+          <strong><strong><a href="http://www.ilipra.org/Forms/Reg-0605120226.pdf" target="_blank">Click here</a> for registration information.</strong></strong> </strong></span>          
+          <p align="left" class="style33"> <img src="http://www.ILipra.org/images/NPSILogo.gif" width="150" height="78" align="right">COURSE CONTENT <br>
+According to the Consumer Product Safety Commission, 205,000 children are treated for playground accidents annually, with approximately 15 resulting in death. Of these, 70% occurred at public parks and schoolyards. Does your equipment measure up? How many preventable injuries occurred in your parks? <br>
+<br>
+Sponsored by the Illinois Park and Recreation Association (IPRA) and the National Recreation and Park Association (NRPA), this course is the most comprehensive training program offered on playground hazard identification and risk management methods. Advanced reading and ten hours of training will prepare you to take the Certified Playground Safety Inspector (CPSI) Exam, which will take place on the last day. <br>
+<br>
+The National Playground Safety Institute (NPSI) promotes children&rsquo;s rights to play and the importance of play in a child&rsquo;s development. The course provides the most current comprehensive training program on public playground safety, including the development and distribution of playground training and safety products. NPSI provides input to help develop a responsible public policy which guarantees the safety of our children. At the same time, NPSI advocates sound fiscal responsibility to provide resources for the ongoing maintenance and support of the policy.           
+          <p align="left" class="style33">WHO SHOULD ATTEND? <br>
+  Administrators, Supervisors, Public Works Departments, Building and Grounds Maintenance Staff, Engineers, Architects, Playground Equipment Representatives, Operators and Caretakers of Playgrounds in Parks, Schools, Summer Camps, Day Camps, Hotels/Resorts, Day Care Centers, Agencies such as YMCA/YWCA, Head Start, Boys and Girls Clubs, Police Athletic Leagues, Others responsible for playgrounds 
+          
+          <hr>
+          <p align="left" class="style33"><strong><span class="style51">Group Fitness Classes - To Punch or Not to Punch </span><span class="style33"><br>
+            </span></strong><span class="style33"><strong>July 30 from 11:30am-2pm at the Schaumburg Park District CRC <br>
+            <strong>1.2 CEUs offered for the 3-day workshop</strong><br>
+            <strong><strong><a href="http://www.ilipra.org/Forms/Reg-0606010952.pdf" target="_blank">Click here</a> for registration information.</strong></strong> </strong></span>
+          
+          <p align="left" class="style33"> Announcing an IPRA Facility Management section roundtable planned for
+your professional growth. Join other fitness managers and group fitness
+coordinators to discuss the pros and cons of offering punch cards or
+registration for group fitness classes. 
+            <br>
+            <br>
+          The registration fee is $15 for members or $20 for nonmembers. Lunch is included in registration. 
+          
+          <hr>
+        <p align="left" class="style33"><span class="style51"><img src="http://www.ILipra.org/images/PDScodelogo.jpg" width="150" height="87" hspace="1" align="right">Do You Hold the Key to Unlocking the PDS Code? </span><br>
+          <span class="style33"><strong>IPRA's Professional Development School has been set for November 5-8. Attendance at this year's PDS will <strong>help you unlock the creativity, passion and innovation needed to excel in parks and recreation.<br>
+          <br>
+          Registration information will be available online beginning July 3. <br>
+          <br>
+          Save 50% on your registration fees by correctly naming the mysterious face on the PDS flyer! Correctly guess the face and your name will be put into a drawing for 50% off registration fees!<br>
+          <br>
+        <a href="http://www.ILipra.org/images/PDS06teaser.jpg" target="_blank">Click here to Unlock the PDS Code</a> and then <a href="mailto:matt@ILipra.org?subject=I%27ve%20Unlocked%20the%20PDS%20Code!" target="_blank">email your guess</a>! </strong></strong></span>
+        <hr>
+        <p align="left" class="style33"><span class="style51">Supervisor Symposium 2006 - Piecing Professionals Together </span><br>
+          <img src="http://www.ILipra.org/images/SupervisorSymposiumLogo175x.jpg" width="175" height="134" align="right">Make sure to save the date of October 3-4 to attend this important two-day workshop, hosted by the Recreation section and Facility
+Management section. <br>
+<br>
+The Supervisor Symposium utilizes two different tracts to
+provide park and recreation professionals with the tools and resources to grow as professionals.
+One is geared toward professionals that have recently started in their
+roles as supervisors, and the other is for individuals that have
+experience and are searching for new tools to take them to the next
+level.<br>
+<br>Several areas of discipline will be covered in the curriculum including topics on recreation, facility management, self improvement/job enhancement, finance/business and marketing.<br>
+<br>Registration information will be available in the July eNewsletter.
+        </div>
+        </div>      
+      <div align="center" class="style30"><div align="left">
+        <hr>
+        <p><span class="style51">Got Ideas? </span><br>
+          <span class="style33"><strong>Dina Kartch, Education &amp; Conference Director, is looking for some great educational ideas for this Fall and Winter. <a href="mailto:dina@ILipra.org?subject=IPRA%20Workshop%20Ideas" target="_blank">Email Dina</a> with any ideas you have for workshops. It's your membership...get the training YOU want! </strong></span></p>
+        <p><img src="http://www.ilipra.org/images/newsyoucanusetextheaders2.jpg" width="360" height="20"><br>
+          <br>
+          <span class="style51">IPRA Leads the Pack...and We're Not Stopping! <span class="style33"><br>
+          As the current IPRA membership of over 2,700 park and recreation professionals and the commercial members serving the field grows it has become apparent that the website is <em>the place to go</em>. From January through May of 2006 the IPRA website has received OVER 6.1 MILLION HITS from members and non-members around the world! <br>
+          <br>
+          IPRA strives to be leaders in both the park and recreation field as well as the association world when it comes to providing its members with user-friendly, cost-effective, technological ways of communicating and doing business. <br>
+          <br>
+          Whether you're using the comprehensive IPRA <a href="http://www.ILipra.org" target="_blank">website</a>, the interactive weblog (<a href="http://IPRA.blogspot.com" target="_blank">The Blog Spot</a>), the entertaining podcasts (<a href="http://www.ilipra.org/podcast/podcast.cfm" target="_blank">WIPRA-The Voice</a>), section <a href="http://www.ilipra.org/MembersOnly/ListServ/ListServ.cfm" target="_blank">list serves</a>...or this eNewsletter you're reading today, IPRA appreciates the support and willingness from its membership to adapt to change. <br>
+          <br>
+          DID YOU KNOW<br>
+          IPRA is the only state park and recreation association to have both a weblog and a podcast show!&nbsp; We're also one of the few associations in the U.S. to offer these <a href="http://en.wikipedia.org/wiki/Web_2.0" target="_blank">Web 2.0</a> services to its members! <a href="http://www.principledinnovationwikis.com/associationblogsandpodcasts/show/HomePage" target="_blank">Need proof?</a> <br>
+          <br>
+          Continue to advance with IPRA. Thanks for helping make this year such a success so far!          </span></span></p>
+        <hr>
+        <span class="style51"><br>
+          <a href="http://www.ilipra.org/careers/index.cfm" target="_blank"><img src="http://www.ilipra.org/images/ParkRecJobsLogo150x150.jpg" width="150" height="150" hspace="0" vspace="0" border="0" align="right"></a></span><span class="style51">Over 180 Resumes Posted in One Month ! <br>
+          </span><span class="style33">IPRA&rsquo;s <em>park &amp; rec JOBS</em> has received over 180 resumes this past month and agencies are taking advantage! <br>
+          <br>
+          Agencies, did you know that when you post a job opportunity on the website you have the ability to access and view all the candidate's resumes?<br>
+          <br>
+          Professionals, did you now that when you post your resume you have the opportunity to apply for jobs directly online by using your saved resume...and allow for hiring agencies to view your resume and contact you? </span>
+          <p class="style33">Everyone benefits from the <em>park &amp; rec JOBS</em>! <a href="http://www.ilipra.org/careers/index.cfm" target="_blank">Click here to begin</a>! <br> 
+            <br>
+            <br>
+            <strong><img src="http://www.ILipra.org/images/PostJobsLogo1.jpg" width="100" height="58" hspace="5" align="left"><br>
+            <br>
+          Need to fill a position?</strong> At approximately 1/10th the cost of an ad in the Chicago Tribune, we&rsquo;ll get you qualified applicants in record time!</p>
+        <p class="style33"><strong><img src="http://www.ILipra.org/images/PostResumesLogo1.jpg" width="100" height="61" hspace="5" align="left"><br>
+            <br>
+          Want agencies to contact you? </strong>Post your resume and cover letter online and watch the job opportunities come your way! You can also apply for jobs directly online with your saved resume and cover letter.</p>
+        <p class="style33"><strong><img src="http://www.ILipra.org/images/SearchJobsLogo1.jpg" width="100" height="59" hspace="5" align="left"><br>
+          <br>
+          Looking for a new job? </strong>Search the online job postings and see if there&rsquo;s something for you. This is the place to find your next career move.</p>
+        <p class="style33">&nbsp;</p>
+        <hr>
+        <p align="left" class="style33"><span class="style51">Get Your IPRA News Sent Directly To You Via Email<br>
+          <span class="style33"><span class="style68">Don't want to wait for the monthly eNewsletters? Simply don't have the time to check out IPRA's weblog, The Blog Spot, every day?  Now you can get all the IPRA news sent directly to your email account!<br>
+          <br>
+          Stay informed of IPRA news, local stories from the park and rec scene, and trends affecting you by subscribing to The Blog Spot's postings! If we don't post anything...you don't get anything. It's really simple to sign-up and it's really nice to know what's going on in your professional association.<br>
+          <br>
+          If you haven't been to The Blog Spot in a while you have a lot of catching up to do. For those of you who don't know what a blog is...who cares! Think of it as a webpage where you as the reader have the opportunity to comment back on the news. Agree with what's being said? Disagree? We can all learn from each other and The Blog Spot lets you, the member, share your voice.<br>
+          <br>
+          <a href="http://IPRA.blogspot.com">Check out The Blog Spot</a> and sign-up to receive your email notifications.
+</span></span></span></p>
+        <hr>
+        <p><span class="style33"><span class="style51">IPRA Seeks Four Open Positions on the 2007 Board of Directors <br>
+          <span class="style33">Nominations are being accepted for IPRA members wishing to fill open positions on the 2007 Board of Directors. All nomination forms are due on June 12.<br>
+          <br>
+          Open positions include:<br>
+         &nbsp;&nbsp; - At-Large Board Member (2 positions available) <br>
+  &nbsp;&nbsp; - Northern IL Regional Representative<br>
+&nbsp;&nbsp; - Chicago Metro-North Regional Representative<br>
+<br> 
+<a href="http://www.ilipra.org/MembersOnly/index.cfm" target="_blank">Click here</a> to download the Nomination Form.</span></span></span></p>
+        <hr>
+        <o:p><FONT face=Arial size=2><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><o:p></o:p></SPAN></FONT></o:p>
+        <p><o:p><span class="style33"><span class="style51"> <a href="http://www.ilipra.org/podcast/podcast.cfm" target="_blank"><img src="http://www.ILipra.org/images/WIPRA-logo-75x83.gif" width="75" height="83" border="0" align="right"></a>Listen Up!&nbsp; <em>WIPRA-The Voice</em> Features Great Guest Speakers <br>
+</span>Show #6: IPRA Chairman of the Board, Bill McAdam discusses the future of IPRA<br>
+Show #8: Rich Grodsky, Elmhurst Park District, discusses legislative issues<br>
+Show #9: Revenue Diversification workshop  discussed on-site <br>
+Show #10: Margaret Resnick, Bolingbrook Park District, talks  event planning<br>
+<br>
+<a href="http://www.ilipra.org/podcast/podcast.cfm" target="_blank">Click here</a> to visit the podcast page on the IPRA website. If you're interested in coming to the IPRA office for your own podcast show <a href="mailto:matt@ILipra.org?subject=I%27d%20Like%20To%20Be%20On%20WIPRA-The%20Voice" target="_blank">email us</a> and we'll schedule a show. </span></o:p></p>
+        <hr>
+        <p><o:p><span class="style33"><span class="style51"><img src="http://www.ILipra.org/images/Coop-Logo-100x124.jpg" width="100" height="124" align="right">IPRA's Cooperative Purchase Program Coming Soon <br>
+        </span></span> <span class="style33">
+        </span></o:p><span class="style33">Each year, IPRA coordinates a Cooperative Purchase Program on behalf of park districts, municipal recreation agencies, forest preserves, conservation districts, special recreation associations and private agencies throughout Illinois. The program, the only one of its kind in the field of parks and recreation, is an excellent way for your agency to <strong>save staff time</strong> and <strong>valuable tax dollars</strong> by purchasing with other park and recreation agencies in bulk.<br>
+        <br>
+The savings is an obvious benefit of the program, however, the Co-op program offers other benefits as well. You save time comparing quotes and products. Freight and delivery charges are included in vendor&rsquo;s bids, so there are no surprises when it&rsquo;s time for delivery, and Vendors abide by the &ldquo;Local Government Prompt Payment Act&rdquo; allowing agencies 30 days from receipt of invoice to have it approved and 30 days after approval to have it paid.<br>
+<br>
+        </span><o:p><span class="style33">Online registration and ordering will begin mid-August...stay tuned for specific dates.
+        </span></o:p></p>
+        <hr>
+        <p><o:p><span class="style33"><span class="style51"><img src="http://www.ILipra.org/images/IPREAlogo.gif" width="150" height="58" align="right">Recently Certified Professionals! <br>
+              </span></span> <span class="style33"><a href="http://www.ilipra.org/Certification/iprcb.cfm" target="_blank">Click here</a> to learn more about becoming certified!<br>
+              <br>
+              Certified Park &amp; Recreation Professionals (CPRP)<br>
+              </span><span class="style75"> Cynthia Babicz, Streamwood Park District&nbsp;<br>
+              Kari Drew, SRSNLC<br>
+              Pamela Zeid, Skokie Park District
+              </span><span class="style33"><br>
+              <br>
+              Associate Park &amp; Recreation Professionals (APRP) <br>
+              <span class="style74">N/A</span><br>
+              <br>
+              Provisional Park &amp; Recreation Professionals (PPRP) <br> 
+            <span class="style74">N/A<br>
+            </span></span></o:p></p>
+      </div>
+      </div>
+      <div align="left">
+        <p><img src="http://www.ilipra.org/images/thingstodotextheaders2.jpg" width="360" height="20">      </p>
+      </div>
+      <p align="left" class="style33"><SPAN class=style51>Early Registration for Park Pursuit Ends June 30! </SPAN><BR>
+        <SPAN 
+class=NewsText><img src="http://www.ILipra.org/images/ParkPursuit2006Logo150x165.jpg" width="150" height="165" hspace="5" align="right"></SPAN>        The Park Pursuit, modeled after the hugely successful Amazing Race game, allows for the members of IPRA to engage in a day-long race where team building, healthy competition and recreation take center stage.<br>
+        <br>
+        Participants of the Park Pursuit, made up of teams of four, will be challenged both physically and mentally as they race through the streets and parks of Lincoln Park. Clue cards will direct teams to various Lincoln Park landmarks where tasks will be performed to continue on in the race. Not only are bragging rights at stake but participants will get a true sense of unity while learning to work better as a team.<br>
+      <br>
+      <a href="http://www.ILipra.org/forms/ParkPursuit06RegistrationForm.pdf" target="_blank">Click here</a> for registration information. Early registration ends June 30...don't wait and pay more!<br>
+      <br>
+      Thank you to our 2006 Park Pursuit sponsors:<br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *** Premier Sponsor *** <br>
+        <a href="http://chicagoregency.hyatt.com/hyatt/hotels/index.jsp" target="_blank"><img src="http://www.ILipra.org/images/regency_CHGO_color150x64.gif" width="150" height="64" border="0"></a> <a href="http://www.moosejaw.com/" target="_blank"><br>
+        <img src="http://www.ILipra.org/images/MoosejawLogoRed101x21.gif" width="101" height="21" border="0"></a> <a href="http://www.design-perspectives.net/" target="_blank"><img src="http://www.ILipra.org/images/DesignPerspectivesLogo.jpg" width="73" height="50" border="0"></a> <a href="http://www.hitchcockdesigngroup.com/" target="_blank"><img src="http://www.ILipra.org/images/HitchcockDesignLogoSmall.gif" width="101" height="60" border="0"> </a><a href="http://www.illinoispump.com/" target="_blank"><img src="http://www.ILipra.org/images/IllinoisPumpLogo.jpg" width="45" height="55" border="0"></a>      
+      <hr>
+      <p align="left" class="style33"><STRONG><SPAN class=style51>Camp Counselor Challenge<img src="http://www.ilipra.org/images/counselors200x133.jpg" width="200" height="133" align="right"><br>
+        </SPAN></STRONG><strong>June 24  at the Bensenville Park District<br>
+        <strong>Cost: $65 for  IPRA members<br>
+        <strong>Registration deadline is June 16 </strong> </strong> <br>
+        <a href="http://www.ilipra.org/Forms/CampCounselorChallenge.pdf" target="_blank">Click here</a> for registration information.</strong><br>
+        <br>
+        Do you have great camp counselors? Do you want to motivate them to do their best? Camp counselors will have the opportunity to compete against other teams of counselors throughout the area to be the &ldquo;Best team of counselors.&rdquo; 
+      
+      <p align="left" class="style33">A team is comprised of 4 counselors.
+Hurry and get your team ready for some fun! 
+      <hr>
+      <P align=left class="style33"><SPAN class=style51>&quot;Category 5&quot; Fun at Hurricane Harbor </SPAN><BR>
+      <SPAN 
+class=NewsText><img src="http://www.ILipra.org/images/HurricanHarborLogo150x110.jpg" width="150" height="110" align="right">The  new Hurricane Harbor water park at Six Flags Great America is making waves this summer! </SPAN><SPAN 
+class=NewsText>Join us on June 27, June 29, July 12, July 13, July 15, August 3 or August 5 for IPRA Days.</SPAN></P>
+      <P align=left class="style33"><SPAN 
+class=NewsText>Plan a group outing for your day camps this summer and have a ton of fun. Tickets are purchased on consignment and your agency will not be billed until a final count is determined on August 17.</SPAN></P>
+      <P align=left class="style33"><SPAN 
+class=NewsText>Tickets are only $28 versus the regular gate price of $56.<BR>
+        <BR>
+        <A href="http://www.ilipra.org/forms/Reg-0603140158.pdf" 
+target=_blank>Click here</A> to get registered</SPAN></P>
+      <hr>
+      <p align="left" class="style33"><SPAN class=style51>Lifeguard Games </SPAN><BR>
+          Aug 5 at Bensenville Water Park<br>
+          Cost: Early Bird Fee of $70 per team if you register before July 15<br>
+          Registration deadline is August 28<br>
+          <a href="http://www.ilipra.org/Forms/Reg-06031411401.pdf" target="_blank">Click here</a> for registration information.
+          <br>
+        <br>
+          The IPRA Lifeguard Games is a competition for park and recreation
+agency lifeguards and junior lifeguards. Teams of 4 (2 male and 2
+female or 1 male and 3 female) will compete in a series of events to
+test their lifeguard skills, strength, speed, endurance and their
+ability to work as a team. This is a friendly competition that
+encourages each guard to rise to challenges, practice their craft,
+learn from other guards and have fun. </p>
+      <hr>
+      <p align="left" class="style33"><SPAN class=style51>Teen Canoe Trip </SPAN><BR>
+Aug 9-10 in Sauk City, WI <br>
+Cost: $55 per person or $26 per SRA participant <br>
+Registration deadline is August 28<br>
+<a href="http://www.ilipra.org/Forms/Reg-0605021135.pdf" target="_blank">Click here</a> for registration information. <br>
+<br>
+The  Teen Canoe Trip is set on a 21-mile scenic stretch of the Wisconsin River northwest of Madison. On the first day, we will canoe approximately 12 miles and set-up camp along the river. The second day will consist of packing up and paddling the final 9-mile stretch.<br>
+<br>
+A special schedule is planned for SRAs with a reduced fee! <br>
+<br>
+      Registration is first come-first served. There is an agency maximum of 10 participants including staff. The trip maximum is 150 participants.</p>
+      <p align="left" class="style33">      
+        <script language="JavaScript" type="text/JavaScript">
+<form style="border:0px solid #ccc;padding:0px;text-align:left;" action="http://www.feedburner.com/fb/a/emailverify" method="post" target="popupwindow" onsubmit="window.open('http://www.feedburner.com', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><font size="2">Enter your email address to have posts sent directly to you!</font size><br><input type="text" style="width:140px" name="email"/><input type="hidden" value="http://feeds.feedburner.com/~e?ffid=338912" name="url"/><input type="hidden" value="IPRA...The Blog Spot" name="title"/><input type="submit" value="Subscribe" /><br><font size="2">Delivered by <a href="http://www.feedburner.com/" target="_blank">FeedBurner</a></font size></p></form>
+        </script>
+        <script language="JavaScript" type="text/JavaScript">
+<form style="border:0px solid #ccc;padding:0px;text-align:left;" action="http://www.feedburner.com/fb/a/emailverify" method="post" target="popupwindow" onsubmit="window.open('http://www.feedburner.com', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><font size="2">Enter your email address to have posts sent directly to you!</font size><br><input type="text" style="width:140px" name="email"/><input type="hidden" value="http://feeds.feedburner.com/~e?ffid=338912" name="url"/><input type="hidden" value="IPRA...The Blog Spot" name="title"/><input type="submit" value="Subscribe" /><br><font size="2">Delivered by <a href="http://www.feedburner.com/" target="_blank">FeedBurner</a></font size></p></form>
+        </script>
+      </p></th>
+</tr>
+  <tr bordercolor="#026287">
+    <th height="32" colspan="2" bordercolor="#026287" bgcolor="#6EA5BC" scope="row"><div align="left" class="style13">
+      <div align="left">Copyright &copy; 2006 Illinois Park &amp; Recreation Assoc.<br>
+        <a href="http://www.ilipra.org" target="_blank">IPRA Website </a>      </div>
+    </div></th>
+  </tr>
+</table>
+
+
+</body>
+</html>

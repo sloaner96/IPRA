@@ -1,0 +1,358 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>IAPD/IPRA 2004 Exhibitor's Prospectus</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v6.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : ((args[i+1])? args[i+1] : img.MM_up);
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    nbArr = document[grpName];
+    if (nbArr)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = (args[i+1])? args[i+1] : img.MM_up;
+      nbArr[nbArr.length] = img;
+  } }
+}
+//-->
+</script>
+</head>
+
+<body bgcolor="#DDDDBB" text="#000000" link="#003366" vlink="#660000" alink="#336666" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="MM_preloadImages('graphics/menu_02_over.gif','graphics/menu_03_over.gif','graphics/menu_04_over.gif','graphics/menu_05_over.gif')">
+<p align="center">
+<img src="graphics/head.jpg" hspace="0" vspace="0" width="600" height="195">
+<div align="center">
+  <center>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="graphics/menu_01_over.gif" alt="" name="menu_01" hspace="0" vspace="0" border="0" onload="" width="120" height="24"></td>
+    <td><a href="packages.html" target="_top" onClick="MM_nbGroup('down','group1','menu_02','graphics/menu_02_over.gif',1)" onMouseOver="MM_nbGroup('over','menu_02','graphics/menu_02_over.gif','',1)" onMouseOut="MM_nbGroup('out')"><img src="graphics/menu_02.gif" alt="" name="menu_02" width="120" height="24" hspace="0" vspace="0" border="0" onload=""></a></td>
+    <td><a href="sponsorship.html" target="_top" onClick="MM_nbGroup('down','group1','menu_03','graphics/menu_03_over.gif',1)" onMouseOver="MM_nbGroup('over','menu_03','graphics/menu_03_over.gif','',1)" onMouseOut="MM_nbGroup('out')"><img src="graphics/menu_03.gif" alt="" name="menu_03" width="120" height="24" hspace="0" vspace="0" border="0" onload=""></a></td>
+    <td><a href="floorplan.html" target="_top" onClick="MM_nbGroup('down','group1','menu_04','graphics/menu_04_over.gif',1)" onMouseOver="MM_nbGroup('over','menu_04','graphics/menu_04_over.gif','',1)" onMouseOut="MM_nbGroup('out')"><img src="graphics/menu_04.gif" alt="" name="menu_04" width="120" height="24" hspace="0" vspace="0" border="0" onload=""></a></td>
+    <td><a href="forms.html" target="_top" onClick="MM_nbGroup('down','group1','menu_05','graphics/menu_05_over.gif',1)" onMouseOver="MM_nbGroup('over','menu_05','graphics/menu_05_over.gif','',1)" onMouseOut="MM_nbGroup('out')"><img src="graphics/menu_05.gif" alt="" name="menu_05" hspace="0" vspace="0" border="0" onload="" width="120" height="24"></a></td>
+  </tr>
+</table>
+  </center>
+</div>
+<div align="center">
+  <center>
+<table width="600" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <p align="center"><br>
+      <strong><font size="5" color="#800000">January 22&#8211;24, 2004<br>
+      </font><font size="+1">
+  		Hyatt Regency Chicago<br>
+	Chicago, Illinois</font></strong></p>
+    </td>
+  </tr>
+</table>
+  </center>
+</div>
+<div align="center">
+  <center>
+<table width="600" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+	<td width="18">&nbsp;</td>
+    <td>&nbsp;
+		<p>We invite you and your company to join with the Illinois Association
+  of Park Districts and the Illinois Park and Recreation Association to celebrate
+  a new year of commitment and growth at our 2004 Conference, to be held January
+  22&#8211;24,	2004, at the Hyatt Regency Chicago.</p>
+		<p>Come join us by attending the state&#8217;s largest park and recreation conference.
+		You&#8217;ll receive unprecedented exposure to park and recreation professionals,
+		most of whom make buying decisions likely to impact your company&#8217;s bottom
+		line. Showcase your newest products, ideas and services. Meet the people you
+		need to know. </p>
+		<p>Making the decision to attend is easy! We will help you every step of
+		the way. You&#8217;ll find it all at the Hyatt Regency Chicago in January and
+		we look forward to seeing you there.</p>
+		Best Wishes,<br>
+		2004 Exhibit Committee
+		<br>
+	</td>
+	<td width="18">&nbsp;</td>
+  </tr>
+  <tr>
+	<td width="18"></td>
+    <td>
+	</td>
+	<td width="18"></td>
+  </tr>
+  <tr>
+	<td width="18"></td>
+    <td>
+      <div align="center">
+        <center>
+        <table border="0" cellspacing="1" height="1175" width="461">
+          <tr>
+            <td height="21" width="453" colspan="2" align="center"><font face="MS Sans Serif" size="1">
+              <hr color="#000080">
+              </font></td>
+          </tr>
+          <tr>
+            <td height="78" width="453" colspan="2">
+              <p align="center"><b><font color="#000080" size="3">Over 20 Booths
+              Added for 2004 Show!</font></b></p>
+              <p align="center">For more information, contact Sheila Lowrey:<a href="mailto:Lowrey:sheila@ilipra.org"><br>
+              sheila@ilipra.org</a>&nbsp;&nbsp;&nbsp;&nbsp; 630.752.0141</td>
+          </tr>
+          <tr>
+            <td height="21" width="453" colspan="2"><font face="MS Sans Serif" size="1">
+              <hr color="#000080">
+              </font></td>
+          </tr>
+          <tr>
+            <td height="128" width="227" align="center"><a href="../images/exhall_03al.jpg"><img border="4" src="../images/exhall_03as.jpg" width="180" height="118"></a></td>
+            <td height="128" width="226" align="center"><a href="../images/exhall_03bl.jpg"><img border="4" src="../images/exhall_03bs.jpg" width="180" height="118"></a></td>
+          </tr>
+          <tr>
+            <td height="21" width="453" colspan="2" align="center"><font face="MS Sans Serif" size="1">
+              <hr color="#000080">
+              </font></td>
+          </tr>
+          <tr>
+            <td colspan="2" height="21" width="453"><b><font color="#000080" size="3">Tentative
+              Schedule of Events</font></b></td>
+          </tr>
+          <tr>
+            <td valign="top" width="227" height="1"><b><font color="#800000">Thursday,
+              January 22</font></b><br>
+              <font face="Arial Narrow">
+              <font color="#000080">7:30 am - 6:00 pm<br>
+              8:30 am - 12:00 pm<br>
+              1:00 pm - 3:00 pm<br>
+              1:00 pm - 4:30 pm<br>
+              </font><i><b><font color="#003300">3:00 pm - 6:00 pm</font></b></i></font><font color="#000080"><font face="Arial Narrow"><br>
+              6:30 pm - 12:30 am<br>
+              9:00 pm - 12:00 am</font><br>
+              </font>
+              <p><b><font color="#800000">Friday, January 23</font></b><br>
+              <font face="Arial Narrow">
+              <font color="#000080">7:30 am - 4:30 pm<br>
+              8:15 am - 9:30 am<br>
+              </font><b><i><font color="#003300">9:00 am - 12:00 pm</font></i></b><font color="#000080"><br>
+              8:30 am - 10:30 pm<br>
+              10:45 am - 11:30 pm<br>
+              12:00 pm - 2:00 pm<br>
+              </font><b><i><font color="#003300">2:00 pm - 5:00 pm</font></i></b><font color="#000080"><br>
+              2:15 pm - 3:30 pm<br>
+              3:00 pm - 5:00 pm<br>
+              3:30 pm - 4:45 pm<br>
+              5:00 pm - 6:30 pm<br>
+              6:30 pm - 9:00 pm</font></font></p>
+              <p><b><font color="#800000">Saturday, January 24</font></b><br>
+              <font face="Arial Narrow">
+              <font color="#000080">7:30 am - 11:30 am<br>
+              8:30 am - 9:45 am<br>
+              </font><b><i><font color="#003300">9:00 am - 12:00 pm</font></i></b><font color="#000080"><br>
+              10:00 am - 12:00 pm<br>
+              10:15 am - 11:30 pm<br>
+              12:30 pm - 1:45 pm<br>
+              12:45 pm - 2:45 pm<br>
+              2:00 pm - 3:15 pm<br>
+              3:30 pm - 4:45 pm<br>
+              7:00 pm - 9:00 pm</font></font></td>
+            <td height="1" valign="top" width="220"><font color="#000080"><br>
+              <font face="Arial Narrow">
+              Registration Desk Open<br>
+              Pre-Conference Workshop<br>
+              Office Support Workshop<br>
+              Pre-Conference Workshop<br>
+              </font>
+              </font><font face="Arial Narrow"><b><i><font color="#003300">Exhibit Hall Grand Opening</font></i></b><font color="#000080"><br>
+              University &amp; Affiliate Hospitalities<br>
+              Thursday Evening Social&nbsp;</font>
+              </font>
+              <p><font color="#000080"><br>
+              <font face="Arial Narrow">
+              Registration Desk Open<br>
+              Educational Sessions<br>
+              </font>
+              </font><font face="Arial Narrow"><b><i><font color="#003300">Exhibit Hall Open</font></i></b><font color="#000080"><br>
+              CEU Workshops<br>
+              Educational Sessions<br>
+              All-Conference Luncheon &amp; Awards<br>
+              </font><b><i><font color="#003300">Exhibit Hall Open</font></i></b><font color="#000080"><br>
+              Dessert in the Exhibit Hall<br>
+              CEU Workshops<br>
+              Educational Sessions<br>
+              IPRA Annual Business Mtg.<br>
+              University &amp; Affiliate Hospitalities</font></font></p>
+              <p><font color="#000080"><br>
+              <font face="Arial Narrow">
+              Registration Desk Open<br>
+              Educational Sessions<br>
+              </font>
+              </font><font face="Arial Narrow"><b><i><font color="#003300">Exhibit Hall Open</font></i></b><font color="#000080"><br>
+              CEU Workshops<br>
+              Educational Sessions<br>
+              Educational Sessions<br>
+              CEU Workshops<br>
+              Educational Sessions<br>
+              IAPD Annual Business Mtg.<br>
+              Saturday Evening Social
+              </font></font></td>
+          </tr>
+          <tr>
+            <td colspan="2" height="21" width="453"><font face="MS Sans Serif" size="1">
+              <hr color="#800000">
+              </font></td>
+          </tr>
+          <tr>
+            <td height="113" width="227">
+              <p align="center"><a href="http://www.choosechicago.com/TODO.HTM"><img border="0" src="../images/chi_cvb_logo.gif" alt="Click Here to Find Out What to Do In Chicago!" width="146" height="103"></a></p>
+            </td>
+            <td height="113" width="220">
+              <p align="center"><font color="#000080"><i>Click to the left to<br>
+              discover all there is<br>
+              to see and do in Chicago!<br>
+              </i><b>&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</b></font></td>
+          </tr>
+          <tr>
+            <td height="47" width="447" colspan="2"><font face="MS Sans Serif" size="1">
+              <hr color="#800000">
+              </font></td>
+          </tr>
+        </table>
+        </center>
+      </div>
+      <div align="center">
+        <center>
+        <table border="0" cellspacing="1" height="894" width="461">
+          <tr>
+            <td height="133" width="200">
+              <p align="center"><b><font color="#800000" face="Script MT Bold" size="4">Hyatt
+              Regency Chicago</font><font face="Lucida Calligraphy"><br>
+              </font><i><font color="#800000" size="4"><br>
+              </font><font color="#000080" size="5">IPRA / IAPD<br>
+              </font><font size="3" color="#000080">2004 Conference Host Hotel</font></i></b></td>
+            <font face="MS Sans Serif" size="1">
+            <td height="133" width="377">
+              <p align="center"><font face="MS Sans Serif" size="1"><img border="4" src="../images/hyatt1.jpg" width="200" height="150"></font></td>
+            </font>
+          </tr>
+          <tr>
+            <font face="MS Sans Serif" size="1">
+            <td height="18" width="200"></td>
+            </font>
+            <td height="18" width="377">
+              <p align="center"><i><b><font color="#800000" face="Times New Roman" size="1">Atrium
+              Lobby</font></b></i></td>
+          </tr>
+          <tr>
+            <font face="MS Sans Serif" size="1">
+            <td colspan="2" height="14" width="583"><font face="MS Sans Serif" size="1">
+              <hr color="#000080">
+              </font></td>
+            </font>
+          </tr>
+          <tr>
+            <font face="MS Sans Serif" size="1">
+            <td height="26" width="577" colspan="2">
+              <p align="center"><b><font color="#800000">Hyatt Regency Chicago,
+              151 East Wacker Drive, Chicago, IL&nbsp; 60601</font></b></p>
+              <p align="center"><b><font color="#800000">Telephone:&nbsp;
+              312.565.1234</font></b></td>
+            </font>
+          </tr>
+          <tr>
+            <td colspan="2" height="143" width="583">
+              <hr color="#000080">
+              <p><b><font size="3" color="#990000">Directions to the Hyatt
+              Regency</font></b><br>
+              <font color="#000080">From O’Hare International Airport (25
+              miles): Take Kennedy Expressway&nbsp;<br>
+              (I-90/94) East to Ohio St. exit. Proceed on Ohio to State St. and
+              turn right.&nbsp; Turn left at Wacker Drive. Hotel is one block on
+              right.&nbsp;</font></p>
+              <p><font color="#000080">From Midway Airport&nbsp;(15 miles): Take
+              Cicero Ave. north to Stevenson Expressway (I-55) North.&nbsp;Exit
+              at Dan Ryan Expressway (I-90/94) West. Exit at Washington St. and
+              proceed east to Michigan Ave. Turn left. Proceed north to Wacker
+              Drive.&nbsp;Turn right. Hotel is one block on right.</font><font face="MS Sans Serif" size="1"></p>
+              </font></td>
+          </tr>
+          <tr>
+            <td height="6" width="200"><font size="1">&nbsp;</font></td>
+            <td height="6" width="377"><font size="1">&nbsp;</font></td>
+          </tr>
+          <tr>
+            <td colspan="2" align="center" height="329" width="583"><img border="0" src="../images/hyattmap2.gif" width="400" height="400"><br>
+              <hr color="#000080">
+            </td>
+          </tr>
+        </table>
+        </center>
+      </div>
+      <p align="center"><b><a href="/Conference/conference.cfm">Back
+      to Conference Main Page</a></b>
+	</td>
+	<td width="18"></td>
+  </tr>
+  <tr>
+	<td width="18"></td>
+    <td>
+	</td>
+	<td width="18"></td>
+  </tr>
+</table>
+  </center>
+</div>
+<br>
+<div align="center">
+  <center>
+<table width="600" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><center>
+    <p><font size="-1">&copy; 2003, Illinois Park &amp; Recreation Association.&nbsp; All
+        Rights Reserved.<br>
+      106 North Schmale Road<br>
+    Carol Stream, IL 60188<br>
+    630-752-0141</font></p>
+    </center></td>
+  </tr>
+</table>
+  </center>
+</div>
+<p>&nbsp;</p>
+</body>
+</html>

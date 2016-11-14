@@ -1,0 +1,1 @@
+<cflocation url="ListEvents.cfm" addtoken="NO">

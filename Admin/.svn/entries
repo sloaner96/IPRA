@@ -1,0 +1,373 @@
+8
+
+dir
+2
+http://svn.x2interweb.net/svn/ipra/trunk/Admin
+http://svn.x2interweb.net/svn/ipra
+
+
+
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+139329b2-1eba-436e-9e6a-ea0a2bdd368c
+
+Surveys
+dir
+
+Updatenews.cfm
+file
+
+
+
+
+2007-06-27T00:45:17.893861Z
+09ab4884e682f6ae462cc6837482cd0f
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+CreateSchedule.cfm
+file
+
+
+
+
+2007-06-27T00:45:17.909486Z
+fe31a9e6538a35b8b2a0af69d84f652d
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+RunSchedule.cfm
+file
+
+
+
+
+2007-06-27T00:45:17.940736Z
+dff17cd480af07063481c465a87146a3
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+CCTEST_action.cfm
+file
+
+
+
+
+2007-06-27T00:45:17.956361Z
+fa559e5617a6bbe924fb5ad4441073a2
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+ProcessMaster_action.cfm
+file
+
+
+
+
+2007-06-27T00:45:17.987611Z
+0df6df5755cb31864c50e35e94cb7eb6
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+Store
+dir
+
+ProcessMaster.cfm
+file
+
+
+
+
+2007-06-27T00:45:18.018862Z
+08846e703d05888169fd6c5eca0f038c
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+Coop
+dir
+
+SearchNews.cfm
+file
+
+
+
+
+2007-06-27T00:45:18.034487Z
+0c25138cfef0002aef0bf847fb74424a
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+Forums_old
+dir
+
+Agency.cfm
+file
+
+
+
+
+2007-06-27T00:45:18.065737Z
+a6ab3da96d847a0b8db4b33a6ec21fbd
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+Resources
+dir
+
+index.cfm
+file
+
+
+
+
+2007-06-27T00:45:18.081362Z
+52d12d59f1c1c2bc47e12b2d62c6b8d8
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+Forums
+dir
+
+Login.cfm
+file
+
+
+
+
+2007-06-27T00:45:18.112612Z
+4dac8b13d805cc189b46fa2979e52f76
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+Queries
+dir
+
+authorize.cfm
+file
+
+
+
+
+2007-06-27T00:45:18.128237Z
+0b6328b07849e66526da0638c9f8f266
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+CreateCollection.cfm
+file
+
+
+
+
+2007-06-27T00:45:18.175113Z
+970a49ab4d2fe9450ba9c9f5cea599f2
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+Test.cfm
+file
+
+
+
+
+2007-06-27T00:45:18.159488Z
+e25b2e80dc8cc7e49e1e4a65dabd6780
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+Categories
+dir
+
+EditNews.cfm
+file
+
+
+
+
+2007-06-27T00:45:18.206363Z
+1a17eef6f923afe964b0015fa6948cae
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+CCTEST.cfm
+file
+
+
+
+
+2007-06-27T00:45:18.253238Z
+a1171d326d6df948c16a1e8aed976fd4
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+AddNews.cfm
+file
+
+
+
+
+2007-06-27T00:45:18.237613Z
+0cd6a5cb710f57eaf8d0493829de33c0
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+Downloads
+dir
+
+Membership
+dir
+
+banners.cfm
+file
+
+
+
+
+2007-06-27T00:45:18.284488Z
+6ba5824a6e10f8918160291a658a6970
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+stats
+dir
+
+JobPostings
+dir
+
+Users
+dir
+
+UpdateCeus_action.cfm
+file
+
+
+
+
+2007-06-27T00:45:18.300113Z
+eb295d3a18f59a83314b4aa5c9e50b52
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+Sql.cfm
+file
+
+
+
+
+2007-06-27T00:45:18.331364Z
+f6347f91c3675efda43c9e25d43e29a9
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+Events
+dir
+
+UpdateCeus.cfm
+file
+
+
+
+
+2007-06-27T00:45:18.362614Z
+eb295d3a18f59a83314b4aa5c9e50b52
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+Uploads
+dir
+
+Articles.cfm
+file
+
+
+
+
+2007-06-27T00:45:18.378239Z
+6a9e17d88c086a5d37cfb3b0e7f07b37
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+Updatebanner.cfm
+file
+
+
+
+
+2007-06-27T00:45:18.409489Z
+c35338830989c785e64fcdb2699337e8
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+AuditLog.cfm
+file
+
+
+
+
+2007-06-27T00:45:18.425114Z
+632e17cb1c48b3b53061c48dbabc9835
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+Altertbl.cfm
+file
+
+
+
+
+2007-06-27T00:45:18.456364Z
+1d7f5a2bb099724e871fba74816820ca
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+logout.cfm
+file
+
+
+
+
+2007-06-27T00:45:18.471990Z
+380a92a536d97ab35e09568d5d6a4d4c
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+

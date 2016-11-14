@@ -1,0 +1,72 @@
+8
+
+dir
+2
+http://svn.x2interweb.net/svn/ipra/trunk/psa
+http://svn.x2interweb.net/svn/ipra
+
+
+
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+139329b2-1eba-436e-9e6a-ea0a2bdd368c
+
+CDI
+dir
+
+MPEGAV
+dir
+
+EXT
+dir
+
+SEGMENT
+dir
+
+MPGDEC.AX
+file
+
+
+
+
+2007-06-27T00:46:18.941127Z
+439c164e9acf6706f8bbf7abaa323dcf
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+has-props
+
+MPEG2DMX.AX
+file
+
+
+
+
+2007-06-27T00:46:19.066127Z
+c50d572fb1434ba5a290fc54c1ecbdeb
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+has-props
+
+CDDA
+dir
+
+VCD
+dir
+

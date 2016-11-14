@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/surveys
+END
+Survey_Process.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/surveys/Survey_Process.cfm
+END
+Survey_vip.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/surveys/Survey_vip.cfm
+END
+qry_Report_All.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/surveys/qry_Report_All.cfm
+END
+Survey_Full.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/surveys/Survey_Full.cfm
+END
+printstyle.css
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/surveys/printstyle.css
+END
+Survey_feedback.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/surveys/Survey_feedback.cfm
+END
+Report_byGroup.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/surveys/Report_byGroup.cfm
+END
+qry_Report_Group.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/surveys/qry_Report_Group.cfm
+END
+application.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/surveys/application.cfm
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/surveys/style.css
+END
+Respondent_verify.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/surveys/Respondent_verify.cfm
+END
+Survey_insertFeedback.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/surveys/Survey_insertFeedback.cfm
+END
+index.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/surveys/index.cfm
+END
+Respondent_login.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/surveys/Respondent_login.cfm
+END

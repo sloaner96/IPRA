@@ -1,0 +1,899 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <title>IPRA...The Blog Spot</title>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="MSSmartTagsPreventParsing" content="true" />
+<meta name="generator" content="Blogger" />
+<link rel="alternate" type="application/atom+xml" title="IPRA...The Blog Spot" href="http://ipra.blogspot.com/atom.xml" />
+<link rel="service.post" type="application/atom+xml" title="IPRA...The Blog Spot" href="https://www.blogger.com/atom/13022477" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.blogger.com/rsd.g?blogID=13022477" />
+<style type="text/css">
+@import url("http://www.blogger.com/css/blog_controls.css");
+@import url("http://www.blogger.com/dyn-css/authorization.css?blogID=13022477");
+</style>
+
+
+  <style type="text/css">
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Minima
+Designer: Douglas Bowman
+URL:      www.stopdesign.com
+Date:     26 Feb 2004
+----------------------------------------------- */
+
+<script type="text/javascript"
+src="http://technorati.com/embed/gu8k38g77y.js"> </script>
+
+body {
+  background:#fff;
+  margin:0;
+  padding:10px 10px;
+  font:x-small Georgia,Serif;
+  text-align:center;
+  color:#333;
+  font-size/* */:/**/small;
+  font-size: /**/small;
+  }
+a:link {
+  color:#58a;
+  text-decoration:none;
+  }
+a:visited {
+  color:#969;
+  text-decoration:none;
+  }
+a:hover {
+  color:#c60;
+  text-decoration:underline;
+  }
+a img {
+  border-width:0;
+  }
+
+
+/* Header
+----------------------------------------------- */
+#header {
+  width:900px;
+  margin:0 auto 10px;
+  border:0px solid #ccc;
+  }
+#blog-title {
+  margin:5px 5px 0;
+  padding:15px 15px .25em;
+  border:0px solid #eee;
+  border-width:1px 1px 0;
+  font-size:200%;
+  line-height:0.7em;
+  font-weight:normal;
+  color:#026888;
+  text-transform:lowercase;
+  letter-spacing:.2em;
+  }
+#blog-title a {
+  color:#666;
+  text-decoration:none;
+  }
+#blog-title a:hover {
+  color:#c60;
+  }
+#description {
+  margin:0 5px 5px;
+  padding:0 20px 20px;
+  border:1px solid #eee;
+  border-width:0 1px 1px;
+  max-width:700px;
+  font:78%/1.4em "Trebuchet MS",Trebuchet,Arial,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.2em;
+  color:#999;
+  }
+
+
+/* Content
+----------------------------------------------- */
+#content {
+  width:900px;
+  margin:0 auto;
+  padding:0;
+  text-align:left;
+  }
+#main {
+  width:600px;
+  padding:0 50px 50px;
+  float:left;
+  }
+#sidebar {
+  width:200px;
+  padding:0 50px 50px;
+  float:left;
+  }
+
+
+/* Headings
+----------------------------------------------- */
+h2 {
+  margin:1.5em 0 .75em;
+  font:100%/1.4em "Trebuchet MS",Trebuchet,Arial,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.2em;
+  color:#E89D00;
+  }
+
+
+/* Posts
+----------------------------------------------- */
+.date-header {
+  margin:1.5em 0 .5em;
+  }
+.post {
+  margin:.5em 0 1.5em;
+  border-bottom:1px dotted #ccc;
+  padding-bottom:1.5em;
+  }
+.post-title {
+  margin:.25em 0 0;
+  padding:0 0 4px;
+  font-size:140%;
+  font-weight:normal;
+  line-height:1.4em;
+  color:#026888;
+  }
+.post-title a, .post-title a:visited, .post-title strong {
+  display:block;
+  text-decoration:none;
+  color:#c60;
+  font-weight:normal;
+  }
+.post-title strong, .post-title a:hover {
+  color:#333;
+  }
+.post div {
+  margin:0 0 .75em;
+  line-height:1.6em;
+  }
+p.post-footer {
+  margin:-.25em 0 0;
+  color:#ccc;
+  }
+.post-footer em, .comment-link {
+  font:78%/1.4em "Trebuchet MS",Trebuchet,Arial,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.1em;
+  }
+.post-footer em {
+  font-style:normal;
+  color:#999;
+  margin-right:.6em;
+  }
+.comment-link {
+  margin-left:.6em;
+  }
+.post img {
+  padding:4px;
+  border:1px solid #ddd;
+  }
+.post blockquote {
+  margin:1em 20px;
+  }
+.post blockquote p {
+  margin:.75em 0;
+  }
+
+
+/* Comments
+----------------------------------------------- */
+#comments h4 {
+  margin:1em 0;
+  font:bold 78%/1.6em "Trebuchet MS",Trebuchet,Arial,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.2em;
+  color:#999;
+  }
+#comments h4 strong {
+  font-size:130%;
+  }
+#comments-block {
+  margin:1em 0 1.5em;
+  line-height:1.6em;
+  }
+#comments-block dt {
+  margin:.5em 0;
+  }
+#comments-block dd {
+  margin:.25em 0 0;
+  }
+#comments-block dd.comment-timestamp {
+  margin:-.25em 0 2em;
+  font:78%/1.4em "Trebuchet MS",Trebuchet,Arial,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.1em;
+  }
+#comments-block dd p {
+  margin:0 0 .75em;
+  }
+.deleted-comment {
+  font-style:italic;
+  color:gray;
+  }
+
+
+/* Sidebar Content
+----------------------------------------------- */
+#sidebar ul {
+  margin:0 0 1.5em;
+  padding:0 0 1.5em;
+  border-bottom:1px dotted #ccc;
+  list-style:none;
+  }
+#sidebar li {
+  margin:0;
+  padding:0 0 .25em 15px;
+  text-indent:-15px;
+  line-height:1.5em;
+  }
+#sidebar p {
+  color:#666;
+  line-height:1.5em;
+  }
+
+
+/* Profile
+----------------------------------------------- */
+#profile-container {
+  margin:0 0 1.5em;
+  border-bottom:1px dotted #ccc;
+  padding-bottom:1.5em;
+  }
+.profile-datablock {
+  margin:.5em 0 .5em;
+  }
+.profile-img {
+  display:inline;
+  }
+.profile-img img {
+  float:left;
+  padding:4px;
+  border:1px solid #ddd;
+  margin:0 8px 3px 0;
+  }
+.profile-data {
+  margin:0;
+  font:bold 78%/1.6em "Trebuchet MS",Trebuchet,Arial,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.1em;
+  }
+.profile-data strong {
+  display:none;
+  }
+.profile-textblock {
+  margin:0 0 .5em;
+  }
+.profile-link {
+  margin:0;
+  font:78%/1.4em "Trebuchet MS",Trebuchet,Arial,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.1em;
+  }
+
+
+/* Footer
+----------------------------------------------- */
+#footer {
+  width:660px;
+  clear:both;
+  margin:0 auto;
+  }
+#footer hr {
+  display:none;
+  }
+#footer p {
+  margin:0;
+  padding-top:15px;
+  font:78%/1.6em "Trebuchet MS",Trebuchet,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.1em;
+  }
+  </style>
+
+<!-- --><style type="text/css">@import url(http://www.blogger.com/css/navbar/main.css);
+@import url(http://www.blogger.com/css/navbar/1.css);
+div.b-mobile {display:none;}
+</style>
+
+</head>
+<body><!-- --><div id="b-navbar"><a href="http://www.blogger.com/" id="b-logo" title="Go to Blogger.com"><img src="http://www.blogger.com/img/navbar/1/logobar.gif" alt="Blogger" width="80" height="24" /></a><div id="b-sms" class="b-mobile"><a href="smsto:?body=Hi%2C%20please%20check%20out%20my%20blog%20at%20www.ilipra.org%2Fblog%2F">Send via SMS</a></div><form id="b-search" name="b-search" action="http://search.blogger.com/"><div id="b-more"><a href="http://www.blogger.com/" id="b-getorpost"><img src="http://www.blogger.com/img/navbar/1/btn_getblog.gif" alt="Get your own blog" width="112" height="15" /></a><a href="http://www.blogger.com/redirect/next_blog.pyra?navBar=true" id="b-next"><img src="http://www.blogger.com/img/navbar/1/btn_nextblog.gif" alt="Next blog" width="72" height="15" /></a></div><div id="b-this"><input type="text" id="b-query" name="as_q" /><input type="hidden" name="ie" value="UTF-8" /><input type="hidden" name="ui" value="blg" /><input type="hidden" name="bl_url" value="www.ilipra.org/blog/" /><input type="image" src="http://www.blogger.com/img/navbar/1/btn_search_this.gif" alt="Search This Blog" id="b-searchbtn" title="Search this blog with Google Blog Search" onclick="document.forms['b-search'].bl_url.value='www.ilipra.org/blog/'" /><input type="image" src="http://www.blogger.com/img/navbar/1/btn_search_all.gif" alt="Search All Blogs" value="Search" id="b-searchallbtn" title="Search all blogs with Google Blog Search" onclick="document.forms['b-search'].bl_url.value=''" /><a href="javascript:BlogThis();" id="b-blogthis">BlogThis!</a></div></form></div><script type="text/javascript"><!--
+
+
+
+function BlogThis() {Q='';x=document;y=window;if(x.selection) {Q=x.selection.createRange().text;} else if (y.getSelection) { Q=y.getSelection();} else if (x.getSelection) { Q=x.getSelection();}popw = y.open('http://www.blogger.com/blog_this.pyra?t=' + escape(Q) + '&u=' + escape(location.href) + '&n=' + escape(document.title),'bloggerForm','scrollbars=no,width=475,height=300,top=175,left=75,status=yes,resizable=yes');void(0);}
+
+function blogspotInit() {}
+
+ --></script><script type="text/javascript">  blogspotInit();</script><div id="space-for-ie"></div>
+<div id="header">
+  <a target="0" href="http://www.ILipra.org"><img src="http://www.ilipra.org/images/IPRAblogHeader2.gif"/></a>
+</div>
+<!-- Begin #main -->
+<div id="main"><div id="main2">
+
+    
+  <h2 class="date-header">Wednesday, April 19, 2006</h2>
+    
+  <!-- Begin .post -->
+  <div class="post"><a name="114546430285294801"></a>
+         
+    <h3 class="post-title">
+	 
+	 Park district truly a treasure
+	 
+    </h3>
+    
+
+	         <div class="post-body">
+	<div>
+      <div style="clear:both;"></div>The following was written by Laura Hartman of Oswego in the April 19th Aurora Beacon News...great job Oswegoland Park District! Keep up the good work.<br /><br /><span style="font-style:italic;">Last week I came home from work and began sorting through the stack of mail waiting for me on the kitchen table. Under one of the daily ads trying to entice me to try a new credit card, on top of yet another People magazine sporting pictures of Tom and Katie, I found a treasure among the trash.<br /><br />The 2006 Oswegoland Park District summer brochure had arrived.<br /><br />The variety of things to do and learn, places to visit and explore, and special events offered is very impressive, especially for a village the size of Oswego. Right inside the front cover is a picture of Hudson Crossing Park, which is a 10-minute walk from our home. When we moved into the village three short years ago, the park was just beginning to take shape. Now it has blossomed into a shady green haven with a great view of the Fox River in the heart of town. There are park benches facing the river, picnic areas and a great family play area with swings, slides and climbing equipment. <br /><br />The Park District offers sports from soccer to football, volleyball to swimming for children and adults. Fitness classes run the gamut from "Wiggly Workout" for toddlers and parents to "Senior Fitness", with Pilates, Spinalates, Yoga, Martial Arts and many more in between. <br /><br />The classes available run from "Brewing Beer 101" — one I am sure my sons would love to attend — to a whole list of Dog Obedience courses. I know our Lab, Indy, should be enrolled in at least one, if not all of them. <br /><br />If your schedule won't allow you to commit to a class, check out the Special Events section. Every Wednesday night free movies or concerts are offered at Village Green Park. Pack up a few lawn chairs or blankets and enjoy the summer evenings with your neighbors and family. <br /><br />The movies are family oriented classics both new and old. Concerts this year include Louisiana Creole, rock and roll and country, so there is something for everyone. I can't think of a better way to spend a few hours than under the stars, munching popcorn watching a great movie, or tapping my toes to the lively beat of Zydeco music. <br /><br />The Oswego Country Market is also listed under Special Events. If you like corn so sweet you don't have to add butter, and deep red tomatoes so juicy they'll drip down your chin when you eat them still warmed by the sun, this outdoor market is for you. Last year, we stopped by the Country Market each Sunday morning to pick out fresh vegetables and fruit for the week. The new green leaves of the flowers I purchased at the market last year are just beginning to grow, promising the delicate blue blooms I enjoyed until fall. <br /><br />Even though the booklet mailed out outlines all the activities for this summer, I visited their official website, <a target="0" href="http://www.oswegolandparkdistrict.com">www.oswegolandparkdistrict.com</a>, for a little Park District history. It was established in 1950, and now includes 36 park sites with 598 acres of natural and developed parkland. Our Park District includes a skate park, a disc golf course, tennis courts, an aquatic park, a network of bicycle and pedestrian trails and facilities for classes and programs just to name a few. <br /><br />I hope you find a treasure in our Park District offerings. Be it PrairieFest, Oswego's Country Market, signing your children or yourself up for a class, or enjoying the warm summer sun at one of the parks. The tag line running up the side of their brochure says it all: "Creating opportunities for a healthy community". We just need to seize these opportunities for a happier and healthier summer.</span> <br /><br />- Laura Hartman of Oswego is an HR coordinator for Edward Don & Company, wife and mom of three grown sons and a spoiled Lab. She can be reached at hartman_j@sbcglobal.net<div style="clear:both; padding-bottom: 0.25em;"></div>
+    </div>
+    </div>
+    
+    <p class="post-footer">
+      <em>posted by The Blog Spot at <a href="http://www.ilipra.org/blog/2006/04/park-district-truly-treasure.html" title="permanent link">11:31 AM</a></em>
+      
+
+         <a class="comment-link" href="http://www.blogger.com/comment.g?blogID=13022477&amp;postID=114546430285294801&amp;isPopup=true" onclick="window.open('http://www.blogger.com/comment.g?blogID=13022477&amp;postID=114546430285294801&amp;isPopup=true', 'bloggerPopup', 'toolbar=0,scrollbars=1,location=0,statusbar=1,menubar=0,resizable=1,width=400,height=450');return false;">0 comments</a>
+
+        <span class="item-control admin-1390644127 pid-610376737"><a style="border:none;" href="http://www.blogger.com/post-edit.g?blogID=13022477&amp;postID=114546430285294801&amp;quickEdit=true" title="Edit Post"><span class="quick-edit-icon">&nbsp;</span></a></span>
+    </p>
+  
+  </div>
+  <!-- End .post -->
+  
+  
+  
+  <!-- Begin #comments -->
+ 
+
+  <!-- End #comments -->
+
+
+    
+  <h2 class="date-header">Thursday, April 13, 2006</h2>
+    
+  <!-- Begin .post -->
+  <div class="post"><a name="114495192215906500"></a>
+         
+    <h3 class="post-title">
+	 
+	 A 'Hole' Lotta Fun!
+	 
+    </h3>
+    
+
+	         <div class="post-body">
+	<div>
+      <div style="clear:both;"></div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://photos1.blogger.com/blogger/1519/961/1600/2006_golf_guide.jpg"><img style="float:left; margin:0 10px 10px 0;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/1519/961/320/2006_golf_guide.jpg" border="0" alt="" /></a> The 2006 IAPD/IPRA Golf Guide is now available to view. This comprehensive listing features public golf facilities operated by the members of both IAPD and IPRA. <br /><br />Because these facilities are owned and/or operated by IAPD/IPRA members, you know you’ll get a good value and find exceptional conditions, professional service, state-of-the-art amenities and excellent PGA instructors at these courses.<br /><br /><a href="http://www.ILipra.org/forms/2006_golf_guide.pdf">Download the Golf Guide</a>.<div style="clear:both; padding-bottom: 0.25em;"></div>
+    </div>
+    </div>
+    
+    <p class="post-footer">
+      <em>posted by The Blog Spot at <a href="http://www.ilipra.org/blog/2006/04/hole-lotta-fun.html" title="permanent link">1:04 PM</a></em>
+      
+
+         <a class="comment-link" href="http://www.blogger.com/comment.g?blogID=13022477&amp;postID=114495192215906500&amp;isPopup=true" onclick="window.open('http://www.blogger.com/comment.g?blogID=13022477&amp;postID=114495192215906500&amp;isPopup=true', 'bloggerPopup', 'toolbar=0,scrollbars=1,location=0,statusbar=1,menubar=0,resizable=1,width=400,height=450');return false;">0 comments</a>
+
+        <span class="item-control admin-1390644127 pid-610376737"><a style="border:none;" href="http://www.blogger.com/post-edit.g?blogID=13022477&amp;postID=114495192215906500&amp;quickEdit=true" title="Edit Post"><span class="quick-edit-icon">&nbsp;</span></a></span>
+    </p>
+  
+  </div>
+  <!-- End .post -->
+  
+  
+  
+  <!-- Begin #comments -->
+ 
+
+  <!-- End #comments -->
+
+
+      
+  <!-- Begin .post -->
+  <div class="post"><a name="114494967577110651"></a>
+         
+    <h3 class="post-title">
+	 
+	 New Podcast Recorded Today
+	 
+    </h3>
+    
+
+	         <div class="post-body">
+	<div>
+      <div style="clear:both;"></div>Listen in to WIPRA-The Voice to hear about some of the recent developments at IPRA. Discussion covers certification renewal, educational workshops, volunteering for the Western Open, and some trash talking that's started already about the September 22 Park Pursuit.<div style="clear:both; padding-bottom: 0.25em;"></div>
+    </div>
+    </div>
+    
+    <p class="post-footer">
+      <em>posted by The Blog Spot at <a href="http://www.ilipra.org/blog/2006/04/new-podcast-recorded-today.html" title="permanent link">12:34 PM</a></em>
+      
+
+         <a class="comment-link" href="http://www.blogger.com/comment.g?blogID=13022477&amp;postID=114494967577110651&amp;isPopup=true" onclick="window.open('http://www.blogger.com/comment.g?blogID=13022477&amp;postID=114494967577110651&amp;isPopup=true', 'bloggerPopup', 'toolbar=0,scrollbars=1,location=0,statusbar=1,menubar=0,resizable=1,width=400,height=450');return false;">0 comments</a>
+
+        <span class="item-control admin-1390644127 pid-610376737"><a style="border:none;" href="http://www.blogger.com/post-edit.g?blogID=13022477&amp;postID=114494967577110651&amp;quickEdit=true" title="Edit Post"><span class="quick-edit-icon">&nbsp;</span></a></span>
+    </p>
+  
+  </div>
+  <!-- End .post -->
+  
+  
+  
+  <!-- Begin #comments -->
+ 
+
+  <!-- End #comments -->
+
+
+    
+  <h2 class="date-header">Monday, April 10, 2006</h2>
+    
+  <!-- Begin .post -->
+  <div class="post"><a name="114468457064690630"></a>
+         
+    <h3 class="post-title">
+	 
+	 Man sues over Velcro climbing wall
+	 
+    </h3>
+    
+
+	         <div class="post-body">
+	<div>
+      <div style="clear:both;"></div>A man who claims he was severely injured in a fall from an inflatable Velcro climbing wall at a McHenry County park in 1999 is suing the company that provided the wall.<br /><br />In a lawsuit filed this week in Cook County Circuit Court, Joseph Walker said he was a guest at the Follett Library Resources Inc. company outing and was hurt while navigating an inflatable obstacle course set up for the outing.<br /><br />Walker is seeking more than $50,000 in damages.<br /><br />Allison O'Hare, a spokeswoman for Follett Library Resources, said the company was unaware of the lawsuit and could not comment. Walker's attorney did not respond to repeated attempts for comment.<br /><br />Inflatable attractions, which include backyard bouncers, moonwalks, obstacle courses, sumo suits, Velcro climbing walls and slides, have become familiar sights at both public and private events. As the popularity of inflatable attractions has increased, so have questions surrounding their safety.<br /><br />"The major problem comes from the inflatable not being properly secured to the ground," said Sue Hofer, a spokeswoman for the Illinois Department of Labor, which issues operating licenses to companies renting and selling inflatable recreations.<br /><br />"The safety varies depending on who controls and supervises the inflation and who is supervising while (the inflatable) is being used,"<br />she said.<br /><br />The state of Illinois lists inflatable attractions as carnival rides but does not require a licensed attendant to be on hand when one is rented for a private function such as a birthday party or company outing. The presence of a licensed attendant is required at events that are open to the public, such as town fairs and carnivals.<br /><br />It is unknown if a licensed attendant was present at the 1999 Follett Library Resources outing.<br /><br />David Spata, vice president of Fun Ones Inc. in Addison, said all the inflatable amusements rented from his company are set up and inflated by a licensed professional. But, he added, proper supervision is crucial to assuring the safety of everyone using the inflatable.<br /><br />Fun Ones, which is a member of the Safe Inflatable Operators Training Organization, has licensed attendants available for customers throwing a private party at a cost of $100 for four hours.<br /><br />Both Hofer and Spata say it is important that when inflatable recreation equipment is used, there are active and attentive supervisors on hand.<br /><br /><span style="font-style:italic;">Courtesy of Meddill News Service</span><div style="clear:both; padding-bottom: 0.25em;"></div>
+    </div>
+    </div>
+    
+    <p class="post-footer">
+      <em>posted by The Blog Spot at <a href="http://www.ilipra.org/blog/2006/04/man-sues-over-velcro-climbing-wall.html" title="permanent link">10:54 AM</a></em>
+      
+
+         <a class="comment-link" href="http://www.blogger.com/comment.g?blogID=13022477&amp;postID=114468457064690630&amp;isPopup=true" onclick="window.open('http://www.blogger.com/comment.g?blogID=13022477&amp;postID=114468457064690630&amp;isPopup=true', 'bloggerPopup', 'toolbar=0,scrollbars=1,location=0,statusbar=1,menubar=0,resizable=1,width=400,height=450');return false;">0 comments</a>
+
+        <span class="item-control admin-1390644127 pid-610376737"><a style="border:none;" href="http://www.blogger.com/post-edit.g?blogID=13022477&amp;postID=114468457064690630&amp;quickEdit=true" title="Edit Post"><span class="quick-edit-icon">&nbsp;</span></a></span>
+    </p>
+  
+  </div>
+  <!-- End .post -->
+  
+  
+  
+  <!-- Begin #comments -->
+ 
+
+  <!-- End #comments -->
+
+
+    
+  <h2 class="date-header">Thursday, April 06, 2006</h2>
+    
+  <!-- Begin .post -->
+  <div class="post"><a name="114432806553586778"></a>
+         
+    <h3 class="post-title">
+	 
+	 Geneva Park District holds poster contest for TV Turnoff Week
+	 
+    </h3>
+    
+
+	         <div class="post-body">
+	<div>
+      <div style="clear:both;"></div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://photos1.blogger.com/blogger/1519/961/1600/tv%20turnoff%20for%20web%20final.jpg"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/1519/961/320/tv%20turnoff%20for%20web%20final.jpg" border="0" alt="" /></a>The <span style="font-weight:bold;">Geneva Park District</span> is hosting a youth poster contest, to commemorate <span style="font-weight:bold;">TV Turnoff Week 2006</span>, the second annual event of its kind for the City of Geneva.<br /><br />The contest is open to children in kindergarten through eighth grade. All posters will be displayed in the Geneva Community Center throughout TV Turnoff Week, April 24-30. The winning poster in each age division, grades kindergarden-second, third-fifth and sixth-eighth, will be framed and displayed in the Geneva Community Center for one year.<br /><br />To be considered, all artwork must be on a 22-by-28-inch white poster board and convey the theme “This is What I Do When I'm Not Watching Television.” Name, address, phone number, age, and grade level must be written on the back of the artwork. Drop off your entry at the Geneva Park District Administrative Office located within the Geneva Community Center at 710 Western Ave. Entries are due April 17.<br /><br />National TV Turnoff Week was created in 1995 by TV-Turnoff Network, a nonprofit organization that promotes healthier lives and communities by encouraging children and adults to watch less television. For the second year in a row, the Geneva Park District will be joining thousands of organizations all over the world to encourage citizens to turn off their televisions and find more fulfilling and rewarding ways to spend time. Along with the youth poster contest, the Park District is offering free family classes each evening during TV-Turnoff Week, April 24-30. For a list of activities, visit <a href="http://www.genevaparks.org">www.genevaparks.org</a>.<br /><br /><span style="font-style:italic;">Courtesy of the Daily Herald.</span><div style="clear:both; padding-bottom: 0.25em;"></div>
+    </div>
+    </div>
+    
+    <p class="post-footer">
+      <em>posted by The Blog Spot at <a href="http://www.ilipra.org/blog/2006/04/geneva-park-district-holds-poster.html" title="permanent link">7:49 AM</a></em>
+      
+
+         <a class="comment-link" href="http://www.blogger.com/comment.g?blogID=13022477&amp;postID=114432806553586778&amp;isPopup=true" onclick="window.open('http://www.blogger.com/comment.g?blogID=13022477&amp;postID=114432806553586778&amp;isPopup=true', 'bloggerPopup', 'toolbar=0,scrollbars=1,location=0,statusbar=1,menubar=0,resizable=1,width=400,height=450');return false;">0 comments</a>
+
+        <span class="item-control admin-1390644127 pid-610376737"><a style="border:none;" href="http://www.blogger.com/post-edit.g?blogID=13022477&amp;postID=114432806553586778&amp;quickEdit=true" title="Edit Post"><span class="quick-edit-icon">&nbsp;</span></a></span>
+    </p>
+  
+  </div>
+  <!-- End .post -->
+  
+  
+  
+  <!-- Begin #comments -->
+ 
+
+  <!-- End #comments -->
+
+
+    
+  <h2 class="date-header">Wednesday, April 05, 2006</h2>
+    
+  <!-- Begin .post -->
+  <div class="post"><a name="114424543092571301"></a>
+         
+    <h3 class="post-title">
+	 
+	 Bloom-o-Meter makes chasing the blooms easy
+	 
+    </h3>
+    
+
+	         <div class="post-body">
+	<div>
+      <div style="clear:both;"></div>Every year, thousands of lilacs bloom in Lilacia Park. Their fragrance fills the park and surrounding areas, reminding residents and visitors of the annual Lilac Time festival.<br /><br />Lilacs tend to bloom anywhere from late April to mid-May, depending on weather conditions. But when scheduling their visit to the park, many Lilac Time visitors want to know when the white and purple blossoms are at full bloom and most beautiful. <br /><br />Finding out is now easy, thanks to the Lombard Park District Bloom-o-Meter. <br /><br />The Bloom-o-Meter is a device that measures the blooms in Lilacia Park, starting with beginning to bud, increasing to full bloom, and fading back to green. This horticultural apparatus was created by top Lombard Park District engineers and consists of wires that connect to the lilac plant, as well as a sensitive ground probe that measures soil properties indicative of bloom development and a rain gauge to collect precipitation. The data is then transmitted to the park district offices where it is analyzed and entered into the Lombard Park District’s web site. <br /><br />For more information, call the Lombard Park District at (630) 620-7322 or visit <a href="http://www.lombardparks.com">www.lombardparks.com</a>.<br /><br /><span style="font-style:italic;">Posting submitted by Lesli Groth, Community Service Manager of the Lombard Park District.</span><div style="clear:both; padding-bottom: 0.25em;"></div>
+    </div>
+    </div>
+    
+    <p class="post-footer">
+      <em>posted by The Blog Spot at <a href="http://www.ilipra.org/blog/2006/04/bloom-o-meter-makes-chasing-blooms.html" title="permanent link">8:50 AM</a></em>
+      
+
+         <a class="comment-link" href="http://www.blogger.com/comment.g?blogID=13022477&amp;postID=114424543092571301&amp;isPopup=true" onclick="window.open('http://www.blogger.com/comment.g?blogID=13022477&amp;postID=114424543092571301&amp;isPopup=true', 'bloggerPopup', 'toolbar=0,scrollbars=1,location=0,statusbar=1,menubar=0,resizable=1,width=400,height=450');return false;">0 comments</a>
+
+        <span class="item-control admin-1390644127 pid-610376737"><a style="border:none;" href="http://www.blogger.com/post-edit.g?blogID=13022477&amp;postID=114424543092571301&amp;quickEdit=true" title="Edit Post"><span class="quick-edit-icon">&nbsp;</span></a></span>
+    </p>
+  
+  </div>
+  <!-- End .post -->
+  
+  
+  
+  <!-- Begin #comments -->
+ 
+
+  <!-- End #comments -->
+
+
+      
+  <!-- Begin .post -->
+  <div class="post"><a name="114424472704940789"></a>
+         
+    <h3 class="post-title">
+	 
+	 Annual Ski Trip - Still Attracting Teens & Adults Alike
+	 
+    </h3>
+    
+
+	         <div class="post-body">
+	<div>
+      <div style="clear:both;"></div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://photos1.blogger.com/blogger/1519/961/1600/SKI%20TRIP%20017.jpg"><img style="float:left; margin:0 10px 10px 0;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/1519/961/320/SKI%20TRIP%20017.jpg" border="0" alt="" /></a>As most recreation program coordinators can attest, the task of providing programs for the teen population is one that may take a lot of trial and error and sometimes results in program cancellations, due to lack of interest.  One successful program that never seems to have a problem in attracting teens is the Annual IPRA All-Night Teen Ski. <br /><br />This year’s, 15th Annual IPRA Teen Ski was held at the Chestnut Mountain Resort in Galena, Illinois on February 3-4, 2006.   The co-chairmen for this year’s event were Gina Brynes, Recreation Supervisor from the Oak Forest Park District as well as Bart Desch, Recreation Supervisor of the Sycamore Park District and provided final participant figures for this successful event.  Skiers and snowboarders, numbered over 1,100 teens, representing 39 park districts, both large and small, throughout the State of Illinois.  Various park districts from as far away as Normal, Illinois participated in this event.  This is one of the rare IPRA programs that continues to attract established as well as newly formed park districts throughout the state.<br /><br />The history of this event dates back to 1989 with three or four park districts planning a co-op teen ski trip.  This first trip was held at Wilmot Ski Resort and attracted several hundred teens to the event.   Alex Brown, formerly of the Homewood-Flossmoor Park District, and Gayle Mountcastle, currently Superintendent of the Recreation for the Des Plaines Park District, are two of the original IPRA Teen Committee members who developed the idea for the teen ski trip.  Before this time, there were no statewide co-op trips offered by the IPRA or its subcommittees.<br /><br />This event, sponsored and coordinated by the Teen Committee of the IPRA, is unique in that no park district, either too small or too large, is unable to participate.  The number of teens brought by park districts has ranged from two teens all the way up to over 100; as has been the case of the New Lenox Community Park District.  For the third year in a row as the largest park district represented at the Teen Ski event, based on the number of teens participating, this park district’s, Superintendent of Recreation, Shirley Braglia, summed up the success of this annual teen event by saying, “This trip has grown tremendously for us throughout the years.  Our teens look forward to this trip and even block out the usual weekend in advance.”  To illustrate its success, Superintendent Braglia added, “As a regular event offered for the last ten years of our winter programming, we are now seeing adult volunteer chaperones who attended this event when they were teens.  It’s a wonderful track record of continuing participation we enjoy.”  Proving this trend is Anthony DiCarlo, a past teen participant who has been a chaperone for New Lenox teens for the last three years.  The New Lenox Park District, as well as other quickly expanding park districts, continues to receive the assistance of past <br />participants to provide adult chaperoning.  This trend is one that can ease the burden of seeking adequate adult supervision for program coordinators.  For their agreeing to volunteer, chaperones are provided with the opportunity to ski or snowboard at no cost to them.   For many enthusiastic winter sport adults, this opportunity to assist creates a win-win situation for both the volunteers and park districts.<br /><br />For an event of this size and stature, the safety of each teen is paramount.  Throughout the event, which runs from approximately Friday evening at 10:30pm to Saturday morning, at 5:00am; and the teens skiing all-night, adult chaperones monitor the teens both inside the resort and on the slopes in order to ensure a safe experience.  All adult chaperones for this event provide a united front wherein the safety of all teens is addressed.  This is accomplished through the use of identifying armbands by all adult chaperones.  Teens are informed that if assistance of any kind is needed, they can seek help from any of the chaperones.  Parents of the teens that attend the All-Night Teen Ski find it reassuring that with a venue of participants close to 1,000, assistance for their child is never too far away.<br /><br />In order to implement additional safety measures, the New Lenox Park District has also implemented the use of a Medical Information Card.  This laminated card contains each teen’s name, contact information, medical issues, and emergency contact information.  Each teen receives this card which must be carried with them at all times during the skiing and snowboarding event.  Although, they hope there is no need for it, this medical card provides additional piece of mind if the teen is seriously injured while on the slopes.<br /><br />In addition, most park districts will agree that liability becomes more of an issue when an event is planned that incurs a greater risk such as skiing or snowboarding.  Superintendent Braglia, of New Lenox,  noted that, “For this event, our park district takes whatever additional measures are needed to ensure an adequate level of assurance is maintained on behalf of the park district as well as the parents.  The use of the medical card, as another safety component, provides this for both our park district and our parents as well.  The parents are happy to know that additional precautions have been taken during an event where their child is awake all night and away from home.”<br /><br />A logistic problem that plagues smaller park districts in participating is the ability to obtain cost-effective transportation for the event.  This dilemma has been solved through the use of a co-op transportation plan wherein park districts share the cost of transportation with other neighboring districts.   This plan is highly encouraged by the Teen Committee of the IPRA.  Many small park districts could not participate if they were forced to absorb the entire cost of transportation.  This sharing of costs allows for all park districts to offer the All Night Teen Ski at a cost attractive and doable to teen participants.<br /><br />An additional benefit for park district’s to participate in this event is the marketing opportunities it presents.   This event can provide teen program coordinators with a unique database of participants for all future teen programs.  Specifically, the New Lenox Park District has created a database distribution list using Teen Ski participants in order to market current and future teen programs via direct mail.  Also, with most teens heavily involved in electronic mail, this park district has increased its efforts to offer email announcements to teens on upcoming events.  Of course, all email addresses must be obtained with the permission of the parents.<br /><br />To further other marketing efforts and to increase the input from teens in their district, the New Lenox Park District also plans on using this teen ski database in order to successfully create an active and vital Teen Council.   The teens who participate in this program are very likely to want to play a more active role in decisions made by the park district on behalf of the teens.  Further,  it will provide a wonderful sounding block for future teen programming decisions.<br /><br />For the many park districts who currently take part in the All-Night Teen Ski will agree, that although participation in the IPRA All-Night Teen Ski event may present additional responsibilities and planning, the benefits it creates for teen programming are well worth the effort.  In addition, long-participating park districts have many of the procedures in place that new participating park districts can gleam from.  This creates a win-win situation for both the individual park districts as well as the IPRA.   <br /><br /><span style="font-style:italic;">Posting submitted by Lauren A. Lotz, Teen Coordinator of the New Lenox Community Park District.</span><div style="clear:both; padding-bottom: 0.25em;"></div>
+    </div>
+    </div>
+    
+    <p class="post-footer">
+      <em>posted by The Blog Spot at <a href="http://www.ilipra.org/blog/2006/04/annual-ski-trip-still-attracting-teens.html" title="permanent link">8:38 AM</a></em>
+      
+
+         <a class="comment-link" href="http://www.blogger.com/comment.g?blogID=13022477&amp;postID=114424472704940789&amp;isPopup=true" onclick="window.open('http://www.blogger.com/comment.g?blogID=13022477&amp;postID=114424472704940789&amp;isPopup=true', 'bloggerPopup', 'toolbar=0,scrollbars=1,location=0,statusbar=1,menubar=0,resizable=1,width=400,height=450');return false;">0 comments</a>
+
+        <span class="item-control admin-1390644127 pid-610376737"><a style="border:none;" href="http://www.blogger.com/post-edit.g?blogID=13022477&amp;postID=114424472704940789&amp;quickEdit=true" title="Edit Post"><span class="quick-edit-icon">&nbsp;</span></a></span>
+    </p>
+  
+  </div>
+  <!-- End .post -->
+  
+  
+  
+  <!-- Begin #comments -->
+ 
+
+  <!-- End #comments -->
+
+
+    
+  <h2 class="date-header">Friday, March 17, 2006</h2>
+    
+  <!-- Begin .post -->
+  <div class="post"><a name="114263419860228753"></a>
+         
+    <h3 class="post-title">
+	 
+	 Panel mulls details of smoking ban
+	 
+    </h3>
+    
+
+	         <div class="post-body">
+	<div>
+      <div style="clear:both;"></div>Although most members of an ad hoc committee in Buffalo Grove seem to support the concept of a smoking ban, the devil, as always, is in the details.<br /><br />After a public hearing on the issue last Wednesday, the group sat down and went through where, exactly, a ban would be enacted.<br /><br />The group considered a list of 11 exemptions, including golf courses and nursing home facilities.<br /><br />A major concern was whether smoking should be prohibited at all outdoor venues, including parks and sidewalks. Since the park district already has its own ban on all its facilities, their parks are covered.<br /><br />The committee decided smoking should be banned only in enclosed spaces, but members considered restricting smoking during large public events, such as Buffalo Grove Days. Those events would include a small smoking section.<br /><br />The ban would also include bars inside restaurants (Buffalo Grove has no free-standing bars).<br /><br />The group, which is made up of trustees and representatives from the park district, restaurants, the board of health, the Chamber of Commerce and other interested organizations, may meet March 30 to go over any final details of the draft ordinance if that is deemed necessary.<br /><br />The village board is scheduled to look at the ordinance at its April 3 meeting. <br /><br />Courtesy of the Daily Herald.<div style="clear:both; padding-bottom: 0.25em;"></div>
+    </div>
+    </div>
+    
+    <p class="post-footer">
+      <em>posted by The Blog Spot at <a href="http://www.ilipra.org/blog/2006/03/panel-mulls-details-of-smoking-ban.html" title="permanent link">4:23 PM</a></em>
+      
+
+         <a class="comment-link" href="http://www.blogger.com/comment.g?blogID=13022477&amp;postID=114263419860228753&amp;isPopup=true" onclick="window.open('http://www.blogger.com/comment.g?blogID=13022477&amp;postID=114263419860228753&amp;isPopup=true', 'bloggerPopup', 'toolbar=0,scrollbars=1,location=0,statusbar=1,menubar=0,resizable=1,width=400,height=450');return false;">0 comments</a>
+
+        <span class="item-control admin-1390644127 pid-610376737"><a style="border:none;" href="http://www.blogger.com/post-edit.g?blogID=13022477&amp;postID=114263419860228753&amp;quickEdit=true" title="Edit Post"><span class="quick-edit-icon">&nbsp;</span></a></span>
+    </p>
+  
+  </div>
+  <!-- End .post -->
+  
+  
+  
+  <!-- Begin #comments -->
+ 
+
+  <!-- End #comments -->
+
+
+    
+  <h2 class="date-header">Thursday, March 02, 2006</h2>
+    
+  <!-- Begin .post -->
+  <div class="post"><a name="114131017013752528"></a>
+         
+    <h3 class="post-title">
+	 
+	 Ruby speaks about the Train The Trainer workshop
+	 
+    </h3>
+    
+
+	         <div class="post-body">
+	<div>
+      <div style="clear:both;"></div><object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000'  codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0' width=160 height=155  align=middle id=OBJECT1><param name='Flashvars' value='button_color=FFFFFF&FileHigh=1155170115AZJJYK&FileLow=&PM=2&Loop=0&record_time=30&Loopdelay=0&Silent=0'/><param name=allowScriptAccess value=sameDomain /><param name=movie value='http://click-here-to-listen.com/VID/MVGFullPlayer.swf' /><param name=quality value=high /><param name=bgcolor value=FFFFFF /><embed src='http://click-here-to-listen.com/VID/MVGFullPlayer.swf' flashvars='button_color=FFFFFF&FileHigh=1155170115AZJJYK&FileLow=&PM=2&Loop=0&record_time=2&Loop_delay=0&Silent=0' quality=high bgcolor=#ffffff width=160 height=155 align=middle allowScriptAccess=sameDomain type=application/x-shockwave-flash pluginspage='http://www.macromedia.com/go/getflashplayer'></embed></object><br />Register for the Train the Trainer workshop on March 22-24...<a target="0" href="http://ilipra.org/Events/ViewEvent.cfm?EventID=521">click here for more details</a>.<div style="clear:both; padding-bottom: 0.25em;"></div>
+    </div>
+    </div>
+    
+    <p class="post-footer">
+      <em>posted by The Blog Spot at <a href="http://www.ilipra.org/blog/2006/03/ruby-speaks-about-train-trainer.html" title="permanent link">8:34 AM</a></em>
+      
+
+         <a class="comment-link" href="http://www.blogger.com/comment.g?blogID=13022477&amp;postID=114131017013752528&amp;isPopup=true" onclick="window.open('http://www.blogger.com/comment.g?blogID=13022477&amp;postID=114131017013752528&amp;isPopup=true', 'bloggerPopup', 'toolbar=0,scrollbars=1,location=0,statusbar=1,menubar=0,resizable=1,width=400,height=450');return false;">0 comments</a>
+
+        <span class="item-control admin-1390644127 pid-610376737"><a style="border:none;" href="http://www.blogger.com/post-edit.g?blogID=13022477&amp;postID=114131017013752528&amp;quickEdit=true" title="Edit Post"><span class="quick-edit-icon">&nbsp;</span></a></span>
+    </p>
+  
+  </div>
+  <!-- End .post -->
+  
+  
+  
+  <!-- Begin #comments -->
+ 
+
+  <!-- End #comments -->
+
+
+</div></div>
+<!-- End #main -->
+
+<!-- Begin #sidebar -->
+<div id="sidebar"><div id="sidebar2">
+        
+  <h2 class="sidebar-title">WIPRA Podcast</h2>
+<A HREF="javascript:void(0)" onclick="window.open('http://www.pupuplayer.com/podtrac/podtracplayer.php?podcast=http://www.ilipra.org/podcast/podcast.xml', 'linkname', 'height=235, width=450, scrollbars=no')"> 
+
+<IMG src="http://www.ILipra.org/images/WIPRAanimatedlogo.gif" alt="WIPRA Podcast" border=0 /></A>
+
+  <h2 class="sidebar-title">IPRA Poll</h2>
+<ul>
+What would you like to have asked on the IPRA Poll? <a target="0" href="mailto:matt@ILipra.org?subject=IPRA Poll Suggestion">Email The Blog Spot</a> and let us know!
+  </ul>
+  <h2 class="sidebar-title">Chat Room</h2>
+<SCRIPT LANGUAGE="Javascript" TYPE="text/javascript" SRC="http://www.tag-board.com/tagboard.js?boardname=IPRA"></SCRIPT> 
+
+<table width="200" cellpadding="2" cellspacing="0" border="0"> 
+  <tr> 
+    <td width=200 height=200 valign=top> 
+      <iframe src="http://www.tag-board.com/my.tag?name=IPRA" name="tag" width="200" height="200"
+marginwidth="0" marginheight="0"></iframe> 
+      <script>netscape_support();</script> 
+    </td> 
+  </tr> 
+  <tr> 
+    <td> 
+      <form action="http://www.tag-board.com/add.tag" method="post" name="tagform" target="tag"> 
+        <input type="hidden" name="name" value="IPRA"> 
+        Name<br> 
+        <input name="tagname" maxlength="20"><br> 
+        URL or Email<br> 
+        <input name="tagurl" maxlength="100"><br> 
+        Messages(<a href="http://www.tag-board.com/smilies/smilies.htm" onClick="return pop_up_smilies();" target="_blank">smilies</a>) 
+        <br> 
+        <textarea cols="24" rows="3" name="message" wrap></textarea><br> 
+        <input class=button type="submit" value="TAG" onclick="return Clear_Last_Message_on_Submit();"> 
+      </form> 
+      <script>rememberme()</SCRIPT> 
+    </td> 
+  </tr> 
+</table>
+  </ul>
+  <h2 class="sidebar-title">Links</h2>
+    <ul>
+    	<li><a href="http://www.ILipra.org">IPRA website</a></li> 
+<li><font color="#026888">IPRA eNewsletters<a href="javascript: function OpenGM(){window.open('http://www.graphicmail.com/rwcode/subscribe.asp?SiteID=6898&Mode=subscribe','','top=259,left=312,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=400,height=250');} OpenGM()"><img src='http://www.graphicmail.com/rwcode//webadmin/images/subscribe01.gif' border=0></a></li>
+IPRA Pictures
+<!-- Start of Flickr Badge -->
+<style type="text/css">
+.zg_div {margin:0px 5px 5px 0px; width:117px;}
+.zg_div_inner {border: solid 1px #000000; background-color:#ffffff;  color:#666666; text-align:center; font-family:arial, helvetica; font-size:11px;}
+.zg_div a, .zg_div a:hover, .zg_div a:visited {color:#3993ff; background:inherit !important; text-decoration:none !important;}
+</style>
+<script type="text/javascript">
+zg_insert_badge = function() {
+var zg_bg_color = 'ffffff';
+var zgi_url = 'http://www.flickr.com/apps/badge/badge_iframe.gne?zg_bg_color='+zg_bg_color+'&zg_person_id=72595788%40N00';
+document.write('<iframe style="background-color:#'+zg_bg_color+'; border-color:#'+zg_bg_color+'; border:none;" width="113" height="151" frameborder="0" scrolling="no" src="'+zgi_url+'" title="Flickr Badge"></iframe>');
+if (document.getElementById) document.write('<div id="zg_whatlink"><a href="http://www.flickr.com/badge_new.gne"	style="color:#3993ff;" onclick="zg_toggleWhat(); return false;">what is this?<\/a><\/div>');
+}
+zg_toggleWhat = function() {
+document.getElementById('zg_whatdiv').style.display = (document.getElementById('zg_whatdiv').style.display != 'none') ? 'none' : 'block';
+document.getElementById('zg_whatlink').style.display = (document.getElementById('zg_whatdiv').style.display != 'none') ? 'none' : 'block';
+return false;
+}
+</script>
+<div class="zg_div"><div class="zg_div_inner"><a href="http://www.flickr.com">www.<strong style="color:#3993ff">flick<span style="color:#ff1c92">r</span></strong>.com</a><br>
+<script type="text/javascript">zg_insert_badge();</script>
+<div id="zg_whatdiv">This is a Flickr badge showing public photos from <a href="http://www.flickr.com/photos/72595788@N00">IPRA and The Blog Spot</a>. Make your own badge <a href="http://www.flickr.com/badge_new.gne">here</a>.</div>
+<script type="text/javascript">if (document.getElementById) document.getElementById('zg_whatdiv').style.display = 'none';</script>
+</div>
+</div>
+<!-- End of Flickr Badge -->
+</ul>
+  
+    <ul>
+    
+  <h2 class="sidebar-title">Previous Posts</h2>
+    <ul id="recently">
+    
+        <li><a href="http://www.ilipra.org/blog/2006/04/park-district-truly-treasure.html">Park district truly a treasure</a></li>
+     
+        <li><a href="http://www.ilipra.org/blog/2006/04/hole-lotta-fun.html">A 'Hole' Lotta Fun!</a></li>
+     
+        <li><a href="http://www.ilipra.org/blog/2006/04/new-podcast-recorded-today.html">New Podcast Recorded Today</a></li>
+     
+        <li><a href="http://www.ilipra.org/blog/2006/04/man-sues-over-velcro-climbing-wall.html">Man sues over Velcro climbing wall</a></li>
+     
+        <li><a href="http://www.ilipra.org/blog/2006/04/geneva-park-district-holds-poster.html">Geneva Park District holds poster contest for TV Turnoff Week</a></li>
+     
+        <li><a href="http://www.ilipra.org/blog/2006/04/bloom-o-meter-makes-chasing-blooms.html">Bloom-o-Meter makes chasing the blooms easy</a></li>
+     
+        <li><a href="http://www.ilipra.org/blog/2006/04/annual-ski-trip-still-attracting-teens.html">Annual Ski Trip - Still Attracting Teens & Adults Alike</a></li>
+     
+        <li><a href="http://www.ilipra.org/blog/2006/03/panel-mulls-details-of-smoking-ban.html">Panel mulls details of smoking ban</a></li>
+     
+        <li><a href="http://www.ilipra.org/blog/2006/03/ruby-speaks-about-train-trainer.html">Ruby speaks about the Train The Trainer workshop</a></li>
+     
+        <li><a href="http://www.ilipra.org/blog/2006/02/conference-pictures-galore.html">Conference Pictures Galore!</a></li>
+     
+  </ul>
+    <MainOrArchivePage>
+
+  <h2 class="sidebar-title">Archives</h2>
+    <ul class="archive-list">
+   	  
+    	<li><a href="http://www.ilipra.org/blog/2005_05_15_ipra_archive.html">05/15 - 05/21</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2005_05_22_ipra_archive.html">05/22 - 05/28</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2005_06_05_ipra_archive.html">06/05 - 06/11</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2005_06_12_ipra_archive.html">06/12 - 06/18</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2005_06_19_ipra_archive.html">06/19 - 06/25</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2005_06_26_ipra_archive.html">06/26 - 07/02</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2005_07_03_ipra_archive.html">07/03 - 07/09</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2005_07_10_ipra_archive.html">07/10 - 07/16</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2005_07_17_ipra_archive.html">07/17 - 07/23</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2005_07_24_ipra_archive.html">07/24 - 07/30</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2005_07_31_ipra_archive.html">07/31 - 08/06</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2005_08_07_ipra_archive.html">08/07 - 08/13</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2005_08_14_ipra_archive.html">08/14 - 08/20</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2005_09_04_ipra_archive.html">09/04 - 09/10</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2005_09_25_ipra_archive.html">09/25 - 10/01</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2005_10_02_ipra_archive.html">10/02 - 10/08</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2005_10_30_ipra_archive.html">10/30 - 11/05</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2005_11_13_ipra_archive.html">11/13 - 11/19</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2005_11_27_ipra_archive.html">11/27 - 12/03</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2005_12_04_ipra_archive.html">12/04 - 12/10</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2005_12_11_ipra_archive.html">12/11 - 12/17</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2005_12_25_ipra_archive.html">12/25 - 12/31</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2006_01_08_ipra_archive.html">01/08 - 01/14</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2006_01_22_ipra_archive.html">01/22 - 01/28</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2006_01_29_ipra_archive.html">01/29 - 02/04</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2006_02_05_ipra_archive.html">02/05 - 02/11</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2006_02_12_ipra_archive.html">02/12 - 02/18</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2006_02_19_ipra_archive.html">02/19 - 02/25</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2006_02_26_ipra_archive.html">02/26 - 03/04</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2006_03_12_ipra_archive.html">03/12 - 03/18</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2006_04_02_ipra_archive.html">04/02 - 04/08</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2006_04_09_ipra_archive.html">04/09 - 04/15</a></li>
+	  
+    	<li><a href="http://www.ilipra.org/blog/2006_04_16_ipra_archive.html">04/16 - 04/22</a></li>
+	  
+
+  </ul>
+  
+
+      <p id="powered-by"><a href="http://www.blogger.com"><img src="http://buttons.blogger.com/bloggerbutton1.gif" alt="Powered by Blogger" /></a></p>
+  
+  <!--
+
+<p><!-- Start of StatCounter Code -->
+<script type="text/javascript" language="javascript">
+var sc_project=710809; 
+var sc_partition=5; 
+var sc_security="a6c93e37"; 
+</script>
+
+<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="http://c6.statcounter.com/counter.php?sc_project=710809&amp;java=0&amp;security=a6c93e37" alt="hit tracker" border="0"></a> </noscript>
+<!-- End of StatCounter Code --></p>
+
+
+<form method="get" action="http://technorati.com/cosmos/search.html" style="width:13em;text-align:left">  
+<fieldset style="padding:4px">
+<legend><a href="http://technorati.com/">Technorati</a> search</legend>
+<input type="hidden" name="sub" value="searchlet" />
+<input style="width:12em" type="text" name="url" maxlength="255" value="" />
+<label style="display:block;padding-top:3px" for="ts_yb" title="">
+ <input type="radio" checked="checked" name="from" id="ts_yb" value="" /> 
+ this blog</label>
+<label style="margin-right:.2em" for="ts_www">
+ <input type="radio" name="from" id="ts_www" value="" /> all blogs</label>
+<input type="submit" value="Search" class="search" />
+</fieldset>
+</form>
+
+
+</div></div>
+<!-- End #sidebar -->
+
+
+
+<!-- End #content -->
+
+
+
+<!-- Begin #footer -->
+<div id="footer"><hr />
+  <p><!--This is an optional footer. If you want text here, place it inside these tags, and remove this comment. -->&nbsp;</p>
+
+</div>
+<!-- End #footer -->
+
+
+
+</body>
+</html>

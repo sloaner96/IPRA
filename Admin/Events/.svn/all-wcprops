@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/ipra/!svn/ver/2/trunk/Admin/Events
+END
+NewEvent.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ipra/!svn/ver/2/trunk/Admin/Events/NewEvent.cfm
+END
+EventCharges.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ipra/!svn/ver/2/trunk/Admin/Events/EventCharges.cfm
+END
+ListEvents.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ipra/!svn/ver/2/trunk/Admin/Events/ListEvents.cfm
+END
+SavetoExcel.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ipra/!svn/ver/2/trunk/Admin/Events/SavetoExcel.cfm
+END
+EventsProcess.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ipra/!svn/ver/2/trunk/Admin/Events/EventsProcess.cfm
+END
+EventsRoster.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ipra/!svn/ver/2/trunk/Admin/Events/EventsRoster.cfm
+END
+EvtCharge_action.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ipra/!svn/ver/2/trunk/Admin/Events/EvtCharge_action.cfm
+END
+EventSearch.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ipra/!svn/ver/2/trunk/Admin/Events/EventSearch.cfm
+END
+index.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ipra/!svn/ver/2/trunk/Admin/Events/index.cfm
+END
+UpdEvent.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ipra/!svn/ver/2/trunk/Admin/Events/UpdEvent.cfm
+END

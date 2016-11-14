@@ -1,0 +1,52 @@
+8
+
+dir
+2
+http://svn.x2interweb.net/svn/ipra/trunk/tinymce/jscripts/tiny_mce/langs
+http://svn.x2interweb.net/svn/ipra
+
+
+
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+139329b2-1eba-436e-9e6a-ea0a2bdd368c
+
+readme.txt
+file
+
+
+
+
+2007-06-27T00:45:49.737815Z
+6d1aae4ddc8b994bd4ecd665887a9e23
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+en.js
+file
+
+
+
+
+2007-06-27T00:45:49.753440Z
+e212a5941858c1947dd4cb780f5664f3
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+

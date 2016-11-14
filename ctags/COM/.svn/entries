@@ -1,0 +1,52 @@
+8
+
+dir
+2
+http://svn.x2interweb.net/svn/ipra/trunk/ctags/COM
+http://svn.x2interweb.net/svn/ipra
+
+
+
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+139329b2-1eba-436e-9e6a-ea0a2bdd368c
+
+WS_FTP.LOG
+file
+
+
+
+
+2007-06-27T00:46:36.488114Z
+897b14ac631f1c724238582b09fa9310
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+Authorize.cfc
+file
+
+
+
+
+2007-06-27T00:46:36.519364Z
+07f0c223b7ba984d4279cb8f768ea449
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+

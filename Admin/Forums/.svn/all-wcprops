@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/ipra/!svn/ver/2/trunk/Admin/Forums
+END
+maintainCats.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ipra/!svn/ver/2/trunk/Admin/Forums/maintainCats.cfm
+END
+maintaingroups.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ipra/!svn/ver/2/trunk/Admin/Forums/maintaingroups.cfm
+END
+index.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ipra/!svn/ver/2/trunk/Admin/Forums/index.cfm
+END
+catsaction.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ipra/!svn/ver/2/trunk/Admin/Forums/catsaction.cfm
+END
+groupAction.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ipra/!svn/ver/2/trunk/Admin/Forums/groupAction.cfm
+END

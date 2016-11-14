@@ -1,0 +1,593 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys
+END
+Respondent_view.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Respondent_view.cfm
+END
+Respondent_ConfirmDelete.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Respondent_ConfirmDelete.cfm
+END
+qry_Report_Group.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/qry_Report_Group.cfm
+END
+Report_byGroup.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Report_byGroup.cfm
+END
+survey_setAnon.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/survey_setAnon.cfm
+END
+nav.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/nav.cfm
+END
+Question_Delete.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Question_Delete.cfm
+END
+Question_whatType.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Question_whatType.cfm
+END
+Report_byGroup_pfv.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Report_byGroup_pfv.cfm
+END
+Survey_DeleteResponse.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Survey_DeleteResponse.cfm
+END
+Question_whatText.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Question_whatText.cfm
+END
+RespGroup_addRespondent.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/RespGroup_addRespondent.cfm
+END
+Scale_options.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Scale_options.cfm
+END
+Respondent_delete.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Respondent_delete.cfm
+END
+Report_All_pfv_bu.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Report_All_pfv_bu.cfm
+END
+Scale_InsertValuesAdd.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Scale_InsertValuesAdd.cfm
+END
+Question_finish.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Question_finish.cfm
+END
+index.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/index.cfm
+END
+RespGroup_insert.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/RespGroup_insert.cfm
+END
+Help_full.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Help_full.cfm
+END
+Survey_Reports.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Survey_Reports.cfm
+END
+Survey_ConfirmDelResponse.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Survey_ConfirmDelResponse.cfm
+END
+Category_update.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Category_update.cfm
+END
+Category_edit.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Category_edit.cfm
+END
+Survey_rename.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Survey_rename.cfm
+END
+Survey_sendInvite.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Survey_sendInvite.cfm
+END
+Scale_finish.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Scale_finish.cfm
+END
+RespGroup_update.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/RespGroup_update.cfm
+END
+Scale_AddValue.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Scale_AddValue.cfm
+END
+Response_finish.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Response_finish.cfm
+END
+Survey_Preview.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Survey_Preview.cfm
+END
+qry_Report_All.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/qry_Report_All.cfm
+END
+Report_byIndiv.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Report_byIndiv.cfm
+END
+Respondent_remGroup.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Respondent_remGroup.cfm
+END
+Respondents_old.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Respondents_old.cfm
+END
+Survey_listQuestions.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Survey_listQuestions.cfm
+END
+Survey_Renum.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Survey_Renum.cfm
+END
+Report_All.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Report_All.cfm
+END
+Respondents.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Respondents.cfm
+END
+SecurityCheck.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/SecurityCheck.cfm
+END
+Respondent_insert.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Respondent_insert.cfm
+END
+Survey_DeleteAll.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Survey_DeleteAll.cfm
+END
+Category_delScale.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Category_delScale.cfm
+END
+Question_Update.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Question_Update.cfm
+END
+Scale_delete.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Scale_delete.cfm
+END
+Report_byIndiv_pfv.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Report_byIndiv_pfv.cfm
+END
+Survey_updateOptions.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Survey_updateOptions.cfm
+END
+Survey_DeleteGroupResponse.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Survey_DeleteGroupResponse.cfm
+END
+Question_catRemove.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Question_catRemove.cfm
+END
+survey_pubAnon.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/survey_pubAnon.cfm
+END
+Respondent_update.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Respondent_update.cfm
+END
+ScValues.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/ScValues.cfm
+END
+RespGroup_ConfirmDelete.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/RespGroup_ConfirmDelete.cfm
+END
+Category_new.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Category_new.cfm
+END
+Respondent_edit.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Respondent_edit.cfm
+END
+Survey_listPublished.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Survey_listPublished.cfm
+END
+survey_pubNonAnon.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/survey_pubNonAnon.cfm
+END
+Survey_ConfirmDelGroupResponse.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Survey_ConfirmDelGroupResponse.cfm
+END
+Category_addScale.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Category_addScale.cfm
+END
+Category_Delete.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Category_Delete.cfm
+END
+Scale_new.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Scale_new.cfm
+END
+Question_whatScale.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Question_whatScale.cfm
+END
+ScValue_finish.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/ScValue_finish.cfm
+END
+Survey_pubFinish.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Survey_pubFinish.cfm
+END
+Survey_new.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Survey_new.cfm
+END
+Respondent_insGroup.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Respondent_insGroup.cfm
+END
+Question_ConfirmDelete.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Question_ConfirmDelete.cfm
+END
+Question_catAdd.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Question_catAdd.cfm
+END
+Scales.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Scales.cfm
+END
+Survey_Invite.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Survey_Invite.cfm
+END
+Question_edit.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Question_edit.cfm
+END
+Category_finish.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Category_finish.cfm
+END
+Category_ConfirmDelete.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Category_ConfirmDelete.cfm
+END
+Category.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Category.cfm
+END
+Help_index.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Help_index.cfm
+END
+Survey_pubOptions.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Survey_pubOptions.cfm
+END
+Question_catInsert.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Question_catInsert.cfm
+END
+Survey_renameFinish.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Survey_renameFinish.cfm
+END
+Scale_ConfirmDelete.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Scale_ConfirmDelete.cfm
+END
+Survey_DeleteAllResponse.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Survey_DeleteAllResponse.cfm
+END
+Help.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Help.cfm
+END
+Scale_update.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Scale_update.cfm
+END
+Report_All_bu.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Report_All_bu.cfm
+END
+Respondent_new.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Respondent_new.cfm
+END
+RespGroup_edit.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/RespGroup_edit.cfm
+END
+Survey_listUnpublished.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Survey_listUnpublished.cfm
+END
+Scale_edit.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Scale_edit.cfm
+END
+Survey.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Survey.cfm
+END
+Survey_ConfirmDelete.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Survey_ConfirmDelete.cfm
+END
+Survey_finish.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Survey_finish.cfm
+END
+Response_responses.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Response_responses.cfm
+END
+RespGroup_new.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/RespGroup_new.cfm
+END
+survey_setNonAnon.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/survey_setNonAnon.cfm
+END
+Category_listSurveyQuestions.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Category_listSurveyQuestions.cfm
+END
+Scale_whatValuesAdd.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Scale_whatValuesAdd.cfm
+END
+Survey_ConfirmDelAllResponse.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Survey_ConfirmDelAllResponse.cfm
+END
+RespGroup_delete.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/RespGroup_delete.cfm
+END
+Survey_Options.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ipra/!svn/ver/2/trunk/Admin/Surveys/Survey_Options.cfm
+END

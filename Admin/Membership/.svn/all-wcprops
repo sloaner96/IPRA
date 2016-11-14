@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ipra/!svn/ver/2/trunk/Admin/Membership
+END
+AgencySearch.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ipra/!svn/ver/2/trunk/Admin/Membership/AgencySearch.cfm
+END
+MembershipDetail.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ipra/!svn/ver/2/trunk/Admin/Membership/MembershipDetail.cfm
+END
+AddMbrID.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ipra/!svn/ver/2/trunk/Admin/Membership/AddMbrID.cfm
+END
+MbrSearch.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ipra/!svn/ver/2/trunk/Admin/Membership/MbrSearch.cfm
+END
+Board.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ipra/!svn/ver/2/trunk/Admin/Membership/Board.cfm
+END
+index.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ipra/!svn/ver/2/trunk/Admin/Membership/index.cfm
+END
+AgencyDetail.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ipra/!svn/ver/2/trunk/Admin/Membership/AgencyDetail.cfm
+END

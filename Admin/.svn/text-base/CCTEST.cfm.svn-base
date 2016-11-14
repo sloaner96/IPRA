@@ -1,0 +1,95 @@
+<HTML><HEAD>
+<META content="text/html; charset=windows-1252" http-equiv=Content-Type>
+<SCRIPT language=javascript>
+<!--
+//--- 05.16.00: Added the Unique order Number
+//--- Generate Unique Order Number
+//--- (use 000882895356 for testing) 
+function GenerateOrderNumber()
+ {
+  tmToday = new Date();
+  return tmToday.getTime();
+ }
+function StartOrder() 
+ {
+  document.AuthorizeAPI.accountnumber.focus();
+ }
+ 
+function BuyItem1()
+ {
+    AuthorizeAPI.submit();
+ }
+
+
+//-->
+</SCRIPT>
+<cfdump var="#Server#">
+<META content="Microsoft FrontPage 5.0" name=GENERATOR></HEAD>
+<BODY 
+onload="GenerateOrderNumber(); document.AuthorizeAPI.ordernumber.value = GenerateOrderNumber(); StartOrder();">
+<FORM action="CCTEST_action.cfm" method=post name=AuthorizeAPI>
+<!-- to use this form on production change your serial number and your post above from developer 000037211408 to www 000311376845 -->
+<FONT face=Verdana size=2>
+<INPUT name=orderstring type=hidden value=ItemNum~ItemDesc~0.00~1~N~||>
+</FONT> 
+<DIV align=center>
+<CENTER>
+<TABLE border=0 cellPadding=0 cellSpacing=0 width=400>
+
+  <TBODY>
+  <TR>
+    <TD colSpan=2 width=410>
+      <P align=center><INPUT name=B2 type=reset value=Reset></P></TD></TR>
+  <TR>
+    <TD colSpan=2 width=410>
+      <P align=center><FONT face=Verdana size=2><B>REQUIRED 
+      </B><B>VARIABLES:<BR></B></FONT><FONT face=Verdana size=1><I>(use the Tab 
+      key to cycle thru)</I></FONT></P></TD></TR>
+
+ <INPUT name=sjname type=hidden value=Customer>
+ <INPUT name=city type=hidden value=Cincinnati> 
+ <INPUT name=state type=hidden value=OH>
+ <INPUT name=shiptophone type=hidden value=8883688507>
+ <INPUT name=ordernumber type=hidden value=1>
+ <INPUT name=email type=hidden value=transaction@skipjack.com> 
+  <TR>
+    <TD width=178><FONT face=Verdana size=2>Credit Card Number:</FONT></TD>
+    <TD width=228><FONT face=Verdana size=2>
+
+    <INPUT maxLength=22 
+      name=accountnumber size=22 tabIndex=1 value="4003000123456781"></FONT></TD></TR>
+  <TR>
+    <TD width=178><FONT face=Verdana size=2>Expiration Month: (mm)</FONT></TD>
+    <TD width=220><FONT face=Verdana size=2><INPUT maxLength=2 name=month size=2 tabIndex=3 value="08"></FONT></TD></TR>
+  <TR>
+    <TD width=178><FONT face=Verdana size=2>Expiration 
+    Year:&nbsp;(yy)</FONT></TD>
+    <TD width=220><FONT face=Verdana size=2><INPUT maxLength=4 name=year size=2 tabIndex=4 value="09"></FONT></TD></TR>
+
+  <tr>
+    <TD width=178><font face="Verdana" size="2">Street Address</font></TD>
+    <TD width=220><FONT face=Verdana size=2><INPUT maxLength=25 name=streetaddress size=25 tabIndex=5 value="4"></FONT></TD>
+  </tr>
+  <tr>
+    <TD width=178><font face="Verdana" size="2">ZIP Code</font></TD>
+    <TD width=220><FONT face=Verdana size=2><INPUT maxLength=12 name=zipcode size=17 tabIndex=7 value="303292010"></FONT></TD>
+  </tr>
+
+  <tr>
+    <TD width=178></TD>
+    <TD width=220></TD>
+  </tr>
+  <TR>
+    <TD width=178><FONT face=Verdana size=2>Amount:&nbsp;</FONT></TD>
+    <TD width=220><FONT face=Verdana size=2><INPUT maxLength=8 name=transactionamount size=8 tabIndex=8 value="1.45"></FONT></TD></TR>
+  <TR>
+
+    <TD width=178><FONT face=Verdana size=2>Order Number:</FONT></TD>
+    <TD width=230><FONT face=Verdana size=2><INPUT maxLength=5 name=ordernumber size=25 tabIndex=9></FONT></TD></TR>
+  <TR>
+    <TD colSpan=2 width=410>
+      <P align=center><FONT face=Verdana size=2>
+      <input type="button" value="Submit" onClick="BuyItem1();">
+    </FONT></P></TD></TR></TBODY></TABLE></CENTER></DIV>
+<P><FONT face=Verdana size=2>
+<!-- END REQUIRED --></FONT></P></FORM></BODY></HTML>

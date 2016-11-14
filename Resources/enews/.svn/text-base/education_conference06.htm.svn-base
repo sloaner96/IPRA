@@ -1,0 +1,774 @@
+<html>
+<head>
+<title>2006 IAPD/IPRA Conference</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" background="Images/ltblueline.gif" link="#0000CC" vlink="#0000CC" alink="#0000CC" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="MM_preloadImages('Images/LisAndyfinalnavredocapsHI_r02_c2.gif','Images/finalhinav_r02_c3.gif','Images/finalhinav_r02_c4.gif','Images/finalhinav_r02_c5.gif','Images/finalhinav_r03_c6.gif','Images/finalhinav_r04_c6.gif','Images/finalhinav_r05_c6.gif','Images/finalhinav_r06_c6.gif','Images/finalhinav_r07_c6.gif','Images/finalhinav_r08_c6.gif','Images/finalhinav_r09_c6.gif','Images/finalhinav_r10_c6.gif','Images/finalhinav_r11_c6.gif','Images/finalhinav_r12_c6.gif')">
+<table width="83%" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr valign="top"> 
+    <td> 
+      <table border="0" cellspacing="0" cellpadding="0" align="center" width="641">
+        <tr> 
+          <td width="149" height="7"><img src="Images/lisandyredo/LisAndyredo_r01_c1.gif" width="148" height="8"></td>
+          <td colspan="4" height="7"><img src="Images/lisandyredo/LisAndyredo_r01_c2.gif" width="387" height="8"></td>
+          <td width="106" height="7"><img src="Images/lisandyredo/LisAndyredo_r01_c6.gif" width="106" height="8"></td>
+        </tr>
+        <tr> 
+          <td width="149"><img src="Images/lisandyredo/LisAndyredo_r02_c1.gif" width="148" height="58" usemap="default.asp#Map" border="0"><map name="Map"><area shape="rect" coords="0,24,119,70" href="default.asp"></map></td>
+          <td colspan="4" bgcolor="#99CCFF" background="Images/lisandyredo/LisAndyredo_r02_c2.gif"> 
+            <div align="center"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" width="375" height="54">
+                <param name=movie value="Images/programs.swf">
+                <param name=quality value=high>
+                <embed src="Images/programs.swf" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="375" height="54">
+                </embed> 
+              </object></div>
+          </td>
+          <td width="106"><img src="Images/lisandyredo/LisAndyredo_r02_c6.gif" width="106" height="58"></td>
+        </tr>
+        <tr> 
+          <td width="149" height="65"><img src="Images/lisandyredo/LAinside_r02_c1.gif" width="148" height="67" usemap="default.asp#Map2" border="0"><map name="Map2"><area shape="rect" coords="9,1,115,44" href="default.asp"></map></td>
+          <td width="92" height="65"><a href="about.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('about','','Images/LisAndyfinalnavredocapsHI_r02_c2.gif',1)"><img name="about" border="0" src="Images/LisAndyfinalnavredocaps_r02_c2.gif" width="92" height="67"></a></td>
+          <td width="109" height="65"><a href="membenefit.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('benefits','','Images/finalhinav_r02_c3.gif',1)"><img name="benefits" border="0" src="Images/finalnav_r02_c3.gif" width="109" height="67"></a></td>
+          <td width="104" height="65"><a href="newsroom.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('newsroom','','Images/finalhinav_r02_c4.gif',1)"><img name="newsroom" border="0" src="Images/finalnav_r02_c4.gif" width="104" height="67"></a></td>
+          <td width="82" height="65"><a href="eventcal.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('calendar','','Images/finalhinav_r02_c5.gif',1)"><img name="calendar" border="0" src="Images/finalnav_r02_c5.gif" width="82" height="67"></a></td>
+          <td width="106" height="65"><img src="Images/lisandyredo/leftnav_r02_c2.gif" width="106" height="67"></td>
+        </tr>
+        <tr> 
+          <td width="149" height="4"><img src="Images/lisandyredo/LAinside_r03_c1.gif" width="148" height="17"></td>
+          <td colspan="4" rowspan="3" valign="top"><img src="Images/Education.gif" width="387" height="58" name="inwelcome"></td>
+          <td width="106" height="4"><a href="programs.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('programs','','Images/finalhinav_r03_c6.gif',1)"><img name="programs" border="0" src="Images/finalnav_r03_c6.gif" width="106" height="17"></a></td>
+        </tr>
+        <tr> 
+          <td width="149"><img src="Images/lisandyredo/LAinside_r04_c1.gif" width="148" height="22"></td>
+          <td width="106"><a href="publicpolicy.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('policy','','Images/finalhinav_r04_c6.gif',1)"><img name="policy" border="0" src="Images/finalnav_r04_c6.gif" width="106" height="22"></a></td>
+        </tr>
+        <tr> 
+          <td background="Images/lisandyredo/LAinside_r05_c1.gif" rowspan="2" valign="top" width="149"> 
+            <table width="88%" align="right" height="130">
+              <tr> 
+                <td height="33"> 
+                  <div align="left"> <font face="Arial, Helvetica, sans-serif" size="1"><b> 
+                    </b></font></div>
+                </td>
+              </tr>
+              <tr> 
+                <td height="32"> 
+                  <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"></font></div>
+                </td>
+              </tr>
+              <tr> 
+                <td height="33"> 
+                  <p align="left"><b></b></p>
+                </td>
+              </tr>
+              <tr> 
+                <td height="33"> 
+                  <div align="left"><b></b></div>
+                </td>
+              </tr>
+              <tr>
+                <td height="33"><font size="1" face="Arial, Helvetica, sans-serif"><b> 
+                  </b></font></td>
+              </tr>
+              <tr>
+                <td height="44"><font face="Arial, Helvetica, sans-serif" size="1">&nbsp;</font></td>
+              </tr>
+            </table>
+            <div align="right"></div>
+          </td>
+          <td width="106"><a href="legalindex.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('legal','','Images/finalhinav_r05_c6.gif',1)"><img name="legal" border="0" src="Images/finalnav_r05_c6.gif" width="106" height="19"></a></td>
+        </tr>
+        <tr> 
+          <td colspan="4" align="left" valign="top" bgcolor="#FFFFFF"> 
+            <table width="99%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="43"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                    <script language="JavaScript">
+// Dynamic Date Dreamweaver Object (c) 1999 Michael West, webmaster@mwwebdesign.com
+// Please report any bugs or improvement suggestions.
+
+document.write("<font color='#000000' font size='1' font face='verdana'>")
+var mydate=new Date()
+var year=mydate.getYear()
+if (year<2000)
+year += (year < 1900) ? 1900 : 0
+var day=mydate.getDay()
+var month=mydate.getMonth()
+var daym=mydate.getDate()
+if (daym<10)
+daym="0"+daym
+var dayarray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
+var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
+document.write("&nbsp;"+dayarray[day]+", "+montharray[month]+" "+daym+", "+year+"&nbsp;")
+document.write("</b></i></font>")
+</script>
+                    </font> 
+                    <hr width="90%" size="1" align="center">
+                    <font face="Arial, Helvetica, sans-serif" size="2"> </font></div></td>
+              </tr>
+            </table>
+            <div align="center"><a name="top"></a> 
+              <table width="94%" border="0" cellpadding="0" cellspacing="3">
+                <tr valign="top"> 
+                  <td colspan="3"> <div align="center"> 
+                      <dl>
+                        <dt> 
+                          <div align="center"><font size="4" face="Arial, Helvetica, sans-serif"><strong><font color="#336666"><img src="Images/2006_conference_logo_small.jpg" width="150" height="133" align="left"> 
+                            <br>
+                            </font></strong></font> 
+                            <dl>
+                              <dt> 
+                                <div align="left"><font size="4" face="Arial, Helvetica, sans-serif"><strong><font color="#336666"><font color="#993333" size="5">2006 
+                                  IAPD/IPRA Conference</font></font></strong></font></div>
+                              </dt>
+                              <dd>&nbsp;</dd>
+                              <dt>&nbsp; </dt>
+                              <dd><font color="#993333"><font size="4" face="Arial, Helvetica, sans-serif"><strong><font size="3"> 
+                                January 26-28, 2006<br>
+                                The Hilton Chicago</font></strong></font></font></dd>
+                            </dl>
+                          </div>
+                        </dt>
+                      </dl>
+                      <p align="center"><strong><a href="https://www.ilipra.org/Events/EventRegister.cfm?EventID=462" target="_blank"><font color="#990000" size="3" face="Arial, Helvetica, sans-serif">Register 
+                        for Pre-Conference Workshops!</font></a></strong></p>
+                    </div></td>
+                </tr>
+                <tr> 
+                  <td width="49%" height="40" align="left" valign="middle"><font size="2" face="Arial, Helvetica, sans-serif"><a href="#registration">Registration 
+                    Information</a> </font></td>
+                  <td width="1%" rowspan="3" bgcolor="#0033CC"><font face="Arial, Helvetica, sans-serif">&nbsp;</font></td>
+                  <td width="49%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif"><a href="#hotel">Hotel 
+                      Information</a></font></div></td>
+                </tr>
+                <tr> 
+                  <td height="40" align="left" valign="middle"><font size="2" face="Arial, Helvetica, sans-serif"><a href="#events">Schedule 
+                    of Events</a></font></td>
+                  <td><div align="right"><font size="2" face="Arial, Helvetica, sans-serif"><a href="2006_preconference_brochure.pdf">Pre-Conference 
+                      Brochure<br>
+                      </a> </font><font color="#990000" size="3" face="Arial, Helvetica, sans-serif"><strong><font size="1">(PDF 
+                      file - please be patient)</font></strong></font></div></td>
+                </tr>
+                <tr> 
+                  <td height="40" align="left" valign="middle"><font size="2" face="Arial, Helvetica, sans-serif"><a href="aboutjntcom_mem.htm#jointconference" target="_blank">Conference 
+                    Committee Members</a></font></td>
+                  <td><div align="right"><font size="2" face="Arial, Helvetica, sans-serif"><a href="2006_conference_floor_layout.pdf" target="_blank">Exhibit 
+                      Hall Floor Plan</a></font></div></td>
+                </tr>
+                <tr> 
+                  <td height="40" align="left" valign="middle"><font size="2" face="Arial, Helvetica, sans-serif"><a href="https://www.ilparks.org/secure/conference_suggestion.htm" target="_blank">2006 
+                    Conference Suggestions on-line form</a></font></td>
+                  <td bgcolor="#0033CC"><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;</font></td>
+                  <td><font size="2" face="Arial, Helvetica, sans-serif"><a href="2007_conference_suggestion.pdf" target="_blank">2006 
+                    Conference Suggestions</a> <font color="#990000" size="1">(PDF 
+                    downloadable form)</font></font></td>
+                </tr>
+              </table>
+            </div>
+            <p align="left"><font size="2" face="Arial, Helvetica, sans-serif">Welcome 
+              and Greetings to All!</font></p>
+            <p align="left"><font size="2" face="Arial, Helvetica, sans-serif">&quot;Soaring 
+              to New Heights with Parks, Recreation and Conservation,&quot; is 
+              the theme of the 2006 IAPD/IPRA State Conference<em>.</em></font></p>
+            <p align="left"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              word &quot;soaring&quot; conjures images of the magnificent bald 
+              eagle - the living symbol of America's freedom, spirit and pursuit 
+              of excellence. Those of us in this wonderful field of parks, recreation 
+              and conservation share that same pursuit of excellence.</font></p>
+            <p align="left"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              IAPD/IPRA Annual Conference is &quot;the place&quot; to see that 
+              excellence in action. Thousands of parka nd recreation professionals, 
+              elected officials and students participate in hundreds of educational 
+              sessions packed with information on the hottest trends in the field. 
+              At this year's conference, you will find a remarkable line up of 
+              sessions that will feather your nest with information on everything 
+              from construction and grant writing to legal issues and technology. 
+              At our pre-conference workshops, earn CEUs and learn how to make 
+              your agency run more smoothly and more profitably. And remember 
+              that &quot;birds of a feather flock together,&quot; so take the 
+              time to catch up with old friends and make some new ones along the 
+              way.</font></p>
+            <p align="left"><font size="2" face="Arial, Helvetica, sans-serif">Spread 
+              your wings and prepare to take flight! We can't wait to see you 
+              &quot;Soaring to New Heights with Parks, Recreation and Conservation&quot; 
+              at the 2006 IAPD/IPRA Conference in Chicago.</font><a name="registration"></a> 
+            </p>
+            <hr>
+            <p><strong><font size="2" face="Arial, Helvetica, sans-serif">Registration 
+              Information:<br>
+              </font></strong><font size="2" face="Arial, Helvetica, sans-serif">The 
+              registration deadline is January 9, 2006. However, you will be able 
+              to register at the conference. The conference registration desk 
+              at The Hilton Chicago will be open during the following hours:</font></p>
+            <ul>
+              <li><font size="2" face="Arial, Helvetica, sans-serif">Thursday, 
+                January 26: 7:30 a.m. - 6:00 p.m.</font></li>
+              <li><font size="2" face="Arial, Helvetica, sans-serif">Friday, January 
+                27: 7:30 a.m. - 4:30 p.m.</font></li>
+              <li><font size="2" face="Arial, Helvetica, sans-serif">Saturday, 
+                January 28: 7:30 a.m. - 11:30 a.m.</font></li>
+            </ul>
+            <p><font size="2" face="Times New Roman, Times, serif"><a name="hotel"></a></font> 
+            </p>
+            <hr>
+            <p align="left"><font color="#993333" size="3" face="Arial, Helvetica, sans-serif"><strong>Hotel 
+              Information:</strong></font><font color="#003399" size="2" face="Arial, Helvetica, sans-serif"></font></p>
+            <table width="98%" border="1" cellpadding="0" bordercolor="#003399">
+              <tr> 
+                <td height="493" valign="top"> 
+                  <table width="99%" height="496" border="0" align="center" cellpadding="0">
+                    <tr bgcolor="#003399"> 
+                      <td align="left" valign="top"> 
+                        <p align="center"><font color="#FFFFFF" size="2" face="Times New Roman, Times, serif"><strong><font size="3" face="Arial, Helvetica, sans-serif"><img src="Images/hilton_photo.jpg" width="175" height="112" align="left">The 
+                          Hilton Chicago</font></strong></font></p>
+                        <p align="left"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><strong> 
+                          720 S. Michigan Avenue<br>
+                          Chicago, IL 60605</strong></font></p>
+                        <p><font face="Arial, Helvetica, sans-serif"><strong><font color="#FFFFFF" size="2">Telephone: 
+                          312.922.4400</font></strong></font></p>
+                        <p align="center"><a href="http://www.hilton.com/en/hi/groups/private_groups/chichhh_iap/index.jhtml" target="_blank"><font color="#FFFFFF" size="3" face="Arial, Helvetica, sans-serif"><strong>Make 
+                          reservations on-line!</strong></font></a></p>
+                        <p><font color="#FFFFFF" size="2" face="Times New Roman, Times, serif"><strong><font color="#66CC00" face="Arial, Helvetica, sans-serif">Rates:</font><font size="3"><br>
+                          </font> <font face="Arial, Helvetica, sans-serif">$112/ 
+                          single; $112/double; $122/triple; $132 quad</font></strong></font></p>
+                        <p><font face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="2">One 
+                          (1) night's room and tax advance deposit by check or 
+                          credit card must accompany each reservation. This deposit 
+                          is fully refundable if cancellation is made before December 
+                          5, 2005. After this date there will be no refunds for 
+                          canceled rooms.</font></font></p>
+                        <p><font face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="2">Rooms 
+                          are reserved on a first-come, first-served basis. The 
+                          cut off date for reservations is January 3, 2006. After 
+                          this date, reservations may pay a higher hotel rate.</font></font></p>
+                        <p><font color="#66CC00" size="2" face="Arial, Helvetica, sans-serif"><strong>Suites:</strong></font></p>
+                        <p><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif">Individuals, 
+                          agencies or exhibitors interested in reserving a suite 
+                          must contact the IAPD first at 847/496-4449. Forty-eight 
+                          hours after IAPD has given approval, you must contact 
+                          the respective hotel directly.</font></p>
+                        </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+            <p>&nbsp;</p>
+            <table width="97%" height="553" border="1" align="center" cellpadding="0" bordercolor="#003399">
+              <tr> 
+                <td height="547"> 
+                  <table width="99%" height="511" border="0" align="right" cellpadding="0" bordercolor="#003399">
+                    <tr bgcolor="#003399"> 
+                      <td align="left" valign="top" bordercolor="1"> 
+                        <p align="center"><font color="#FFFFFF" size="2" face="Times New Roman, Times, serif"><strong><font size="3" face="Arial, Helvetica, sans-serif"><img src="Images/palmer_house.jpg" width="175" height="112" align="left">The 
+                          Palmer House Hilton</font></strong></font></p>
+                        <p><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><strong> 
+                          17 E. Monroe Street<br>
+                          Chicago, IL 60603</strong></font></p>
+                        <p><font face="Arial, Helvetica, sans-serif"><strong><font color="#FFFFFF" size="2">Telephone: 
+                          312-726-7500</font></strong></font></p>
+                        <p align="center"><strong><font color="#FFFFFF" size="2" face="Times New Roman, Times, serif"><a href="http://www.hilton.com/en/hi/groups/private_groups/chiphhh_iap/index.jhtml" target="_blank"><font color="#FFFFFF" size="3" face="Arial, Helvetica, sans-serif"><strong>Make 
+                          reservations on-line!</strong></font></a><br>
+                          </font></strong> </p>
+                        <p><font color="#FFFFFF" size="2" face="Times New Roman, Times, serif"><strong><font color="#66CC00" face="Arial, Helvetica, sans-serif">Rates:</font><font face="Arial, Helvetica, sans-serif"><br>
+                          $112/ single; $112/double; $122 triple; $132 quad</font></strong></font></p>
+                        <p><font face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="2">One 
+                          (1) night's room and tax advance deposit by check or 
+                          credit card must accompany each reservation. This deposit 
+                          is fully refundable if cancellation is made before December 
+                          5, 2005. After this date there will be no refunds for 
+                          canceled rooms.</font></font></p>
+                        <p><font face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="2">Rooms 
+                          are reserved on a first-come, first-served basis. The 
+                          cut off date for reservations is January 3, 2006. After 
+                          this date, reservations may pay a higher hotel rate.</font></font></p>
+                        <p><font size="2" face="Arial, Helvetica, sans-serif"><strong><font color="#66CC00">Shuttle 
+                          Service :</font></strong></font></p>
+                        <p><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif">Complimentary 
+                          shuttle service to and from the Palmer House Hilton 
+                          and the Hilton Chicago will be available:</font></p>
+                        <p><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif">Thursday, 
+                          Jan 26&#8212;8:00 a.m. - 6:30 p.m.<br>
+                          Friday, Jan 27&#8212;7:30 a.m. - 7:00 p.m.<br>
+                          Saturday, Jan 28&#8212;8:30 a.m. - 5:45 p.m.</font></p>
+                        </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+            <p align="left">&nbsp;</p>
+            <hr> 
+            <div align="right"><font size="1"><a href="#top">Back to Top</a> </font></div>
+            <table width="97%" border="0" align="center" cellpadding="0">
+              <tr> 
+                <td height="51" colspan="2" align="left" valign="middle"> <p><font size="1"><a name="events"></a></font><font color="#003399" size="3" face="Arial, Helvetica, sans-serif"><strong>Schedule 
+                    of Events</strong></font></p></td>
+              </tr>
+              <tr align="left" valign="middle" bgcolor="#003399"> 
+                <td height="26" colspan="2"> <div align="center"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><strong>Thursday, 
+                    January 26</strong></font><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;</font></div></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td width="33%"><font size="2" face="Arial, Helvetica, sans-serif">7:30 
+                  am - 6:00 pm</font></td>
+                <td width="67%"><font size="2" face="Arial, Helvetica, sans-serif">Registration 
+                  Desk Open</font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td><font size="2" face="Arial, Helvetica, sans-serif">8:30 am 
+                  - Noon</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">Pre-Conference 
+                  Workshops</font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td><font size="2" face="Arial, Helvetica, sans-serif">11:45 am 
+                  - 3:30 pm</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">Office 
+                  Support Workshop &amp; Luncheon</font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td><font size="2" face="Arial, Helvetica, sans-serif">1:00 pm 
+                  - 4:30 pm</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">Pre-Conference 
+                  Workshops</font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td><font size="2" face="Arial, Helvetica, sans-serif">2:00 pm 
+                  - 6:00 pm</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">Grand Opening 
+                  of Exhibit Hall</font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td><font size="2" face="Arial, Helvetica, sans-serif">5:30 pm 
+                  - 6:30 pm</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">Professional 
+                  Connection - Student and Professional Networking Opportunity</font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td><font size="2" face="Arial, Helvetica, sans-serif">6:30 pm 
+                  - 12:30 am</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">University 
+                  &amp; Affiliate Hospitalities</font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td height="34"><font size="2" face="Arial, Helvetica, sans-serif">9:00 
+                  pm - Midnight</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">Thursday 
+                  Evening Social with <br>
+                  <em>BIG FUN</em>- Enjoy the music and dancing</font></td>
+              </tr>
+              <tr align="left" valign="top" bgcolor="#003399"> 
+                <td height="26" colspan="2" valign="middle"> <div align="center"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><strong>Friday, 
+                    January 27</strong></font></div></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td><font size="2" face="Arial, Helvetica, sans-serif">7:30 am 
+                  - 4:30 pm</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">Registration 
+                  Desk Open</font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td><font size="2" face="Arial, Helvetica, sans-serif">8:00 am 
+                  - 9:15 am</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">Educational 
+                  Sessions</font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td><font size="2" face="Arial, Helvetica, sans-serif">8:45 am 
+                  - 10:45 am</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">CEU Workshops</font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td><font size="2" face="Arial, Helvetica, sans-serif">9:00 am 
+                  - 11:30 am</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">Exhibit 
+                  Hall Open</font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td><font size="2" face="Arial, Helvetica, sans-serif">9:30 am 
+                  - 10:45 am</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">Educational 
+                  Sessions</font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td><font size="2" face="Arial, Helvetica, sans-serif">11:00 am 
+                  - 11:45 am</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">Opening 
+                  Session with Joel Zeff</font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td><font size="2" face="Arial, Helvetica, sans-serif">12:00 pm 
+                  - 2:15 pm</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">All-Conference 
+                  Luncheon &amp; Awards Show</font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td><font size="2" face="Arial, Helvetica, sans-serif">12:00 pm 
+                  - 1:30 pm</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">Student 
+                  Luncheon</font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td><font size="2" face="Arial, Helvetica, sans-serif">1:30 pm 
+                  - 5:00 pm</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">Exhibit 
+                  Hall Open</font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td><font size="2" face="Arial, Helvetica, sans-serif">2:45 pm 
+                  - 4:00 pm</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">Educational 
+                  Sessions</font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td><font size="2" face="Arial, Helvetica, sans-serif">3:00 pm 
+                  - 5:00 pm</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">CEU Workshops</font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td><font size="2" face="Arial, Helvetica, sans-serif">4:15 pm 
+                  - 5:30 pm</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">Educational 
+                  Sessions </font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td><font size="2" face="Arial, Helvetica, sans-serif">5:30 pm 
+                  - 6:30 pm</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">IPRA Annual 
+                  Business Mtg.</font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td><font size="2" face="Arial, Helvetica, sans-serif">5:45 pm 
+                  - 7:00 pm</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">IAPD Commissioner 
+                  Reception</font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td><font size="2" face="Arial, Helvetica, sans-serif">6:30 pm 
+                  - 9:00 pm</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">Affiliate 
+                  / University Hospitalities</font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td height="26" colspan="2" valign="middle" bgcolor="#003399"> 
+                  <div align="center"><font color="#FFFFFF" size="3" face="Arial, Helvetica, sans-serif"><strong>Saturday, 
+                    January 28</strong></font></div></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td><font size="2" face="Arial, Helvetica, sans-serif">7:30 am 
+                  - 11:30 am</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">Registration 
+                  Desk Open</font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td><font size="2" face="Arial, Helvetica, sans-serif">9:00 am 
+                  - 10:00 am</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">Breakfast 
+                  in Exhibit Hall</font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td><font size="2" face="Arial, Helvetica, sans-serif">9:00 am 
+                  - 11:00 am</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">Exhibit 
+                  Hall Open</font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td><font size="2" face="Arial, Helvetica, sans-serif">10:00 am 
+                  - 11:15 am</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">Educational 
+                  Sessions</font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td height="16"><font size="2" face="Arial, Helvetica, sans-serif">10:00 
+                  am - Noon</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">CEU Workshops</font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td><font size="2" face="Arial, Helvetica, sans-serif">11:30 am 
+                  - 12:45 pm</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">Educational 
+                  Sessions</font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td height="15"><font size="2" face="Arial, Helvetica, sans-serif">1:00 
+                  pm - 2:15 pm</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">Educational 
+                  Sessions </font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td><font size="2" face="Arial, Helvetica, sans-serif">1:00 pm 
+                  - 3:00 pm</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">CEU Workshops</font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td><font size="2" face="Arial, Helvetica, sans-serif">2:30 pm 
+                  - 3:45 pm</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">Educational 
+                  Sessions </font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td><font size="2" face="Arial, Helvetica, sans-serif">4:00 pm 
+                  - 5:30 pm</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">IAPD Annual 
+                  Business Mtg</font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td><font size="2" face="Arial, Helvetica, sans-serif">7:00 pm 
+                  - 9:30 pm</font></td>
+                <td><font size="2" face="Arial, Helvetica, sans-serif">Closing 
+                  Event at <em>ESPN Zone</em></font></td>
+              </tr>
+            </table>
+            <p align="center"><font color="#003399" size="3" face="Arial, Helvetica, sans-serif"><strong>Thank 
+              you to the sponsors of the<br>
+              2006 IAPD/IPRA Annual Conference!</strong></font> </p>
+            <table width="98%" border="0">
+              <tr> 
+                <td><div align="center"><a href="http://www.wtengineering.com/" target="_blank"><img src="Images/wt_engineering_logo.jpg" width="127" height="89" border="0"></a></div></td>
+                <td><div align="center"><font size="2" face="Arial, Helvetica, sans-serif">Exhibit 
+                    Hall Grand Opening Reception Sponsor: <br>
+                    W -T Engineering, Inc.</font></div></td>
+              </tr>
+              <tr> 
+                <td><div align="center"><a href="http://www.ipdlaf.org" target="_blank"><img src="Images/ipdlaf_logo.gif" width="119" height="119" border="0"></a></div></td>
+                <td><div align="center"><font size="2" face="Arial, Helvetica, sans-serif">Conference 
+                    Badge Holders Sponsor: Illinois Park District Liquid Asset 
+                    Fund +</font></div></td>
+              </tr>
+              <tr> 
+                <td height="66">
+<div align="center"><a href="http://www.icsadvantage.com" target="_blank"><img src="Images/ics_logo.gif" width="118" height="44" border="0"></a></div></td>
+                <td><div align="center"><font size="2" face="Arial, Helvetica, sans-serif">Cyber 
+                    Caf&eacute; Sponsor:<br>
+                    ICS Advantage</font></div></td>
+              </tr>
+            </table>
+            <p><font size="3" face="Arial, Helvetica, sans-serif"><a href="http://ilipra.org/forms/confsponsorship06.pdf" target="_blank">Click 
+              here to view Sponsorships currently available for the 2006 conference.</a></font></p>
+            <hr align="center" width="90%" size="1" color="000099"> <p align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#006633"><b>&#149;</b></font> 
+              <font face="Arial, Helvetica, sans-serif" size="2"><a href="mailto:iapd@ILparks.org">E-MAIL 
+              US</a></font><font face="Arial, Helvetica, sans-serif" size="1" color="#006633"><b> 
+              &#149;</b></font> <font face="Arial, Helvetica, sans-serif" size="2"> 
+              <a href="https://www.ilparks.org/secure/feedback.htm">FEEDBACK </a></font><font face="Arial, Helvetica, sans-serif" size="1" color="#006633"><b> 
+              &#149;</b></font><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              </font><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF"><b><font color="#000000">Illinois 
+              Association of Park Districts </font><font face="Arial, Helvetica, sans-serif" size="1" color="#006633"><br>
+              </font> <font color="#000000"> 211 E. Monroe Street </font><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF"><b><font color="#000000">Springfield, 
+              IL 62701-1186</font></b></font></b></font><font face="Arial, Helvetica, sans-serif" size="2"> 
+              <br>
+              </font><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF"><b><font color="#000000"> 
+              phone (217) 523-4554 </font><font face="Arial, Helvetica, sans-serif" size="1" color="#006633"><b>&#149;</b></font><font color="#000000"> 
+              fax (217) 523-4273</font></b></font><font face="Arial, Helvetica, sans-serif" size="2"> 
+              <br>
+              </font></p>
+            <p align="center"><font face="Arial, Helvetica, sans-serif" size="1">&#149; 
+              <a href="javascript:history.back()"> BACK</a> &#149;</font> </p>
+            <p></p>
+            <p></p>
+            <table width="95%" border="0" cellspacing="0" cellpadding="0" align="center">
+              <tr> 
+                <td> <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#000000">&copy; 
+              2003 Illinois Association of Park Districts<br>
+              All Rights Reserved</font></div></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top" background="Images/lisandyredo/rtbg.gif" width="106"> 
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td><a href="education.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('education','','Images/finalhinav_r06_c6.gif',1)"><img name="education" border="0" src="Images/finalnav_r06_c6.gif" width="106" height="25"></a></td>
+              </tr>
+              <tr> 
+                <td><a href="publication.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('publications','','Images/finalhinav_r07_c6.gif',1)"><img name="publications" border="0" src="Images/finalnav_r07_c6.gif" width="106" height="21"></a></td>
+              </tr>
+              <tr> 
+                <td><a href="research.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('research','','Images/finalhinav_r08_c6.gif',1)"><img name="research" border="0" src="Images/finalnav_r08_c6.gif" width="106" height="26"></a></td>
+              </tr>
+              <tr> 
+                <td><a href="ILParks.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('ILParks','','Images/finalhinav_r09_c6.gif',1)"><img name="ILParks" border="0" src="Images/finalnav_r09_c6.gif" width="106" height="18"></a></td>
+              </tr>
+              <tr> 
+                <td><a href="mboard.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('messageboard','','Images/finalhinav_r10_c6.gif',1)"><img name="messageboard" border="0" src="Images/finalnav_r10_c6.gif" width="106" height="23"></a></td>
+              </tr>
+              <tr> 
+                <td><a href="about.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('inwelcome','','Images/storeswap2.gif','iapdstore','','Images/finalhinav_r11_c6.gif',1)"><img name="iapdstore" border="0" src="Images/finalnav_r11_c6.gif" width="106" height="20"></a></td>
+              </tr>
+              <tr> 
+                <td><a href="links.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('links','','Images/finalhinav_r12_c6.gif',1)"><img name="links" border="0" src="Images/finalnav_r12_c6.gif" width="106" height="23"></a></td>
+              </tr>
+              <tr> 
+                <td> 
+                  <form method="GET" action="Search/query.idq">
+                    <table width="90%" border="0" cellspacing="0" cellpadding="0" align="center">
+                      <tr valign="top"> 
+                        <td> 
+                          <div align="right"> 
+                            <table width="90%" border="0" cellspacing="0" cellpadding="0" align="center">
+                              <tr> 
+                                <td><img src="Images/lisandyredo/search.gif" width="106" height="20"></td>
+                              </tr>
+                              <tr align="center" valign="middle"> 
+                                <td> 
+                                  <div align="right"> 
+                                    <p align="center"><br>
+                                      <input type="submit" value="Search" name="submit">
+                                    </p>
+                                    <p align="center"> 
+                                      <input type="text" name="CiRestriction" size="9" maxlength="100">
+                                      <input type="HIDDEN" name="CiScope" value="/">
+                                      <input type="HIDDEN" name="CiMaxRecordsPerPage" value="10">
+                                      <input type="HIDDEN" name="TemplateName" value="query">
+                                      <input type="HIDDEN" name="CiSort" value="rank[d]">
+                                      <input type="HIDDEN" name="HTMLQueryForm" value="/defualt.asp">
+                                    </p>
+                                  </div>
+                                </td>
+                              </tr>
+                            </table>
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+                  </form>
+                </td>
+              </tr>
+              <tr background="Images/lisandyredo/rtbg.gif"> 
+                <td></td>
+              </tr>
+            </table>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <table width="95%" border="0" align="right" cellpadding="0" cellspacing="0">
+              <tr> 
+                <td height="37"> 
+                  <div align="right"><a href="http://www.activeparks.org"><img src="Images/nrpa.gif" width="90" height="31" border="0"></a></div>
+                </td>
+              </tr>
+              <tr> 
+                <td> 
+                  <div align="right"><a href="http://www.il-ipra.org/"><img src="Images/IPRA.jpg" width="90" height="35" border="0"></a></div>
+                </td>
+              </tr>
+            </table>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

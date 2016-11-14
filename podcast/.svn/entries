@@ -1,0 +1,52 @@
+8
+
+dir
+2
+http://svn.x2interweb.net/svn/ipra/trunk/podcast
+http://svn.x2interweb.net/svn/ipra
+
+
+
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+139329b2-1eba-436e-9e6a-ea0a2bdd368c
+
+podcast.cfm
+file
+
+
+
+
+2007-06-27T00:45:19.112619Z
+b4413e81424f4c198594a49fb21d6688
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+podcast.xml
+file
+
+
+
+
+2007-06-27T00:45:19.143869Z
+77b60f2342501e243abe9bb744a41fe7
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+

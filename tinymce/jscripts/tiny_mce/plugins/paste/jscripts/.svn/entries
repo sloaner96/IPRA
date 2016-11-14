@@ -1,0 +1,52 @@
+8
+
+dir
+2
+http://svn.x2interweb.net/svn/ipra/trunk/tinymce/jscripts/tiny_mce/plugins/paste/jscripts
+http://svn.x2interweb.net/svn/ipra
+
+
+
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+139329b2-1eba-436e-9e6a-ea0a2bdd368c
+
+pasteword.js
+file
+
+
+
+
+2007-06-27T00:45:47.519050Z
+de089568ebe372442bb9961998e83994
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+pastetext.js
+file
+
+
+
+
+2007-06-27T00:45:47.550301Z
+f706276ad6ee44b664b93bb429c42d7a
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+

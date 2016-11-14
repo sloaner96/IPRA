@@ -1,0 +1,175 @@
+  td {font-family: verdana, arial, times new roman; 
+	  font-size:11px; 
+	  color:#000000; 
+   
+  }
+  h3 {
+      font-family: arial, verdana, times new roman; 
+	  font-size:18px; 
+	  color:#003366; 
+	  font-weight:bold;
+  }
+    h4 {
+      font-family: tahoma, arial, verdana, times new roman; 
+	  font-size:14px; 
+	  color:#336699; 
+	  font-weight:bold;
+  }
+  .logininput {
+      border: 1px;
+      font-family:verdana;
+	   font-size:12px;
+  } 
+  .footer{
+      font-family: verdana, arial, times new roman; 
+	  font-size:9px;
+  }
+  .rememberme{
+      font-family: verdana, arial, times new roman; 
+	  font-size:9px;
+	  color:#ffffff;
+  }
+  .navtext{
+      font-family: verdana, arial, times new roman; 
+	  font-size:11px; 
+	  color:#000099; 
+	  font-weight:bold;
+  }
+  .topnav{
+      font-family: tahoma, verdana, arial, times new roman; 
+	  font-size:10px; 
+	  color:#6699cc;
+  }
+  .ipratopnav{
+  	  font-family: verdana, arial;
+	  font-size:11px;
+	  color:#6699cc;
+	  }
+  .logout{
+      font-family: tahoma, verdana, arial, times new roman; 
+	  font-size:10px; 
+	  color:#990000;
+  }
+  .calendar_table {
+	font-family: verdana, arial, sans-serif; 
+	font-size: 10px;
+	text-align: center;
+	padding: 2px;
+	line-height: 12px;
+}
+.calendarlink {
+    font-family: verdana, arial, sans-serif; 
+	font-size: 10px;
+	text-align: center;
+	color: #000000;
+	padding: 2px;
+	line-height: 12px;
+	text-decoration:underline;
+}
+.calendar_today {
+	background-color: #e6eff7;
+}
+
+.calendartop {
+	font-family: verdana, arial, sans-serif; 
+	font-size: 12px;
+	text-align: center;
+	padding: 2px;
+	line-height: 12px;
+	color:#006699 ;
+}
+}
+  .Newsdate {
+  	  font-family: verdana, arial, times new roman;
+  	  font-size:12px;
+  	  color: #cea004;
+	  font-weight : bold;
+  }
+  .Newshead {
+  	  font-family: verdana, arial, times new roman;
+  	  font-size:12px;
+  	  weight:strong;
+  	  color:#006699;
+  	  font-weight : bold;
+  }
+  .missionstatement {
+      font-family: tahoma, verdana, arial, times new roman;
+  	  font-size:11px;
+  } 
+  .newsTitle{
+	  font-family: verdana, arial, times new roman;
+	  font-size:12px;
+	  color:#99cc99;
+	  font-weight:bold;
+  }
+  .NewsText {
+      font-family: verdana, arial, tahoma; 
+	  font-size:11px;
+	  
+  }	  
+  .NewsMore {
+      font-family: verdana, arial, tahoma; 
+	  font-size:11px; 	  
+  }
+  .secnav {
+      font-family: tahoma, verdana, arial, times new roman;
+	  font-size:12px;
+	  color:#006699;
+	  font-weight:bold; 
+	  text-decoration:none;
+  }		
+  .secnav:hover {
+      font-family: tahoma, verdana, arial, times new roman;
+	  font-size:12px;
+	  color:#006699;
+	  font-weight:bold; 
+  }		
+  .sec-nav {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-SIZE: 11px; BACKGROUND-IMAGE: url(/images/sec_nav_bkgd.gif); PADDING-BOTTOM: 5px; COLOR: #666666; PADDING-TOP: 5px; FONT-FAMILY: Arial, Verdana, sans-serif; TEXT-DECORATION: none
+		}
+		.sec-nav A {
+			COLOR: #666666; TEXT-DECORATION: none
+		}
+		.sec-nav-on {
+			PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-WEIGHT: 600; FONT-SIZE: 11px; BACKGROUND-IMAGE: url(/imagesv/sec_nav_bkgd.gif); PADDING-BOTTOM: 5px; COLOR: #666666; PADDING-TOP: 5px; FONT-FAMILY: Arial, Verdana, sans-serif; TEXT-DECORATION: none
+		}
+		.sec-nav-on A {
+			COLOR: #666666; TEXT-DECORATION: none
+		}
+		.tert-nav {
+			PADDING-RIGHT: 10px; PADDING-LEFT: 20px; FONT-SIZE: 11px; PADDING-BOTTOM: 3px; COLOR: #666666; PADDING-TOP: 3px; FONT-FAMILY: Arial, Verdana, sans-serif; TEXT-DECORATION: none
+		}
+		.tert-nav A {
+			COLOR: #666666; TEXT-DECORATION: none
+		}
+		.tert-nav-on {
+			PADDING-RIGHT: 10px; PADDING-LEFT: 20px; FONT-WEIGHT: 600; FONT-SIZE: 11px; PADDING-BOTTOM: 3px; COLOR: #666666; PADDING-TOP: 3px; FONT-FAMILY: Arial, Verdana, sans-serif; TEXT-DECORATION: none
+		}
+		.tert-nav-on A {
+			COLOR: #666666; TEXT-DECORATION: none
+		}
+  .regtext{
+      font-family: verdana, arial, times new roman; 
+	  font-size:11px; 
+  }
+  .MbrConfirmtxt {
+      font-family: tahoma, verdana, arial, times new roman; 
+	  font-size:12px; 
+	  color:#333399;
+  } 
+    .privacytext{
+      font-family: arial, verdana, times new roman; 
+	  font-size:14px; 
+  }
+  .errorText {
+       font-family: Verdana,Geneva,Arial,Helvetica,sans-serif; 
+	   font-size:10px; 
+	   color:#cc0000;
+	   font-weight:bold; 
+  }
+  .errorhead {
+       font-family: Verdana,Geneva,Arial,Helvetica,sans-serif; 
+	   font-size:14px;
+	   font-weight:bold; 
+	   color:#cc0000;
+  }		

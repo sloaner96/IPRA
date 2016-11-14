@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/ipra/!svn/ver/2/trunk/Admin
+END
+CreateCollection.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ipra/!svn/ver/2/trunk/Admin/CreateCollection.cfm
+END
+Test.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/ipra/!svn/ver/2/trunk/Admin/Test.cfm
+END
+Updatenews.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ipra/!svn/ver/2/trunk/Admin/Updatenews.cfm
+END
+CreateSchedule.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ipra/!svn/ver/2/trunk/Admin/CreateSchedule.cfm
+END
+RunSchedule.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ipra/!svn/ver/2/trunk/Admin/RunSchedule.cfm
+END
+EditNews.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ipra/!svn/ver/2/trunk/Admin/EditNews.cfm
+END
+CCTEST_action.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ipra/!svn/ver/2/trunk/Admin/CCTEST_action.cfm
+END
+CCTEST.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ipra/!svn/ver/2/trunk/Admin/CCTEST.cfm
+END
+AddNews.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ipra/!svn/ver/2/trunk/Admin/AddNews.cfm
+END
+ProcessMaster_action.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ipra/!svn/ver/2/trunk/Admin/ProcessMaster_action.cfm
+END
+banners.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ipra/!svn/ver/2/trunk/Admin/banners.cfm
+END
+ProcessMaster.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ipra/!svn/ver/2/trunk/Admin/ProcessMaster.cfm
+END
+UpdateCeus_action.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ipra/!svn/ver/2/trunk/Admin/UpdateCeus_action.cfm
+END
+Sql.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/ipra/!svn/ver/2/trunk/Admin/Sql.cfm
+END
+SearchNews.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ipra/!svn/ver/2/trunk/Admin/SearchNews.cfm
+END
+UpdateCeus.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ipra/!svn/ver/2/trunk/Admin/UpdateCeus.cfm
+END
+Agency.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ipra/!svn/ver/2/trunk/Admin/Agency.cfm
+END
+Articles.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ipra/!svn/ver/2/trunk/Admin/Articles.cfm
+END
+index.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ipra/!svn/ver/2/trunk/Admin/index.cfm
+END
+Login.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ipra/!svn/ver/2/trunk/Admin/Login.cfm
+END
+Updatebanner.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ipra/!svn/ver/2/trunk/Admin/Updatebanner.cfm
+END
+AuditLog.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ipra/!svn/ver/2/trunk/Admin/AuditLog.cfm
+END
+Altertbl.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ipra/!svn/ver/2/trunk/Admin/Altertbl.cfm
+END
+logout.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ipra/!svn/ver/2/trunk/Admin/logout.cfm
+END
+authorize.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ipra/!svn/ver/2/trunk/Admin/authorize.cfm
+END

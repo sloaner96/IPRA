@@ -1,0 +1,20 @@
+
+
+<cfmodule template="/IPRA/skipjackHTTP.cfm"
+     Server = "#application.sysinfo.SysURL#" 
+				SJName = "#Form.sjname#" 
+				Email = "#Form.Email#"
+				StreetAddress = "#Form.StreetAddress#" 
+				City = "#Form.City#" 
+				State = "#Form.State#" 
+				Zipcode = "#Form.Zipcode#" 
+				OrderNumber = "#form.orderNumber#" 
+				AccountNumber = "#Form.accountnumber#" 
+				Month = "#Form.Month#" 
+				Year = "#Form.Year#" 
+				SerialNumber = "#application.sysinfo.SerialNumber#" 
+				Transactionamount = "#Form.Transactionamount#" 
+				OrderString = "1~Black Cartridge~2.00~2~Y~||2~Color Cartridge~3.00~1~Y~||" 
+				ShipToPhone = "512-588-2100">
+
+<cfdump var="#SJResponse#">

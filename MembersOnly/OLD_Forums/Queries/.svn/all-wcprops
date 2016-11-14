@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/OLD_Forums/Queries
+END
+qry_topics.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/OLD_Forums/Queries/qry_topics.cfm
+END
+qry_message.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/OLD_Forums/Queries/qry_message.cfm
+END
+qry_topicRecentMessage.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/OLD_Forums/Queries/qry_topicRecentMessage.cfm
+END
+qry_recentMessage.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/OLD_Forums/Queries/qry_recentMessage.cfm
+END
+qry_threadMessageCount.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/OLD_Forums/Queries/qry_threadMessageCount.cfm
+END
+qry_messages.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/OLD_Forums/Queries/qry_messages.cfm
+END
+qry_thread.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/OLD_Forums/Queries/qry_thread.cfm
+END
+qry_recentThread.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/OLD_Forums/Queries/qry_recentThread.cfm
+END
+qry_threads.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/OLD_Forums/Queries/qry_threads.cfm
+END
+qry_topicMessageCount.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/OLD_Forums/Queries/qry_topicMessageCount.cfm
+END
+qry_topic.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/OLD_Forums/Queries/qry_topic.cfm
+END
+qry_user.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/OLD_Forums/Queries/qry_user.cfm
+END
+qry_topicThreadCount.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ipra/!svn/ver/2/trunk/MembersOnly/OLD_Forums/Queries/qry_topicThreadCount.cfm
+END

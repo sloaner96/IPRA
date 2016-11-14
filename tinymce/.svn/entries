@@ -1,0 +1,61 @@
+8
+
+dir
+2
+http://svn.x2interweb.net/svn/ipra/trunk/tinymce
+http://svn.x2interweb.net/svn/ipra
+
+
+
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+139329b2-1eba-436e-9e6a-ea0a2bdd368c
+
+jscripts
+dir
+
+changelog
+file
+
+
+
+
+2007-06-27T00:46:01.159763Z
+623b0ef7bd198cf74aff6590ed554455
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+docs
+dir
+
+readme
+file
+
+
+
+
+2007-06-27T00:46:01.191013Z
+4c50cdc0aab5024e4d84aefe193540a7
+2007-06-27T00:43:04.380571Z
+2
+richsloan
+
+examples
+dir
+
